@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NRNA CHIBA FESTIVAL 2024</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="css/style.css" rel="stylesheet" />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
+
+    <link rel="icon" type="image/x-icon" href="img/favicon.ico">
+
+    <!-- Cropper.js CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/cropperjs/dist/cropper.min.css">
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <main>
+        <header>
+            <div class="logo">
+                <img src="logo.png" alt="NRNA Chiba Festival Logo" />
+            </div>
+        </header>
+
+        <h1>एनआरएनए चिबा नेपाल फेस्टिवल २०२४</h1>
+        <div class="description">
+            यो NRNA चिबा को फेस्टिवल को डिजाइन बनाउने टुल हो। तपाईंले आफ्नो मनपर्ने फोटो राखेर चिबा फेस्टिवलको ब्यानर बनाउन
+            सक्नुहुन्छ।
+        </div>
+
+        <!-- 画像のアップロード -->
+        <div class="center photo-frame">
+            <img id="overlay-img" src="plain.png" alt="Overlay Image" style="cursor: pointer;" onclick="triggerFileInput()" />
+        </div>
+
+        <!-- ファイル選択 -->
+        <input type="file" accept="image/*" id="file" class="inputfile" style="display: none;" onchange="loadFile(event)" />
+
+        <!-- クロップ操作用ボタン -->
+        <div class="center" id="crop-buttons" style="display: none;">
+            <button id="cancelBtn" class="btn blue-btn" onclick="cancelCrop()">क्यान्सेल गर्नुहोस्</button>
+            <button id="newFileBtn" class="btn blue-btn" onclick="triggerFileInput()">अर्को फोटो रोज्नुहोस्</button>
+            <button id="cropBtn" class="btn blue-btn" onclick="confirmCrop()">फोटो काट्नुहोस्</button>
+        </div>
+
+        <!-- ダウンロードボタン -->
+        <div class="center">
+            <button id="downloadBtn" class="btn blue-btn" style="display: none;" onclick="downloadImage()">डाउनलोड गर्नुहोस्</button>
+            <button id="restartBtn" class="btn blue-btn" style="display: none;" onclick="restart()">पुनः सुरु गर्नुहोस्</button>
+        </div>
+    </main>
+
+    <!-- Cropper.js JS -->
+    <script src="https://unpkg.com/cropperjs"></script>
+
+    <script>
+        let cropper; // Cropperインスタンス
+        const imageElement = document.getElementById('overlay-img');
+        const fileInput = document.getElementById('file');
+        const previewCanvas = document.createElement('canvas'); // Create a new canvas for overlay
+        const downloadBtn = document.getElementById('downloadBtn');
+        const cropButtons = document.getElementById('crop-buttons');
+        const restartBtn = document.getElementById('restartBtn');
+
+        // ファイル選択をトリガーする関数
+        function triggerFileInput() {
+            fileInput.click();
+        }
+
+        // ファイルを選択した際の処理
+        function loadFile(event) {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    imageElement.src = e.target.result;
+                    imageElement.style.cursor = 'default'; // クリックイベントを解除
+                    fileInput.style.display = 'none'; // ファイル入力を非表示
+                    cropButtons.style.display = 'block'; // ボタンを表示
+
+                    // Cropperの初期化
+                    if (cropper) {
+                        cropper.destroy();
+                    }
+                    cropper = new Cropper(imageElement, {
+                        aspectRatio: 1, // 1:1の比率
+                        viewMode: 2,
+                        autoCropArea: 1,
+                    });
+                };
+                reader.readAsDataURL(file);
+            }
+        }
+
+        // 切り取りを確定する処理
+        function confirmCrop() {
+            const croppedCanvas = cropper.getCroppedCanvas({
+                width: 730,
+                height: 730
+            });
+
+            // キャンバスの設定
+            previewCanvas.style.maxWidth = '100%'; // Set max-width for the preview canvas
+            previewCanvas.width = 1200;
+            previewCanvas.height = 1200;
+            const context = previewCanvas.getContext('2d');
+
+            // クロップされた画像を背景に描画
+            context.drawImage(croppedCanvas, 0, 0, 1200, 1200); // 背景として描画
+
+            // オーバーレイ画像の描画
+            const overlayImage = new Image();
+            overlayImage.src = 'overlay.png'; // 1200x1200px, 上から100px, 下から400pxの透明部分
+
+            overlayImage.onload = function() {
+                // オーバーレイ画像全体の描画
+                context.drawImage(overlayImage, 0, 0, 1200, 1200);
+
+                // photo-frame div containerに表示
+                const photoFrame = document.querySelector('.photo-frame');
+                photoFrame.innerHTML = ''; // Clear previous content
+                const overlayCanvas = document.createElement('canvas');
+                overlayCanvas.width = 1200;
+                overlayCanvas.height = 1200;
+                overlayCanvas.style.maxWidth = '100%'; // Set max-width for the preview canvas
+                const overlayContext = overlayCanvas.getContext('2d');
+                overlayContext.drawImage(previewCanvas, 0, 0);
+                photoFrame.appendChild(overlayCanvas); // Append the overlay canvas
+
+                // ダウンロードボタンとやり直しボタンを表示
+                downloadBtn.style.display = 'block';
+                restartBtn.style.display = 'block';
+                
+                // Cropper UIを非表示にする
+                cropButtons.style.display = 'none';
+                cropper.destroy(); // Cropperを破棄
+            };
+        }
+
+        // クロップ操作をキャンセルする処理
+        function cancelCrop() {
+            if (cropper) {
+                cropper.destroy();
+            }
+            imageElement.src = 'plain.png'; // 元の画像に戻す
+            cropButtons.style.display = 'none';
+            fileInput.style.display = 'block'; // 再度画像選択を可能にする
+            downloadBtn.style.display = 'none'; // Hide download button
+            restartBtn.style.display = 'none'; // Hide restart button
+        }
+
+        // 画像をダウンロードする処理
+        function downloadImage() {
+            const link = document.createElement('a');
+            link.href = previewCanvas.toDataURL('image/png');
+            link.download = 'cropped_overlay_image.png';
+            link.click();
+        }
+
+        // 最初からやり直しする処理
+        function restart() {
+            location.reload(); // Reload the page to reset everything
+        }
+    </script>
+</body>
+
+</html>
