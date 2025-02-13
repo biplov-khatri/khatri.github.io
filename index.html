@@ -767,7 +767,7 @@
 
       document.getElementById('english').addEventListener('click', function() {
         document.querySelector('h1').textContent = 'Biplov Khatri';
-        document.querySelector('p').textContent = "I'm a Designer, Developer, Freelancer, Programmer";
+        document.querySelector('p').innerHTML = "I'm <span class='typed' data-typed-items='Designer, Developer, Freelancer, Programmer'></span>";
         document.querySelector('.section-title h2').textContent = 'About';
         document.querySelector('.section-title p').textContent = 'A motivated and energetic person with great love and interest in technology. Completed Bachelors of Science Computer Science in Information and Technology (B.Sc. CSIT) from Tribhuwan University In Nepal.';
         document.querySelector('.about .content .fst-italic').textContent = 'Personal details related to me';
@@ -816,7 +816,7 @@
 
       document.getElementById('japanese').addEventListener('click', function() {
         document.querySelector('h1').textContent = 'ビプロブ・カトリ';
-        document.querySelector('p').textContent = '私はデザイナー、開発者、フリーランサー、プログラマーです';
+        document.querySelector('p').innerHTML = '私は<span class="typed" data-typed-items="デザイナー, 開発者, フリーランサー, プログラマー"></span>';
         document.querySelector('.section-title h2').textContent = '約';
         document.querySelector('.section-title p').textContent = '技術に対する大きな愛と興味を持った意欲的でエネルギッシュな人。ネパールのトリブバン大学で情報技術の理学士号（B.Sc. CSIT）を取得しました。';
         document.querySelector('.about .content .fst-italic').textContent = '私に関連する個人情報';
