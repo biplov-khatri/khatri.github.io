@@ -55,12 +55,6 @@
             <img id="overlay-img" src="plain.png" alt="Overlay Image" style="cursor: pointer;" onclick="triggerFileInput()" />
         </div>
 
-        <div class="center" id="crop-buttons" style="display: none;">
-            <button id="zoomInBtn" class="btn blue-btn" onclick="zoomIn()">Zoom In</button>
-            <button id="zoomOutBtn" class="btn blue-btn" onclick="zoomOut()">Zoom Out</button>
-            <button id="confirmBtn" class="btn blue-btn" onclick="confirmCrop()">Confirm</button>
-        </div>
-
         <div class="center">
             <button id="downloadBtn" class="btn blue-btn" style="display: none;" onclick="downloadImage()">Download Photo</button>
         </div>
@@ -85,7 +79,6 @@
         const fileInput = document.getElementById('file');
         const previewCanvas = document.createElement('canvas'); // Create a new canvas for overlay
         const downloadBtn = document.getElementById('downloadBtn');
-        const cropButtons = document.getElementById('crop-buttons');
 
         // Function to trigger file input
         function triggerFileInput() {
@@ -101,7 +94,6 @@
                     imageElement.src = e.target.result;
                     imageElement.style.cursor = 'default'; // Disable click event
                     fileInput.style.display = 'none'; // Hide file input
-                    cropButtons.style.display = 'block'; // Show crop buttons
 
                     // Initialize Cropper
                     if (cropper) {
@@ -112,7 +104,7 @@
                         viewMode: 2,
                         autoCropArea: 1,
                         dragMode: 'move', // Enable dragging
-                        zoomable: true, // Enable zooming
+                        zoomable: false, // Disable zooming
                         scalable: false, // Disable scaling
                         cropBoxResizable: false, // Disable resizing of crop box
                     });
@@ -170,20 +162,6 @@
             link.href = previewCanvas.toDataURL('image/png');
             link.download = 'cropped_overlay_image.png';
             link.click();
-        }
-
-        // Function to zoom in
-        function zoomIn() {
-            if (cropper) {
-                cropper.zoom(0.1); // Zoom in by 10%
-            }
-        }
-
-        // Function to zoom out
-        function zoomOut() {
-            if (cropper) {
-                cropper.zoom(-0.1); // Zoom out by 10%
-            }
         }
     </script>
 </body>
