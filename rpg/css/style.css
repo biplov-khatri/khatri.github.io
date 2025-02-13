@@ -350,12 +350,18 @@ section.company-logo ul {
     margin-left: -50vw;
     margin-right: -50vw;
     box-sizing: border-box;
+    background-color: #f5f5f5;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 40px;
 }
 
 .footer-content {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
+    max-width: 600px;
+    margin: 0 auto;
 }
 
 .footer-sections-wrapper {
@@ -449,6 +455,33 @@ section.company-logo ul {
     padding-top: 20px;
     border-top: 1px solid rgba(255, 255, 255, 0.1);
     font-size: 14px;
+}
+
+.credit-section {
+    margin-bottom: 15px;
+}
+
+.credit-section img {
+    margin-bottom: 10px;
+}
+
+.credit-section p {
+    margin: 5px 0;
+    color: #666;
+}
+
+.credit-section a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.credit-section a:hover {
+    text-decoration: underline;
+}
+
+.copyright {
+    font-size: 0.9em;
+    color: #888;
 }
 
 
