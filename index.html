@@ -104,7 +104,7 @@
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span id="age"></span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Masters</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>biplovkhatri36@gmail.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                 </ul>
@@ -695,6 +695,8 @@
       </div>
     </section><!-- End Contact Section -->
 
+    <button id="change-language" class="btn btn-primary">日本語に変更</button>
+
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
@@ -754,6 +756,55 @@
         age--;
       }
       ageSpan.textContent = age;
+
+      document.getElementById('change-language').addEventListener('click', function() {
+        document.querySelector('h1').textContent = 'ビプロブ・カトリ';
+        document.querySelector('p').textContent = '私はデザイナー、開発者、フリーランサー、プログラマーです';
+        document.querySelector('.section-title h2').textContent = '約';
+        document.querySelector('.section-title p').textContent = '技術に対する大きな愛と興味を持った意欲的でエネルギッシュな人。ネパールのトリブバン大学で情報技術の理学士号（B.Sc. CSIT）を取得しました。';
+        document.querySelector('.about .content .fst-italic').textContent = '私に関連する個人情報';
+        document.querySelector('.about .content ul li:nth-child(1) strong').textContent = '誕生日:';
+        document.querySelector('.about .content ul li:nth-child(2) strong').textContent = 'ウェブサイト:';
+        document.querySelector('.about .content ul li:nth-child(3) strong').textContent = '電話:';
+        document.querySelector('.about .content ul li:nth-child(4) strong').textContent = '恒久的な場所:';
+        document.querySelector('.about .content ul li:nth-child(5) strong').textContent = '現在の場所:';
+        document.querySelector('.about .content ul li:nth-child(6) strong').textContent = '年齢:';
+        document.querySelector('.about .content ul li:nth-child(7) strong').textContent = '学位:';
+        document.querySelector('.about .content ul li:nth-child(8) strong').textContent = 'メール:';
+        document.querySelector('.about .content ul li:nth-child(9) strong').textContent = 'フリーランス:';
+        document.querySelector('.about .content ul li:nth-child(9) span').textContent = '利用可能';
+        document.querySelector('.section-title h2').textContent = 'スキル';
+        document.querySelector('.section-title p').textContent = '私の学習と経験に基づいて、これらは私が持っているスキルと私自身の個人的な評価です。これらのスキルを向上させるために常に努力しています。';
+        document.querySelector('.resume-title').textContent = '概要';
+        document.querySelector('.resume-item h4').textContent = 'ビプロブ・カトリ';
+        document.querySelector('.resume-item p em').textContent = '技術に対する大きな愛と興味を持った意欲的でエネルギッシュな人。ネパールのトリブバン大学で情報技術の理学士号（B.Sc. CSIT）を取得しました。';
+        document.querySelector('.resume-item ul li:nth-child(1)').textContent = '日本、愛知県岡崎市';
+        document.querySelector('.resume-item ul li:nth-child(2)').textContent = '+81 80 6399 2020';
+        document.querySelector('.resume-item ul li:nth-child(3)').textContent = 'biplovkhatri36@gmail.com';
+        document.querySelector('.resume-title').textContent = '教育';
+        document.querySelector('.resume-item h4').textContent = 'コンピュータサイエンスと情報技術の理学士';
+        document.querySelector('.resume-item h5').textContent = '2016-2020';
+        document.querySelector('.resume-item p em').textContent = 'アジア高等教育大学';
+        document.querySelector('.resume-item ul li:nth-child(1)').textContent = '関連するコースワーク: ソフトウェア工学、システム分析と設計、データ構造とアルゴリズム、無線通信システム、マーケティング、離散数学';
+        document.querySelector('.resume-item ul li:nth-child(2)').textContent = 'さまざまなMicrosoftブートキャンプを完了しました';
+        document.querySelector('.resume-item ul li:nth-child(3)').textContent = 'ハッカソンに参加しました';
+        document.querySelector('.resume-item ul li:nth-child(4)').textContent = '技術とイノベーションのエキスポを組織し、参加しました';
+        document.querySelector('.resume-item ul li:nth-child(5)').textContent = 'さまざまなキャリアとスキル構築、マーケティングセミナーに参加しました';
+        document.querySelector('.resume-item ul li:nth-child(6)').textContent = 'イベントオーガナイザーチームのメンバー';
+        document.querySelector('.resume-item h4').textContent = 'ウェブシステム開発の修士';
+        document.querySelector('.resume-item h5').textContent = '2023-2025';
+        document.querySelector('.resume-item p em').textContent = '京都情報大学院大学';
+        document.querySelector('.resume-title').textContent = 'プロフェッショナル経験';
+        document.querySelector('.resume-item h4').textContent = 'ワードプレス開発者（インターン）';
+        document.querySelector('.resume-item h5').textContent = '2021年8月 - 2021年11月';
+        document.querySelector('.resume-item p em').textContent = 'ネパール、カトマンズ';
+        document.querySelector('.resume-item ul li:nth-child(1)').textContent = 'ワードプレス開発者';
+        document.querySelector('.resume-item ul li:nth-child(2)').textContent = '他のためにHTML、CSS、JSを使用して時折ウェブサイトを開発しました';
+        document.querySelector('.resume-item h4').textContent = '関与したプロジェクト';
+        document.querySelector('.resume-item h5').textContent = '最終年プロジェクト';
+        document.querySelector('.resume-item ul li:nth-child(1)').textContent = '顔認識出席システムに関するPythonベースのプロジェクト';
+        document.querySelector('.resume-item ul li:nth-child(2)').textContent = 'ブロックチェーン技術を使用した偽ニュースの検証';
+      });
     });
   </script>
 
