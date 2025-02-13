@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>NRNA CHIBA FESTIVAL 2024</title>
+    <title>Photo upload-img</title>
 
     <!-- Bootstrap CSS -->
     <link href="css/style.css" rel="stylesheet" />
@@ -49,11 +49,13 @@
             <button id="cancelBtn" class="btn blue-btn" onclick="cancelCrop()">क्यान्सेल गर्नुहोस्</button>
             <button id="newFileBtn" class="btn blue-btn" onclick="triggerFileInput()">अर्को फोटो रोज्नुहोस्</button>
             <button id="cropBtn" class="btn blue-btn" onclick="confirmCrop()">फोटो काट्नुहोस्</button>
+            <button id="zoomInBtn" class="btn blue-btn" onclick="zoomIn()">जुम इन गर्नुहोस्</button>
+            <button id="zoomOutBtn" class="btn blue-btn" onclick="zoomOut()">जुम आउट गर्नुहोस्</button>
         </div>
 
         <!-- ダウンロードボタン -->
         <div class="center">
-            <button id="downloadBtn" class="btn blue-btn" style="display: none;" onclick="downloadImage()">डाउनलोड गर्नुहोस्</button>
+            <button id="downloadBtn" class="btn blue-btn" style="display: none;" onclick="downloadImage()">डाउनロード गर्नुहोस्</button>
             <button id="restartBtn" class="btn blue-btn" style="display: none;" onclick="restart()">पुनः सुरु गर्नुहोस्</button>
         </div>
     </main>
@@ -94,6 +96,8 @@
                         aspectRatio: 1, // 1:1の比率
                         viewMode: 2,
                         autoCropArea: 1,
+                        dragMode: 'move', // Enable dragging
+                        zoomable: true, // Enable zooming
                     });
                 };
                 reader.readAsDataURL(file);
@@ -168,6 +172,20 @@
         // 最初からやり直しする処理
         function restart() {
             location.reload(); // Reload the page to reset everything
+        }
+
+        // ズームインする処理
+        function zoomIn() {
+            if (cropper) {
+                cropper.zoom(0.1); // Zoom in by 10%
+            }
+        }
+
+        // ズームアウトする処理
+        function zoomOut() {
+            if (cropper) {
+                cropper.zoom(-0.1); // Zoom out by 10%
+            }
         }
     </script>
 </body>
