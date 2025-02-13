@@ -1,5 +1,5 @@
 let img = document.getElementById('overlay-img');
-let isDragging = false;
+let isDragging = true;
 let startX, startY, initialX = 0, initialY = 0, scale = 1;
 
 img.addEventListener('load', () => {
