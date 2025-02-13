@@ -52,7 +52,7 @@
         </div>
 
         <div class="center photo-frame">
-            <img id="overlay-img" src="plain.png" alt="Overlay Image" style="cursor: pointer;" onclick="triggerFileInput()" />
+            <img id="overlay-img" src="plain.png" alt="Overlay Image" />
         </div>
 
         <div class="center">
@@ -72,97 +72,5 @@
 
 	<script src="js/script.js"></script> <!-- Assuming the JavaScript has been moved to an external file named script.js -->
     <script src="js/drag-and-zoom.js"></script> <!-- New script for drag and zoom functionality -->
-    <script src="https://unpkg.com/cropperjs"></script>
-    <script>
-        let cropper; // Cropper instance
-        const imageElement = document.getElementById('overlay-img');
-        const fileInput = document.getElementById('file');
-        const previewCanvas = document.createElement('canvas'); // Create a new canvas for overlay
-        const downloadBtn = document.getElementById('downloadBtn');
-
-        // Function to trigger file input
-        function triggerFileInput() {
-            fileInput.click();
-        }
-
-        // Function to handle file selection
-        function loadFile(event) {
-            const file = event.target.files[0];
-            if (file) {
-                const reader = new FileReader();
-                reader.onload = function(e) {
-                    imageElement.src = e.target.result;
-                    imageElement.style.cursor = 'default'; // Disable click event
-                    fileInput.style.display = 'none'; // Hide file input
-
-                    // Initialize Cropper
-                    if (cropper) {
-                        cropper.destroy();
-                    }
-                    cropper = new Cropper(imageElement, {
-                        aspectRatio: 1, // 1:1 aspect ratio
-                        viewMode: 2,
-                        autoCropArea: 1,
-                        dragMode: 'move', // Enable dragging
-                        zoomable: false, // Disable zooming
-                        scalable: false, // Disable scaling
-                        cropBoxResizable: false, // Disable resizing of crop box
-                    });
-                };
-                reader.readAsDataURL(file);
-            }
-        }
-
-        // Function to confirm crop
-        function confirmCrop() {
-            const croppedCanvas = cropper.getCroppedCanvas({
-                width: 730,
-                height: 730
-            });
-
-            // Set canvas settings
-            previewCanvas.style.maxWidth = '100%'; // Set max-width for the preview canvas
-            previewCanvas.width = 1200;
-            previewCanvas.height = 1200;
-            const context = previewCanvas.getContext('2d');
-
-            // Draw cropped image as background
-            context.drawImage(croppedCanvas, 0, 0, 1200, 1200); // Draw as background
-
-            // Draw overlay image
-            const overlayImage = new Image();
-            overlayImage.src = 'overlay.png'; // 1200x1200px, transparent parts at top and bottom
-
-            overlayImage.onload = function() {
-                // Draw entire overlay image
-                context.drawImage(overlayImage, 0, 0, 1200, 1200);
-
-                // Display in photo-frame div container
-                const photoFrame = document.querySelector('.photo-frame');
-                photoFrame.innerHTML = ''; // Clear previous content
-                const overlayCanvas = document.createElement('canvas');
-                overlayCanvas.width = 1200;
-                overlayCanvas.height = 1200;
-                overlayCanvas.style.maxWidth = '100%'; // Set max-width for the preview canvas
-                const overlayContext = overlayCanvas.getContext('2d');
-                overlayContext.drawImage(previewCanvas, 0, 0);
-                photoFrame.appendChild(overlayCanvas); // Append the overlay canvas
-
-                // Show download button
-                downloadBtn.style.display = 'block';
-                
-                // Hide Cropper UI
-                cropper.destroy(); // Destroy Cropper
-            };
-        }
-
-        // Function to download image
-        function downloadImage() {
-            const link = document.createElement('a');
-            link.href = previewCanvas.toDataURL('image/png');
-            link.download = 'cropped_overlay_image.png';
-            link.click();
-        }
-    </script>
 </body>
 </html>
