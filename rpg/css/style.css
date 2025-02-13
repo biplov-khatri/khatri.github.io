@@ -77,11 +77,16 @@ h1 {
 }
 
 .photo-frame {
-    width: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 800px;
+    margin: 20px auto;
+    overflow: hidden;
     border: 1px dashed #aaa;
-    padding: 8px 8px 2px 8px;
+    padding: 8px;
     background: #fff;
-    margin: 0 auto;
     box-sizing: border-box;
     border-radius: 8px;
     position: relative;
@@ -100,10 +105,19 @@ main {
     margin: 0 auto;
     background: #fff;
     padding-bottom: 40px;
+    position: relative;
 }
 
 .center {
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.upload-img {
+    display: block;
+    text-align:  center;
 }
 
 input, button {
@@ -134,9 +148,18 @@ input, button {
     font-size: 22px;
 }
 
-.upload-img {
-    display: block;
-    text-align:  center;
+.inputfile + label {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.inputfile + label:hover {
+    background-color: #45a049;
 }
 
 .inputfile:focus + label,
@@ -224,9 +247,14 @@ input, button {
   }
 
   #overlay-img {
-	max-width: 100%;
+    display: block;
+    max-width: 100%;
     height: auto;
-	border: 1px solid #ccc;
+    margin: 0 auto;
+    object-fit: contain;
+    border: 1px solid #ccc;
+    display: block;
+    margin: 0 auto;
   }
 
   .madeBy {
@@ -294,6 +322,118 @@ section.company-logo ul {
     }
   }
 
-  
-	
-	
+.site-footer {
+    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+    color: #fff;
+    padding: 40px 20px 20px;
+    margin-top: 40px;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    box-sizing: border-box;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.footer-sections-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 2rem;
+    flex-direction: row-reverse; /* This will reverse the order of sections */
+}
+
+.footer-section {
+    flex: 1;
+    text-align: center;
+    max-width: 400px;
+}
+
+@media (max-width: 768px) {
+    .footer-sections-wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .footer-section {
+        width: 100%;
+    }
+}
+
+.footer-section h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.footer-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 1rem 0;
+}
+
+.footer-logo img {
+    max-width: 150px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.company-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 1rem;
+}
+
+.footer-links {
+    display: flex;
+    gap: 20px;
+    margin: 15px 0;
+}
+
+.footer-links a {
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.footer-links a:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+}
+
+.footer-contact {
+    margin: 20px 0;
+    font-size: 16px;
+}
+
+.footer-contact a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    font-size: 14px;
+}
+
+
+

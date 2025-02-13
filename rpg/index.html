@@ -36,44 +36,78 @@
 <body>
     <script type="text/javascript" src="js/caman.full.js"></script>
 	<main>
-      <!--  <header>
-            <div class="logo">
-                <img src="logo.png" alt="NRNA Chiba Festival Logo" />
-            </div>
-        </header>
-        -->
-
-        <h1>Holi Celeberation <br>
-        Proudly presented by Sisterhood Nagoya</h1>
-        <div class="description">
-            This is a tool to design the Holi festival organized by sisterhood Nagoya. You can select your favorite photo to create a festival banner and request to make the festival successful.
+    <!--  <header>
+        <div class="logo">
+            <img src="logo.png" alt="NRNA Chiba Festival Logo" />
         </div>
+      </header>
+      -->
+
+      <h1>Holi Celeberation <br>
+      Proudly presented by Sisterhood Nagoya</h1>
+      <div class="description">
+        This is a tool to design the Holi festival organized by sisterhood Nagoya. You can select your favorite photo to create a festival banner and request to make the festival successful.
+      </div>
+      
+      <div class="center">
         <div class="upload-img">
-            <input type="file" accept="image/*" onchange="loadFile(event)" id="file" class="inputfile" />
-            <label for="file">Choose Photo</label>
+          <input type="file" accept="image/*" onchange="loadFile(event)" id="file" class="inputfile" />
+          <label for="file">Choose Photo</label>
         </div>
+      </div>
 
-        <div class="center photo-frame">
-            <img id="overlay-img" src="plain1.png" alt="Overlay Image" />
+      <div class="center photo-frame">
+        <img id="overlay-img" src="plain1.png" alt="Overlay Image" />
+      </div>
+
+      <div class="center">
+        <button id="downloadBtn" class="btn blue-btn" style="display: none;" onclick="downloadImage()">Download Photo</button>
+      </div>
+
+      <section class="company-logo" style="border-bottom: 1px solid rgb(170, 170, 170); padding: 30px;">
+        <!-- <h2>Designed by:</h2>
+         <div class="description info">
+            We, the NRNA Chiba family, would like to express our gratitude to various organizations for their support and cooperation in making the NRNA Chiba Nepal Festival 2024 successful. Let's all come together to make this Chiba Nepal Festival 2024 grand and successful.
         </div>
+        <div class="company-logo-animation"></div>
+      </section>
+      -->
 
-        <div class="center">
-            <button id="downloadBtn" class="btn blue-btn" style="display: none;" onclick="downloadImage()">Download Photo</button>
-        </div>
-
-        <section class="company-logo" style="border-bottom: 1px solid rgb(170, 170, 170); padding: 30px;">
-            <!-- <h2>Designed by:</h2>
-           <div class="description info">
-                We, the NRNA Chiba family, would like to express our gratitude to various organizations for their support and cooperation in making the NRNA Chiba Nepal Festival 2024 successful. Let's all come together to make this Chiba Nepal Festival 2024 grand and successful.
+      <footer class="site-footer">
+        <div class="footer-content">
+            <div class="footer-sections-wrapper">
+                <div class="footer-section tech-section">
+                    <h2>Designed & Developed by</h2>
+                    <div class="company-info">
+                        <div class="footer-logo">
+                            <img src="img/khatori.png" alt="Khatori Tech Logo" width="70">
+                        </div>
+                        <div class="footer-links">
+                            <a href="https://khatori.net" target="_blank" class="company-link">Khatori Tech</a>
+                            <a href="https://biplovkhatri.com.np" target="_blank" class="designer-link">Biplov Khatri</a>
+                        </div>
+                        <p class="footer-contact">Need a website? <a href="mailto:biplovkhatri36@gmail.com">Contact us</a></p>
+                    </div>
+                </div>
+                
+                <div class="footer-section event-section">
+                    <h2>Event Managed By</h2>
+                    <div class="company-info">
+                        <div class="footer-logo">
+                            <img src="img/yume-logo.png" alt="Yume Productions Logo" width="100">
+                        </div>
+                        <div class="footer-links">
+                            <a href="#" class="company-link">Yume Productions</a>
+                        </div>
+                        <p class="footer-contact">For event management: <a href="https://yumeproductions.com/contact/">Contact us</a></p>
+                    </div>
+                </div>
             </div>
-            <div class="company-logo-animation"></div>
-        </section>
-        -->
-
-        <div class="madeBy">    <h2>Designed by:</h2> <br>
-            Company website : <a href="https://khatori.net" target="_blank">Khatori Tech</a> <br>
-        Designer  website : <a href="https://biplovkhatri.com.np" target="_blank">Biplov Khatri</a> <br>
-        Contact us for website creation and other tech related solutions.</a></div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 Khatori Tech & Yume Productions. All rights reserved.</p>
+        </div>
+    </footer>
     </main>
 
 	<script src="js/script.js"></script> <!-- Assuming the JavaScript has been moved to an external file named script.js -->
