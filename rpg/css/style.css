@@ -92,6 +92,15 @@ h1 {
     position: relative;
 }
 
+.photo-frame {
+    position: relative;
+    overflow: visible; /* Changed from hidden to visible */
+    width: 100%;
+    max-width: 800px;
+    margin: 20px auto;
+    min-height: 300px; /* Add minimum height */
+}
+
 .btn:active {
     box-shadow: 0 0 0 1px #a70e0b inset, 0 0 0 2px rgba(255, 255, 255, 0.15) inset, 0 1px 0 0 #890402, 0 2px 2px 1px rgba(0, 0, 0, 0.5);
 }
@@ -255,6 +264,13 @@ input, button {
     border: 1px solid #ccc;
     display: block;
     margin: 0 auto;
+    cursor: move;
+    user-select: none;
+    touch-action: none;
+    transition: transform 0.1s ease-out;
+    transform-origin: center center;
+    max-width: none; /* Remove max-width restriction */
+    width: 100%;
   }
 
   .madeBy {
