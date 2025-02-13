@@ -695,7 +695,15 @@
       </div>
     </section><!-- End Contact Section -->
 
-    <button id="change-language" class="btn btn-primary">日本語に変更</button>
+    <div class="dropdown">
+      <button class="btn btn-primary dropdown-toggle" type="button" id="languageDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+        Change Language
+      </button>
+      <ul class="dropdown-menu" aria-labelledby="languageDropdown">
+        <li><a class="dropdown-item" href="#" id="english">English</a></li>
+        <li><a class="dropdown-item" href="#" id="japanese">日本語</a></li>
+      </ul>
+    </div>
 
   </main><!-- End #main -->
 
@@ -757,7 +765,56 @@
       }
       ageSpan.textContent = age;
 
-      document.getElementById('change-language').addEventListener('click', function() {
+      document.getElementById('english').addEventListener('click', function() {
+        document.querySelector('h1').textContent = 'Biplov Khatri';
+        document.querySelector('p').textContent = "I'm a Designer, Developer, Freelancer, Programmer";
+        document.querySelector('.section-title h2').textContent = 'About';
+        document.querySelector('.section-title p').textContent = 'A motivated and energetic person with great love and interest in technology. Completed Bachelors of Science Computer Science in Information and Technology (B.Sc. CSIT) from Tribhuwan University In Nepal.';
+        document.querySelector('.about .content .fst-italic').textContent = 'Personal details related to me';
+        document.querySelector('.about .content ul li:nth-child(1) strong').textContent = 'Birthday:';
+        document.querySelector('.about .content ul li:nth-child(2) strong').textContent = 'Website:';
+        document.querySelector('.about .content ul li:nth-child(3) strong').textContent = 'Phone:';
+        document.querySelector('.about .content ul li:nth-child(4) strong').textContent = 'Permanent Location:';
+        document.querySelector('.about .content ul li:nth-child(5) strong').textContent = 'Current Location:';
+        document.querySelector('.about .content ul li:nth-child(6) strong').textContent = 'Age:';
+        document.querySelector('.about .content ul li:nth-child(7) strong').textContent = 'Degree:';
+        document.querySelector('.about .content ul li:nth-child(8) strong').textContent = 'Email:';
+        document.querySelector('.about .content ul li:nth-child(9) strong').textContent = 'Freelance:';
+        document.querySelector('.about .content ul li:nth-child(9) span').textContent = 'Available';
+        document.querySelector('.section-title h2').textContent = 'Skills';
+        document.querySelector('.section-title p').textContent = 'Based on my learnings and experience, these are the skills I have and my personal ratings on me. I am trying and will always try to improve these skills.';
+        document.querySelector('.resume-title').textContent = 'Summary';
+        document.querySelector('.resume-item h4').textContent = 'Biplov Khatri';
+        document.querySelector('.resume-item p em').textContent = 'A motivated and energetic person with great love and interest in technology. Completed Bachelors of Science Computer Science in Information and Technology (B.Sc. CSIT) from Tribhuwan University In Nepal.';
+        document.querySelector('.resume-item ul li:nth-child(1)').textContent = 'Okazaki-shi, Aichi Ken, Japan';
+        document.querySelector('.resume-item ul li:nth-child(2)').textContent = '+81 80 6399 2020';
+        document.querySelector('.resume-item ul li:nth-child(3)').textContent = 'biplovkhatri36@gmail.com';
+        document.querySelector('.resume-title').textContent = 'Education';
+        document.querySelector('.resume-item h4').textContent = 'Bachelors of Science In Computer Science and Information Technology';
+        document.querySelector('.resume-item h5').textContent = '2016-2020';
+        document.querySelector('.resume-item p em').textContent = 'Asian College of Higher Studies';
+        document.querySelector('.resume-item ul li:nth-child(1)').textContent = 'Relevant Coursework: Software Engineering, System Analysis and Design, Data Structures and Algorithm, Wireless Communication System, Marketing, Discrete Mathematics';
+        document.querySelector('.resume-item ul li:nth-child(2)').textContent = 'Completed various Microsoft Boot Camps';
+        document.querySelector('.resume-item ul li:nth-child(3)').textContent = 'Attended Hackathons';
+        document.querySelector('.resume-item ul li:nth-child(4)').textContent = 'Organized and participated in Tech & innovation expo';
+        document.querySelector('.resume-item ul li:nth-child(5)').textContent = 'Attended various career and skill building, marketing seminars';
+        document.querySelector('.resume-item ul li:nth-child(6)').textContent = 'Member of Event organizer team';
+        document.querySelector('.resume-item h4').textContent = 'Masters in Web System Development';
+        document.querySelector('.resume-item h5').textContent = '2023-2025';
+        document.querySelector('.resume-item p em').textContent = 'Kyoto College of Graduate Studies for Informatics (KCGI)';
+        document.querySelector('.resume-title').textContent = 'Professional Experience';
+        document.querySelector('.resume-item h4').textContent = 'Wordpress developer (INTERN)';
+        document.querySelector('.resume-item h5').textContent = 'Aug 2021 - Nov 2021';
+        document.querySelector('.resume-item p em').textContent = 'Kathmandu, Nepal';
+        document.querySelector('.resume-item ul li:nth-child(1)').textContent = 'Wordpress Developer';
+        document.querySelector('.resume-item ul li:nth-child(2)').textContent = 'Occasionally developed websites using HTML, CSS, and JS for others';
+        document.querySelector('.resume-item h4').textContent = 'Projects Involved';
+        document.querySelector('.resume-item h5').textContent = 'Final year project';
+        document.querySelector('.resume-item ul li:nth-child(1)').textContent = 'Python based project on facial recognition attendance system';
+        document.querySelector('.resume-item ul li:nth-child(2)').textContent = 'Fake news verification using Blockchain technology';
+      });
+
+      document.getElementById('japanese').addEventListener('click', function() {
         document.querySelector('h1').textContent = 'ビプロブ・カトリ';
         document.querySelector('p').textContent = '私はデザイナー、開発者、フリーランサー、プログラマーです';
         document.querySelector('.section-title h2').textContent = '約';
