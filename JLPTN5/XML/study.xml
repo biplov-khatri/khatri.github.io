@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
     <entry>
-        <name>Kanji-flashcard</name>
-        <link>https://jlptsamurai.com/wp-content/uploads/2025/04/Kanji-flashcard.pdf</link>
+        <name>Kanji</name>
+        <link>https://biplovkhatri.com.np/JLPTN5/PDF/Kanji-flashcard.pdf</link>
+    </entry>
+    <entry>
+        <name>Grammar</name>
+        <link>https://biplovkhatri.com.np/JLPTN5/PDF/JLPT-N5-GRAMMAR-LIST-3.pdf</link>
+    </entry>
+
+    <entry>
+        <name>Vocabulary</name>
+        <link>https://biplovkhatri.com.np/JLPTN5/PDF/N5-vocab-flashcard.pdf</link>
     </entry>
 </root>
