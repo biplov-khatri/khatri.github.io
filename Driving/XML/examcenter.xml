@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DriverLicenseCentersJapan>
+    <Prefecture ken="Hokkaido">
+        <Center>
+            <Name>Sapporo Driving Licence Examination Center</Name>
+            <Address>4-1-1 Akebono 5-jo, Teine Ku, Sapporo Shi, Hokkaido 006-0835</Address>
+            <Phone>011-83-5770</Phone>
+        </Center>
+        <Center>
+            <Name>Chuo Excellent Drivers Drivers License Renewal Center</Name>
+            <Address>5 Kita 1-jo Nishi, Chuo Ku, Sapporo Shi, Hokkaido 060-0001</Address>
+            <Phone>011-242-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Atsubetsu Excellent Drivers Drivers License Renewal Center</Name>
+            <Address>4-5-20 Atsubetsu Chuo 2-jo, Atsubetsu Ku, Sapporo Shi, Hokkaido 004-0052</Address>
+            <Phone>011-896-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Hakodate Driving Licence Examination Center</Name>
+            <Address>149-23 Ishikawacho, Hakodate Shi, Hokkaido 041-0802</Address>
+            <Phone>0138-46-2007</Phone>
+        </Center>
+        <Center>
+            <Name>Asahikawa Driving Licence Examination Center</Name>
+            <Address>17-2699-5 Chikabumicho, Asahikawa Shi, Hokkaido 070-0821</Address>
+            <Phone>0166-51-2489</Phone>
+        </Center>
+        <Center>
+            <Name>Kushiro Driving Licence Examination Center</Name>
+            <Address>1-15-8 Otanoshike Kita, Kushiro Shi, Hokkaido 084-0918</Address>
+            <Phone>0154-57-5913</Phone>
+        </Center>
+        <Center>
+            <Name>Obihiro Driving Licence Examination Center</Name>
+            <Address>2 Nishi 19-jo Kita, Obihiro Shi, Hokkaido 080-2459</Address>
+            <Phone>0155-33-2470</Phone>
+        </Center>
+        <Center>
+            <Name>Kitami Driving Licence Examination Center</Name>
+            <Address>141-1 Taisho, Kitami Shi, Hokkaido 090-0008</Address>
+            <Phone>0157-36-7700</Phone>
+        </Center>
+    </Prefecture>
+
+
+    <Prefecture ken="Aomori">
+        <Center>
+            <Name>Aomori Prefecture Drivers License Center</Name>
+            <Address>198-4 Sannai Maruyama, Aomori Shi, Aomori 038-0031</Address>
+            <Phone>017-782-0081</Phone>
+        </Center>
+        <Center>
+            <Name>Hirosaki Driving Licence Examination Center</Name>
+            <Address>38-2 Okubo Nishida, Hirosaki Shi, Aomori 036-8071</Address>
+            <Phone>0172-32-5311</Phone>
+        </Center>
+        <Center>
+            <Name>Mutsu Driving Licence Examination Center</Name>
+            <Address>1-19 Chuo, Mutsu Shi, Aomori 035-0073</Address>
+            <Phone>0175-22-1321</Phone>
+        </Center>
+        <Center>
+            <Name>Hachinohe Driving Licence Examination Center</Name>
+            <Address>1-16-25 Shiroshita, Hachinohe Shi, Aomori 031-0072</Address>
+            <Phone>0178-43-4141</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Iwate">
+        <Center>
+            <Name>Morioka Driving Licence Center</Name>
+            <Address>1-7-1 Moriokaeki Nishi Dori, Morioka Shi, Iwate 020-0045</Address>
+            <Phone>019-606-1251</Phone>
+        </Center>
+        <Center>
+            <Name>Kennan Driving Licence Center</Name>
+            <Address>100-2 Nishine Kitaaramaki, Kanegasaki Cho, Isawa Gun, Iwate 029-4503</Address>
+            <Phone>0197-44-3511</Phone>
+        </Center>
+        <Center>
+            <Name>Engan Driving Licence Center</Name>
+            <Address>3-3-1 Nakazumacho, Kamaishi Shi, Iwate 026-0034</Address>
+            <Phone>0193-23-1515</Phone>
+        </Center>
+        <Center>
+            <Name>Kenhoku Driving Licence Center</Name>
+            <Address>2-1 Kawasakicho, Kuji Shi, Iwate 028-0051</Address>
+            <Phone>0194-52-0613</Phone>
+        </Center>
+        <Center>
+            <Name>Driving Licence Examination Center</Name>
+            <Address>183 Shimoda Nakataira, Morioka Shi, Iwate 028-4134</Address>
+            <Phone>019-683-1251</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Miyagi">
+        <Center>
+            <Name>Miyagi Prefecture Driving Licence Center</Name>
+            <Address>65 Ishinazaka Takakura, Izumi Ku, Sendai Shi, Miyagi 981-3192</Address>
+            <Phone>022-373-3601</Phone>
+        </Center>
+        <Center>
+            <Name>Ishinomaki Driving Licence Center</Name>
+            <Address>134 Akai Minamiichi, Higashimatsushima Shi, Miyagi 981-0501</Address>
+            <Phone>0225-83-6211</Phone>
+        </Center>
+        <Center>
+            <Name>Furukawa Driving Licence Center</Name>
+            <Address>3-4-30 Furukawa Omiya, Osaki Shi, Miyagi 989-6221</Address>
+            <Phone>0229-22-8011</Phone>
+        </Center>
+        <Center>
+            <Name>Sennan Driving Licence Center</Name>
+            <Address>3-1 Nanpei, Ogawara Machi, Shibata Gun, Miyagi 989-1222</Address>
+            <Phone>0224-53-0111</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Akita">
+        <Center>
+            <Name>Akita Prefecture Police Driving Licence Center</Name>
+            <Address>12-1 Araya Minamihamamachi, Akita Shi, Akita 010-1607</Address>
+            <Phone>018-863-1111</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Yamagata">
+        <Center>
+            <Name>General Traffic Safety Center</Name>
+            <Address>1300 Takadama, Tendo Shi, Yamagata 994-0068</Address>
+            <Phone>023-655-2150</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Fukushima">
+        <Center>
+            <Name>Fukushima Driving Licence Center</Name>
+            <Address>1-1 Machiniwasaka, Fukushima Shi, Fukushima 960-2261</Address>
+            <Phone>024-591-4372</Phone>
+        </Center>
+        <Center>
+            <Name>Koriyama Driving Licence Center</Name>
+            <Address>14-6 Otsukimachi Bijoikegami, Koriyama Shi, Fukushima 963-0201</Address>
+            <Phone>024-961-2100</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Ibaraki">
+        <Center>
+            <Name>Ibaraki Prefecture Police Driving Licence Center</Name>
+            <Address>3783-3 Nagaoka, Ibaraki Machi, Higashiibaraki Gun, Ibaraki 311-3197</Address>
+            <Phone>029-293-8811</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Tochigi">
+        <Center>
+            <Name>Tochigi Prefecture Driving Licence Center</Name>
+            <Address>681 Shimoishikawa, Kanuma Shi, Tochigi 322-0017</Address>
+            <Phone>0289-76-0110</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Gunma">
+        <Center>
+            <Name>Gunma Prefecture General Traffic Center</Name>
+            <Address>80-4 Motosojamachi, Maebashi Shi, Gunma 371-0846</Address>
+            <Phone>027-253-9300</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Saitama">
+        <Center>
+            <Name>Saitama Prefecture Driving Licence Center</Name>
+            <Address>405-4 Konosu, Konosu Shi, Saitama 365-0028</Address>
+            <Phone>048-543-2001</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Chiba">
+        <Center>
+            <Name>Chiba Prefecture Driving Licence Center</Name>
+            <Address>1-1-2 Isohara, Mihama Ku, Chiba Shi, Chiba 261-0004</Address>
+            <Phone>043-247-0110</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Tokyo">
+        <Center>
+            <Name>Samezu Driving Licence Examination Center</Name>
+            <Address>1-12-5 Higashi Oi, Shinagawa Ku, Tokyo 140-0011</Address>
+            <Phone>03-3474-1374</Phone>
+        </Center>
+        <Center>
+            <Name>Kanda Driving Licence Renewal Center</Name>
+            <Address>1-1-5 Uchikanda, Chiyoda Ku, Tokyo 101-0047</Address>
+            <Phone>03-3294-3380</Phone>
+        </Center>
+        <Center>
+            <Name>Shinjuku Driving Licence Renewal Center</Name>
+            <Address>2-8-1 Nishishinjuku, Shinjuku Ku, Tokyo 163-8001</Address>
+            <Phone>03-3343-2558</Phone>
+        </Center>
+        <Center>
+            <Name>Koto Driving Licence Examination Center</Name>
+            <Address>1-7-24 Shinsuna, Koto Ku, Tokyo 136-0075</Address>
+            <Phone>03-3699-1151</Phone>
+        </Center>
+        <Center>
+            <Name>Fuchu Driving Licence Examination Center</Name>
+            <Address>3-1-1 Tamacho, Fuchu Shi, Tokyo 183-0002</Address>
+            <Phone>042-362-3591</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Kanagawa">
+        <Center>
+            <Name>Kanagawa Prefecture Police Driving Licence Center</Name>
+            <Address>1-1-1 Nakao, Asahi Ku, Yokohama Shi, Kanagawa 241-0815</Address>
+            <Phone>045-365-3111</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Fukui">
+        <Center>
+            <Name>Fukui Prefecture Driver Education Center</Name>
+            <Address>58-10 Haruecho Haribara, Sakai Shi, Fukui 919-0476</Address>
+            <Phone>0776-51-2820</Phone>
+        </Center>
+        <Center>
+            <Name>Okuetsu Driver Education Center</Name>
+            <Address>32-1-4 Minamishinzaike, Ono Shi, Fukui 912-0011</Address>
+            <Phone>0779-66-7700</Phone>
+        </Center>
+        <Center>
+            <Name>Tannan Driver Education Center</Name>
+            <Address>2-1-1 Hagurichi, Echizen Shi, Fukui 915-0891</Address>
+            <Phone>0778-21-3611</Phone>
+        </Center>
+        <Center>
+            <Name>Reinan Driver Education Center</Name>
+            <Address>1-51 Kurami, Wakasa Cho, Mikatakaminaka Gun, Fukui 919-1323</Address>
+            <Phone>0770-45-2121</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Toyama">
+        <Center>
+            <Name>Toyama Prefecture Driving Education Center</Name>
+            <Address>62-1 Takashima, Toyama Shi, Toyama 931-856</Address>
+            <Phone>076-441-2211</Phone>
+        </Center>
+        <Center>
+            <Name>Takaoka Drivers License Renewal Center</Name>
+            <Address>4-1-22 Ekinan, Takaoka Shi, Toyama 933-0871</Address>
+            <Phone>0766-26-8080</Phone>
+        </Center>
+    </Prefecture>
+
+    <Prefecture ken="Niigata">
+    <Center>
+        <Name>Driving Licence Center</Name>
+        <Address>7-1-1 Higashiko, Seiro Machi, Kitakanbara Gun, Niigata 957-0193</Address>
+        <Phone>025-256-1212</Phone>
+    </Center>
+    <Center>
+        <Name>Driving Licence Center Sado Branch</Name>
+        <Address>389-1 Yoshioka, Sado Shi, Niigata 952-0312</Address>
+        <Phone>0259-55-0067</Phone>
+    </Center>
+    <Center>
+        <Name>Driving Licence Center Nagaoka Branch</Name>
+        <Address>1-7-1 Kamimaejima, Nagaoka Shi, Niigata 940-1140</Address>
+        <Phone>0258-22-1050</Phone>
+    </Center>
+    <Center>
+        <Name>Driving Licence Center Joetsu Branch</Name>
+        <Address>1174-3 Kakizakiku Nomihama, Joetsu Shi, Niigata 949-3215</Address>
+        <Phone>025-536-3688</Phone>
+    </Center>
+</Prefecture>
+    <Prefecture ken="Ishikawa">
+        <Center>
+            <Name>Ishikawa Prefecture Driving Licence Center</Name>
+            <Address>2-1 Higashi Kagatsumemachi, Kanazawa Shi, Ishikawa 920-0209</Address>
+            <Phone>076-238-5901</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Yamanashi">
+        <Center>
+            <Name>Yamanashi Prefecture General Traffic Center</Name>
+            <Address>825 Shimotakasuna, Minami-Alps Shi, Yamanashi 400-0202</Address>
+            <Phone>055-285-0533</Phone>
+        </Center>
+        <Center>
+            <Name>Driving Licence Section Tsuru Branch</Name>
+            <Address>3-2-2 Shimoya, Tsuru Shi, Yamanashi 402-0051</Address>
+            <Phone>0554-43-4101</Phone>
+        </Center>
+    </Prefecture>
+
+    <Prefecture ken="Nagano">
+        <Center>
+            <Name>Hokushin Driving License Center</Name>
+            <Address>704-2 Kawanakajimamachi Hara, Nagano Shi, Nagano 381-2224</Address>
+            <Phone>026-292-2345</Phone>
+        </Center>
+        <Center>
+            <Name>Toshin Driving License Center</Name>
+            <Address>131-1 Kyowa, Saku Shi, Nagano 384-2204</Address>
+            <Phone>0267-53-1550</Phone>
+        </Center>
+        <Center>
+            <Name>Chunanshin Driving License Center</Name>
+            <Address>73-116 Soga Kikyogahara, Shiojiri Shi, Nagano 399-6461</Address>
+            <Phone>0263-53-6611</Phone>
+        </Center>
+    </Prefecture>
+
+    <Prefecture ken="Gifu">
+        <Center>
+            <Name>Gifu Prefecture Driving Licence Center</Name>
+            <Address>2-1-1 Sango, Ginan Cho, Hashima Gun, Gifu 501-6002</Address>
+            <Phone>058-245-1000</Phone>
+        </Center>
+        <Center>
+            <Name>Tono Driving Licence Center</Name>
+            <Address>5-1 Akedo, Mizunami Shi, Gifu 509-6103</Address>
+            <Phone>0572-68-0101</Phone>
+        </Center>
+        <Center>
+            <Name>Hida Driving Licence Center</Name>
+            <Address>1-1-1 Kamikiri, Takayama Shi, Gifu 506-0053</Address>
+            <Phone>0577-32-0110</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Shizuoka">
+        <Center>
+            <Name>Chubu Driving License Center</Name>
+            <Address>6-16-1 Yoichi, Aoi Ku, Shizuoka Shi, Shizuoka 420-0949</Address>
+            <Phone>054-272-2221</Phone>
+        </Center>
+        <Center>
+            <Name>Tobu Driving License Center</Name>
+            <Address>241-10 Ashitaka Onoue, Numazu Shi, Shizuoka 410-0001</Address>
+            <Phone>055-921-2000</Phone>
+        </Center>
+        <Center>
+            <Name>Seibu Driving License Center</Name>
+            <Address>3220 Komatsu, Hamakita Ku, Hamamatsu Shi, Shizuoka 434-0042</Address>
+            <Phone>053-587-2000</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Aichi">
+        <Center>
+            <Name>Aichi Prefecture Driving Licence Examination Center</Name>
+            <Address>3-605 Hirabariminami, Tenpaku Ku, Nagoya Shi, Aichi 468-8513</Address>
+            <Phone>052-801-3211</Phone>
+        </Center>
+        <Center>
+            <Name>Higashi Mikawa Driving Licence Center</Name>
+            <Address>2-7 Kanaya Nishimachi, Toyokawa Shi, Aichi 442-0067</Address>
+            <Phone>0533-85-7181</Phone>
+        </Center>
+    </Prefecture>
+        <Prefecture ken="Mie">
+            <Center>
+                <Name>Mie Prefecture Driving Licence Center</Name>
+                <Address>2566 Tarumi, Tsu Shi, Mie 514-0821</Address>
+                <Phone>059-229-1212</Phone>
+            </Center>
+        </Prefecture>
+        <Prefecture ken="Nara">
+            <Center>
+                <Name>Nara Prefecture Driving Licence Center</Name>
+                <Address>2-1-1 Takabatakecho, Nara Shi, Nara 630-8201</Address>
+                <Phone>0742-23-2000</Phone>
+            </Center>
+        </Prefecture>
+        <Prefecture ken="Osaka">
+            <Center>
+                <Name>Kadoma Driving Licence Examination Center</Name>
+                <Address>23-16 Ichibancho, Kadoma Shi, Osaka 571-8555</Address>
+                <Phone>06-6908-9121</Phone>
+            </Center>
+            <Center>
+                <Name>Komyoike Driving Licence Examination Center</Name>
+                <Address>5-13-1 Fuseyacho, Izumi Shi, Osaka 594-0031</Address>
+                <Phone>0725-56-1881</Phone>
+            </Center>
+        </Prefecture>
+        <Prefecture ken="Hyogo">
+            <Center>
+                <Name>Akashi Driving Licence Examination Center</Name>
+                <Address>1649-2 Niyamacho, Akashi Shi, Hyogo 673-0842</Address>
+                <Phone>078-912-1628</Phone>
+            </Center>
+            <Center>
+                <Name>Hanshin Drivers License Renewal Center</Name>
+                <Address>1-14-21 Itami, Itami Shi, Hyogo 664-0846</Address>
+                <Phone>072-783-0110</Phone>
+            </Center>
+            <Center>
+                <Name>Kobe Drivers License Renewal Center</Name>
+                <Address>5-6-21 Shimoyamate Dori, Chuo Ku, Kobe Shi, Hyogo 650-0011</Address>
+                <Phone>078-351-7201</Phone>
+            </Center>
+            <Center>
+                <Name>Himeji Drivers License Renewal Center</Name>
+                <Address>926-5 Ichinogo, Himeji Shi, Hyogo 670-0943</Address>
+                <Phone>079-222-0550</Phone>
+            </Center>
+            <Center>
+                <Name>Tajima Drivers License Renewal Center</Name>
+                <Address>48-5 Yokacho Asakura, Yabu Shi, Hyogo 667-0024</Address>
+                <Phone>079-662-1117</Phone>
+            </Center>
+        </Prefecture>
+
+        <Prefecture ken="Wakayama">
+            <Center>
+                <Name>Wakayama Prefecture Driving Licence Examination Center</Name>
+                <Address>1 Nishi, Wakayama Shi, Wakayama 640-8313</Address>
+                <Phone>073-473-0110</Phone>
+            </Center>
+            <Center>
+                <Name>Tanabe Drivers License Center</Name>
+                <Address>1-2-5 Uenoyama, Tanabe Shi, Wakayama 646-0061</Address>
+                <Phone>0739-22-6700</Phone>
+            </Center>
+            <Center>
+                <Name>Shingu Drivers License Center</Name>
+                <Address>1148-4 Miwasaki, Shingu Shi, Wakayama 647-0061</Address>
+                <Phone>0735-31-7771</Phone>
+            </Center>
+        </Prefecture>
+        <Prefecture ken="Tottori">
+            <Center>
+                <Name>Tottori Prefecture Driving Licence Center</Name>
+                <Address>2-522 Yoshikata, Tottori Shi, Tottori 680-0942</Address>
+                <Phone>0857-28-0110</Phone>
+            </Center>
+            <Center>
+                <Name>Yonago Drivers License Center</Name>
+                <Address>2-1-1 Yodoecho, Yonago Shi, Tottori 689-3403</Address>
+                <Phone>0859-56-0110</Phone>
+            </Center>
+        </Prefecture>
+        <Prefecture ken="Shimane">
+            <Center>
+                <Name>Shimane Prefecture Driving Licence Center</Name>
+                <Address>1-1-1 Nishikawatsu, Matsue Shi, Shimane 690-0011</Address>
+                <Phone>0852-23-0110</Phone>
+            </Center>
+            <Center>
+                <Name>Hamada Drivers License Center</Name>
+                <Address>208-3 Kawahira, Hamada Shi, Shimane 697-0027</Address>
+                <Phone>0855-22-0110</Phone>
+            </Center>
+            <Center>
+                <Name>Izumo Drivers License Center</Name>
+                <Address>1-1-1 Otsukacho, Izumo Shi, Shimane 693-0021</Address>
+                <Phone>0853-21-0110</Phone>
+            </Center>
+        </Prefecture>
+        <Prefecture ken="Okayama">
+            <Center>
+                <Name>Okayama Prefecture Driving Licence Center</Name>
+                <Address>1-1-1 Kitanagase Omotecho, Okayama Shi, Okayama 700-0964</Address>
+                <Phone>086-256-0110</Phone>
+            </Center>
+            <Center>
+                <Name>Tsuyama Drivers License Center</Name>
+                <Address>1-1-1 Higashishinmachi, Tsuyama Shi, Okayama 708-0841</Address>
+                <Phone>0868-22-0110</Phone>
+            </Center>
+            <Center>
+                <Name>Kurashiki Drivers License Center</Name>
+                <Address>1-1-1 Chuo, Kurashiki Shi, Okayama 710-0046</Address>
+                <Phone>086-422-0110</Phone>
+            </Center>
+        </Prefecture>
+        <Prefecture ken="Hiroshima">
+            <Center>
+                <Name>Hiroshima Prefecture Driving Licence Center</Name>
+                <Address>1-1-1 Osu, Asaminami Ku, Hiroshima Shi, Hiroshima 731-3161</Address>
+                <Phone>082-881-0111</Phone>
+            </Center>
+            <Center>
+                <Name>Fukuyama Drivers License Center</Name>
+                <Address>1-1-1 Kitayoshizucho, Fukuyama Shi, Hiroshima 720-0003</Address>
+                <Phone>084-922-0110</Phone>
+            </Center>
+            <Center>
+                <Name>Miyoshi Drivers License Center</Name>
+                <Address>1-1-1 Tokaichicho, Miyoshi Shi, Hiroshima 728-0013</Address>
+                <Phone>0824-62-0110</Phone>
+            </Center>
+        </Prefecture>
+        <Prefecture ken="Yamaguchi">
+            <Center>
+                <Name>Yamaguchi Prefecture Driving Licence Center</Name>
+                <Address>1-1-1 Ogori, Yamaguchi Shi, Yamaguchi 754-0002</Address>
+                <Phone>083-973-0110</Phone>
+            </Center>
+            <Center>
+                <Name>Shimonoseki Drivers License Center</Name>
+                <Address>1-1-1 Hikoshima, Shimonoseki Shi, Yamaguchi 750-0092</Address>
+                <Phone>083-267-0110</Phone>
+            </Center>
+            <Center>
+                <Name>Tokuyama Drivers License Center</Name>
+                <Address>1-1-1 Sakuragi, Shunan Shi, Yamaguchi 745-0031</Address>
+                <Phone>0834-21-0110</Phone>
+            </Center>
+            <Center>
+                <Name>Iwakuni Drivers License Center</Name>
+                <Address>1-1-1 Marifumachi, Iwakuni Shi, Yamaguchi 740-0018</Address>
+                <Phone>0827-21-0110</Phone>
+            </Center>
+            <Center>
+                <Name>Hagi Drivers License Center</Name>
+                <Address>1-1-1 Horiuchi, Hagi Shi, Yamaguchi 758-0025</Address>
+                <Phone>0838-22-0110</Phone>
+            </Center>
+        </Prefecture>
+    <Prefecture ken="Tokushima">
+        <Center>
+            <Name>Tokushima Prefecture Driving Licence Center</Name>
+            <Address>1-1-1 Kitajima, Itano Gun, Tokushima 771-0203</Address>
+            <Phone>088-698-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Western Tokushima Drivers License Center</Name>
+            <Address>1-1-1 Nishibun, Mima Shi, Tokushima 779-3601</Address>
+            <Phone>0883-53-0110</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Kagawa">
+        <Center>
+            <Name>Kagawa Prefecture Driving Licence Center</Name>
+            <Address>1-1-1 Tahi, Takamatsu Shi, Kagawa 761-8051</Address>
+            <Phone>087-881-0110</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Ehime">
+        <Center>
+            <Name>Ehime Prefecture Driving Licence Center</Name>
+            <Address>1-1-1 Minamiyoshidamachi, Matsuyama Shi, Ehime 790-0044</Address>
+            <Phone>089-934-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Nanyo Drivers License Center</Name>
+            <Address>1-1-1 Kitayoshidamachi, Uwajima Shi, Ehime 798-0027</Address>
+            <Phone>0895-22-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Saijo Drivers License Center</Name>
+            <Address>1-1-1 Higashiyama, Saijo Shi, Ehime 793-0030</Address>
+            <Phone>0897-56-0110</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Kochi">
+        <Center>
+            <Name>Kochi Prefecture Driving Licence Center</Name>
+            <Address>1-1-1 Asakura, Kochi Shi, Kochi 780-8063</Address>
+            <Phone>088-844-0110</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Fukuoka">
+        <Center>
+            <Name>Fukuoka Prefecture Driving Licence Center</Name>
+            <Address>1-1-1 Higashikoen, Hakata Ku, Fukuoka Shi, Fukuoka 812-0052</Address>
+            <Phone>092-631-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Kitakyushu Drivers License Center</Name>
+            <Address>1-1-1 Koyanose, Yahatanishi Ku, Kitakyushu Shi, Fukuoka 807-0841</Address>
+            <Phone>093-691-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Kurume Drivers License Center</Name>
+            <Address>1-1-1 Kokubu, Kurume Shi, Fukuoka 839-0862</Address>
+            <Phone>0942-43-0110</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Saga">
+        <Center>
+            <Name>Saga Prefecture Driving Licence Center</Name>
+            <Address>1-1-1 Nabeshima, Saga Shi, Saga 849-0932</Address>
+            <Phone>0952-30-0110</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Nagasaki">
+        <Center>
+            <Name>Nagasaki Prefecture Driving Licence Center</Name>
+            <Address>1-1-1 Kogakura, Nagasaki Shi, Nagasaki 851-1132</Address>
+            <Phone>095-838-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Sasebo Drivers License Center</Name>
+            <Address>1-1-1 Shirahama, Sasebo Shi, Nagasaki 857-1164</Address>
+            <Phone>0956-48-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Shimabara Drivers License Center</Name>
+            <Address>1-1-1 Shinmachi, Shimabara Shi, Nagasaki 855-0036</Address>
+            <Phone>0957-62-0110</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Kumamoto">
+        <Center>
+            <Name>Kumamoto Prefecture Driving Licence Center</Name>
+            <Address>1-1-1 Higashimachi, Kumamoto Shi, Kumamoto 862-0901</Address>
+            <Phone>096-381-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Yatsushiro Drivers License Center</Name>
+            <Address>1-1-1 Honmachi, Yatsushiro Shi, Kumamoto 866-0861</Address>
+            <Phone>0965-33-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Amakusa Drivers License Center</Name>
+            <Address>1-1-1 Irifune, Amakusa Shi, Kumamoto 863-0013</Address>
+            <Phone>0969-22-0110</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Oita">
+        <Center>
+            <Name>Oita Prefecture Driving Licence Center</Name>
+            <Address>1-1-1 Tsurusaki, Oita Shi, Oita 870-0100</Address>
+            <Phone>097-521-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Hita Drivers License Center</Name>
+            <Address>1-1-1 Motomachi, Hita Shi, Oita 877-0013</Address>
+            <Phone>0973-22-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Saiki Drivers License Center</Name>
+            <Address>1-1-1 Oaza, Saiki Shi, Oita 876-0844</Address>
+            <Phone>0972-22-0110</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Miyazaki">
+        <Center>
+            <Name>Miyazaki Prefecture Driving Licence Center</Name>
+            <Address>1-1-1 Sadowara, Miyazaki Shi, Miyazaki 880-0211</Address>
+            <Phone>0985-73-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Nobeoka Drivers License Center</Name>
+            <Address>1-1-1 Asahimachi, Nobeoka Shi, Miyazaki 882-0054</Address>
+            <Phone>0982-32-0110</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Kagoshima">
+        <Center>
+            <Name>Kagoshima Prefecture Driving Licence Center</Name>
+            <Address>1-1-1 Taniyama, Kagoshima Shi, Kagoshima 891-0203</Address>
+            <Phone>099-266-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Kokubu Drivers License Center</Name>
+            <Address>1-1-1 Kokubu, Kirishima Shi, Kagoshima 899-4332</Address>
+            <Phone>0995-45-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Kawanabe Drivers License Center</Name>
+            <Address>1-1-1 Kawanabe, Minamikyushu Shi, Kagoshima 897-0302</Address>
+            <Phone>0993-56-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Kanoya Drivers License Center</Name>
+            <Address>1-1-1 Kanoya, Kanoya Shi, Kagoshima 893-0007</Address>
+            <Phone>0994-42-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Okinoerabu Drivers License Center</Name>
+            <Address>1-1-1 Wadomari, Oshima Gun, Kagoshima 891-9112</Address>
+            <Phone>0997-92-0110</Phone>
+        </Center>
+    </Prefecture>
+    <Prefecture ken="Okinawa">
+        <Center>
+            <Name>Okinawa Prefecture Driving Licence Center</Name>
+            <Address>1-1-1 Uebaru, Naha Shi, Okinawa 901-1111</Address>
+            <Phone>098-851-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Miyako Drivers License Center</Name>
+            <Address>1-1-1 Hirara, Miyakojima Shi, Okinawa 906-0012</Address>
+            <Phone>0980-72-0110</Phone>
+        </Center>
+        <Center>
+            <Name>Yaeyama Drivers License Center</Name>
+            <Address>1-1-1 Tonoshiro, Ishigaki Shi, Okinawa 907-0004</Address>
+            <Phone>0980-82-0110</Phone>
+        </Center>
+    </Prefecture>
+
+
+
+</DriverLicenseCentersJapan>
