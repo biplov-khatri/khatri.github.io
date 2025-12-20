@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exercises>
+    <exercise>
+        <number>1</number>
+        <name>Wall Triceps and Lat Stretch</name>
+        <bodyPart>Back</bodyPart>
+        <bodyPart>Arms</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>No Equipment</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=d0UG1-VXPpk</video>
+        <goal>Flexibility</goal>
+        <goal>Mobility</goal>
+        <goal>Posture</goal>
+        <icon>https://img.icons8.com/color/96/stretching.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/ZZTGMKh.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <whatItDoes>Increases flexibility and range of motion in the triceps, latissimus dorsi (lats), and shoulders, helping to improve overhead mobility and reduce tension in the upper back.</whatItDoes>
+        <executionSteps>
+            <step>Stand next to a wall and raise one arm overhead, bending the elbow so your hand rests behind your neck.</step>
+            <step>Place your bent elbow and forearm flat against the wall, keeping your body close.</step>
+            <step>Slowly lean your upper body into the wall and push your hips slightly away to deepen the stretch along the side of your torso and tricep.</step>
+            <step>Maintain a steady breath and hold the stretch for 20–30 seconds.</step>
+            <step>Release and switch sides, repeating for the other arm.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Shrugging the shoulder toward the ear; actively try to keep the shoulder relaxed and down.</mistake>
+            <mistake>Bouncing or forcing the stretch with jerky movements; the stretch should be slow and controlled.</mistake>
+            <mistake>Allowing the lower back to arch excessively off the wall if the body is against the wall.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>2</number>
+        <name>Standing Dumbbell Bicep Curl</name>
+        <bodyPart>Arms</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Dumbbell</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=bDyMYq_DsDM</video>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/biceps.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/0IgNjSM.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <whatItDoes>Targets the biceps brachii, brachialis, and brachioradialis to build mass and strength in the arms.</whatItDoes>
+        <executionSteps>
+            <step>Stand with feet hip-width apart, holding a dumbbell in each hand, palms facing forward (supinated grip).</step>
+            <step>Keep your elbows pinned close to your sides and squeeze your abs for stability.</step>
+            <step>Exhale and curl the dumbbells upward toward your shoulders, rotating your wrists slightly (supinating the pinky) to maximize the bicep contraction at the top.</step>
+            <step>Squeeze your biceps at the peak contraction, then slowly lower the dumbbells back to the starting position with control, maintaining tension.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Swinging or using aggressive, jerky movements (momentum/cheating) to lift the weight.</mistake>
+            <mistake>Allowing the elbows to drift forward, which shifts the work to the front deltoids.</mistake>
+            <mistake>Not twisting the pinky through at the top of the curl for a full bicep contraction.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>3</number>
+        <name>Standing Cable Crossover</name>
+        <bodyPart>Chest</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Cable Machine</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=JUDTGZh4rhg</video>
+        <goal>Muscle Growth</goal>
+        <goal>Definition</goal>
+        <icon>https://img.icons8.com/color/96/chest.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/0CXGHya.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Intermediate</difficulty>
+        <whatItDoes>An isolation exercise that primarily targets the sternal (lower/middle) head of the pectoralis major, emphasizing the adduction function of the chest for definition.</whatItDoes>
+        <executionSteps>
+            <step>Set the cable pulleys to a high position, grab a handle in each hand, and step forward into a staggered stance, leaning your torso slightly forward.</step>
+            <step>Keep a slight bend in your elbows (15–30°) and retract your shoulder blades to open your chest.</step>
+            <step>Exhale and bring the handles down and across your body's midline, contracting the chest fully until your hands or biceps touch your chest.</step>
+            <step>At the end of the repetition, squeeze your shoulders down (depress) to fully light up the chest.</step>
+            <step>Return slowly to the starting position for a full stretch, controlling the weight.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Stopping the movement before bringing the handles across the body's midline for full adduction.</mistake>
+            <mistake>Rounding the shoulders forward, which limits full pec contraction.</mistake>
+            <mistake>Locking the arms completely straight; keep a slight bend in the elbow.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>4</number>
+        <name>Seated Overhead Rope Pulldown (Lat Focus)</name>
+        <bodyPart>Back</bodyPart>
+        <bodyPart>Arms</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Cable Machine</item>
+            <item>Rope Attachment</item>
+            <item>Bench/Seat</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=zYwdkLtAjg8</video>
+        <goal>Muscle Growth</goal>
+        <goal>Mind-Muscle Connection</goal>
+        <icon>https://img.icons8.com/color/96/back.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/0I5fUyn.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Intermediate</difficulty>
+        <whatItDoes>Helps establish a better mind-to-muscle connection with the lats by performing the pulldown in a seated, isolated position, emphasizing the stretch and contraction of the latissimus dorsi.</whatItDoes>
+        <executionSteps>
+            <step>Position a short bench facing a high cable pulley and attach a rope. Sit on the bench and grasp the rope attachment with both hands (palms facing in).</step>
+            <step>Keep a slight bend in your elbows and maintain a stable torso, extending the rope overhead.</step>
+            <step>Pull the rope down and slightly toward your sides by driving your elbows down, focusing on contracting the lats.</step>
+            <step>Pause briefly at the bottom of the movement.</step>
+            <step>Slowly return the rope to the overhead position for a full stretch, controlling the eccentric phase.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Using momentum or swinging the body to move the weight.</mistake>
+            <mistake>Using too much bicep to pull the weight down instead of initiating the pull with the lats.</mistake>
+            <mistake>Not controlling the weight on the way up (eccentric phase).</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>5</number>
+        <name>Side Lying Foam Roll (IT Band)</name>
+        <bodyPart>Legs</bodyPart>
+        <bodyPart>Flexibility</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Foam Roller</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=OUEUbgYN1VE</video>
+        <goal>Recovery</goal>
+        <goal>Mobility</goal>
+        <goal>Pain Relief</goal>
+        <icon>https://img.icons8.com/color/96/stretching.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/0L2KwtI.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <whatItDoes>A self-myofascial release technique used to reduce tension and tightness in the iliotibial (IT) band, hips, and surrounding muscles, which can help relieve knee and hip pain.</whatItDoes>
+        <executionSteps>
+            <step>Lie on your side with the foam roller positioned just below your hip bone (greater trochanter).</step>
+            <step>Support your body with your hands and use your top leg, bent in front of you, for stability and to adjust pressure.</step>
+            <step>Roll slowly from the hip down to your knee.</step>
+            <step>Pause on any particularly tight or sore spots for 20-30 seconds to allow the tissue to release.</step>
+            <step>Repeat on the other side.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Rolling directly over the hip bone (greater trochanter), which can cause discomfort.</mistake>
+            <mistake>Rolling too quickly without pausing on trigger points.</mistake>
+            <mistake>Believing you are 'stretching' the IT band itself (you are targeting the surrounding musculature like the TFL and glutes).</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>6</number>
+        <name>Standing Calf Raise</name>
+        <bodyPart>Legs</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Dumbbell</item>
+            <item>Elevated Surface</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=SVtg-1loH4c</video>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/leg.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/0mB6wHO.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <whatItDoes>Primarily targets the gastrocnemius muscle (with the knee straight), strengthening the calves and improving ankle stability and explosiveness.</whatItDoes>
+        <executionSteps>
+            <step>Stand tall, holding a dumbbell in one hand (or both, or use a machine). Stand with the balls of your feet on an elevated surface, heels hanging off, for a full range of motion.</step>
+            <step>Keep your knees straight (gently squeeze the thigh muscle) and your torso upright.</step>
+            <step>Slowly lower your heels down towards the ground to get a full stretch in the calves, controlling the eccentric movement for 2–3 seconds.</step>
+            <step>Press powerfully through the balls of your feet to raise your body as high as possible, aiming for a peak contraction at the top.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Rushing the movement or bouncing (using the elastic energy of the Achilles tendon instead of the calf muscles).</mistake>
+            <mistake>Bending the knees to create momentum, which takes tension off the gastrocnemius.</mistake>
+            <mistake>Rolling out onto the ankles or letting the body lean to the outside.</mistake>
+            <mistake>Not achieving a full range of motion by stopping short on the descent.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>7</number>
+        <name>Standing Dumbbell Bicep Curl (Full Body Icon)</name>
+        <bodyPart>Arms</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Dumbbell</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=bDyMYq_DsDM</video>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/biceps.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/0JtKWum.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <whatItDoes>Targets the biceps brachii, brachialis, and brachioradialis to build mass and strength in the arms.</whatItDoes>
+        <executionSteps>
+            <step>Stand with feet hip-width apart, holding a dumbbell in each hand, palms facing forward (supinated grip).</step>
+            <step>Keep your elbows pinned close to your sides and squeeze your abs for stability.</step>
+            <step>Exhale and curl the dumbbells upward toward your shoulders, rotating your wrists slightly (supinating the pinky) to maximize the bicep contraction at the top.</step>
+            <step>Squeeze your biceps at the peak contraction, then slowly lower the dumbbells back to the starting position with control, maintaining tension.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Swinging or using aggressive, jerky movements (momentum/cheating) to lift the weight.</mistake>
+            <mistake>Allowing the elbows to drift forward, which shifts the work to the front deltoids.</mistake>
+            <mistake>Not twisting the pinky through at the top of the curl for a full bicep contraction.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>8</number>
+        <name>Wide Grip Lat Pulldown</name>
+        <bodyPart>Back</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Lat Pulldown Machine</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=DX7bEF6na6U</video>
+        <goal>Muscle Growth</goal>
+        <goal>Back Width</goal>
+        <icon>https://img.icons8.com/color/96/back.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/0MlxeMn.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <whatItDoes>A fundamental back exercise that primarily targets the latissimus dorsi, building back width and thickness, with secondary involvement from the biceps and rear delts.</whatItDoes>
+        <executionSteps>
+            <step>Adjust the knee pad so you are secured tightly. Grab the bar with a wide overhand grip.</step>
+            <step>Depress your shoulders (pull them down) and lean back slightly (around 15-20 degrees) with your chest up.</step>
+            <step>Exhale and drive your elbows down towards your sides and back, bringing the bar to your upper chest/collarbone area. Focus on contracting your lats.</step>
+            <step>Pause and squeeze at the bottom position.</step>
+            <step>Control the bar slowly back up to the starting position until your arms are fully extended, feeling a full stretch in the lats.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Stopping the movement short (not driving the elbows down and in).</mistake>
+            <mistake>Using momentum or swinging the body to move the weight.</mistake>
+            <mistake>Allowing the shoulders to shrug up towards the ears at the top of the movement.</mistake>
+            <mistake>Not fully stretching the lats on the ascent.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>9</number>
+        <name>Seated Barbell Overhead Press</name>
+        <bodyPart>Shoulders</bodyPart>
+        <bodyPart>Arms</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Barbell</item>
+            <item>Rack</item>
+            <item>Bench/Seat</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=5a6bRnvjlgg</video>
+        <goal>Strength</goal>
+        <goal>Muscle Growth</goal>
+        <icon>https://img.icons8.com/color/96/shoulders.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/0dCyly0.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Intermediate</difficulty>
+        <whatItDoes>A compound exercise that builds strength and mass in all three heads of the deltoids (shoulders), as well as the triceps and upper chest.</whatItDoes>
+        <executionSteps>
+            <step>Sit upright on a bench with back support inside a power rack, adjusting the bar height to neck/upper chest level.</step>
+            <step>Take a full grip slightly wider than shoulder-width, and unrack the bar so it rests across the front of your shoulders/base of your neck.</step>
+            <step>Ensure your forearms are vertical and your wrists and elbows stay directly under the bar.</step>
+            <step>Exhale and press the bar straight up overhead until your arms are almost fully locked out.</step>
+            <step>Gently push your head "through the window" (just enough to finish with the bar over your shoulders).</step>
+            <step>Slowly lower the bar back to the starting position on your shoulders.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Overarching the lower back excessively while pressing.</mistake>
+            <mistake>Not using a full range of motion or failing to fully lock out the elbows at the top.</mistake>
+            <mistake>Allowing the elbows to roll too far forward in the bottom position.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>10</number>
+        <name>Kneeling Cable Crunch</name>
+        <bodyPart>Core</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Cable Machine</item>
+            <item>Rope Attachment</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=0KEP6A1deBE</video>
+        <goal>Muscle Growth</goal>
+        <goal>Core Strength</goal>
+        <goal>Definition</goal>
+        <icon>https://img.icons8.com/color/96/abs.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/0rHfvy9.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Intermediate</difficulty>
+        <whatItDoes>An isolation exercise that effectively targets the rectus abdominis (six-pack muscle) by performing weighted spinal flexion, maximizing muscle activation under load.</whatItDoes>
+        <executionSteps>
+            <step>Set the cable pulley to the highest setting and attach a rope. Kneel facing the machine and grasp the rope, holding it by your head/forehead.</step>
+            <step>Bring your hips slightly back so your body is leaning forward, creating tension on the abs.</step>
+            <step>Exhale and crunch your torso down towards your knees, focusing on spinal flexion (rounding your back and contracting your abs) rather than just pushing with your arms.</step>
+            <step>Keep your elbows in towards your sides and squeeze your abs at the bottom.</step>
+            <step>Slowly return to the starting position, allowing the abs to stretch without fully relaxing the tension.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Using the hips/legs to swing or pull down (using momentum) instead of the abdominal muscles.</mistake>
+            <mistake>Pulling the rope down using the arms/lats instead of focusing on spinal flexion.</mistake>
+            <mistake>Not achieving a full contraction or range of motion.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>11</number>
+        <name>Seated Resistance Band Abduction</name>
+        <bodyPart>Legs</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Resistance Band</item>
+            <item>Bench/Seat</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=F07_q8D3gE0</video>
+        <goal>Muscle Activation</goal>
+        <goal>Hip Stability</goal>
+        <icon>https://img.icons8.com/color/96/gluteus-maximus.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/0xDpB4L.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <whatItDoes>An isolation exercise that activates and strengthens the hip abductors, primarily the gluteus medius and minimus, improving hip stability and knee tracking. Often used as a warm-up or pre-exhaustion movement.</whatItDoes>
+        <executionSteps>
+            <step>Sit on the edge of a bench and place a resistance band just above your knees.</step>
+            <step>Place your feet flat on the floor, keeping your back straight and hands resting lightly on the bench for support.</step>
+            <step>Exhale and slowly push your knees outward against the resistance of the band, separating your legs and contracting your side glutes.</step>
+            <step>Pause briefly at the point of maximum contraction.</step>
+            <step>Control the movement back to the starting position, maintaining constant tension on the band.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Allowing the feet to roll inward or outward; keep the feet flat and planted.</mistake>
+            <mistake>Rounding the back or leaning forward excessively.</mistake>
+            <mistake>Using jerky or fast movements; the movement should be slow and controlled.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>12</number>
+        <name>Smith Machine Upright Row</name>
+        <bodyPart>Shoulders</bodyPart>
+        <bodyPart>Arms</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Smith Machine</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=S-rW8pGvYlU</video>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/shoulders.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/1DN3iz4.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Intermediate</difficulty>
+        <whatItDoes>Targets the medial and anterior heads of the deltoids (shoulders) and the trapezius (traps). Using the Smith Machine enforces strict form and balance.</whatItDoes>
+        <executionSteps>
+            <step>Stand facing the Smith Machine bar, taking a medium-width grip (hands slightly narrower than shoulder-width).</step>
+            <step>Stand tall with the chest up and keep the core tight.</step>
+            <step>Exhale and pull the bar straight up toward your chin, leading with your elbows. Keep the bar close to your body.</step>
+            <step>Stop the upward movement when your elbows are level with or slightly above your shoulders.</step>
+            <step>Slowly lower the bar back to the starting position, controlling the weight throughout the eccentric phase.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Pulling the bar too high, which can cause shoulder impingement (limit the pull to chin height or lower).</mistake>
+            <mistake>Using too wide of a grip, which decreases the range of motion.</mistake>
+            <mistake>Shrugging the shoulders excessively; focus on lifting the bar with the deltoids.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>13</number>
+        <name>Barbell Squat (High Bar)</name>
+        <bodyPart>Legs</bodyPart>
+        <bodyPart>Core</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Barbell</item>
+            <item>Rack</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=ultcQyI8wzE</video>
+        <goal>Strength</goal>
+        <goal>Muscle Growth</goal>
+        <goal>Functional Fitness</goal>
+        <icon>https://img.icons8.com/color/96/squats.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/1g5bPpA.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Intermediate</difficulty>
+        <whatItDoes>A compound movement targeting the entire lower body—quadriceps, glutes, and hamstrings—while also building core and lower back strength. The high-bar position places slightly more emphasis on the quads.</whatItDoes>
+        <executionSteps>
+            <step>Set the barbell in a rack slightly below shoulder height. Step under and place the bar high on your traps, grasping it firmly with a medium grip.</step>
+            <step>Unrack the bar and take 1-2 steps back. Position your feet slightly wider than hip-width, toes pointing slightly out (15-30 degrees).</step>
+            <step>Take a deep breath, brace your core, and initiate the descent by breaking at the hips and knees simultaneously.</step>
+            <step>Squat down until your hips are below your knees (or as low as your mobility allows), keeping your chest up and back straight.</step>
+            <step>Drive through your mid-foot/heels to stand back up, exhaling as you reach the top.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Allowing the lower back to round (butt wink) at the bottom of the squat, which can stress the spine.</mistake>
+            <mistake>Letting the knees cave inward (valgus collapse); actively push the knees out over the feet.</mistake>
+            <mistake>Lifting the hips faster than the shoulders on the ascent (Good Morning squatting the weight).</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>14</number>
+        <name>Smith Machine Good Morning</name>
+        <bodyPart>Legs</bodyPart>
+        <bodyPart>Back</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Smith Machine</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=oVw_qGz4y9w</video>
+        <goal>Strength</goal>
+        <goal>Muscle Growth</goal>
+        <icon>https://img.icons8.com/color/96/hamstring.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/1bQkKZK.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Intermediate</difficulty>
+        <whatItDoes>Targets the entire posterior chain, primarily the hamstrings, glutes, and lower back (erector spinae). The Smith Machine stabilizes the bar, forcing strict hip hinge movement.</whatItDoes>
+        <executionSteps>
+            <step>Set the Smith Machine bar to shoulder height. Load the bar and step under it, resting it high on your upper traps.</step>
+            <step>Take a medium-width stance and unrack the bar.</step>
+            <step>Initiate the movement by taking a deep breath and bracing your core, pushing your hips straight backward as if closing a car door with your glutes.</step>
+            <step>Maintain a slight bend in your knees and a neutral spine, lowering your torso until it is nearly parallel to the floor or until you feel a deep stretch in your hamstrings.</step>
+            <step>Powerfully contract your glutes and hamstrings to reverse the movement and stand back up straight, exhaling at the top.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Rounding the back (losing the neutral spine position); keep the back flat and core tight.</mistake>
+            <mistake>Excessively bending the knees, which turns the exercise into a squat.</mistake>
+            <mistake>Not controlling the descent; the movement should be slow and deliberate for a proper stretch.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>15</number>
+        <name>Seated Smith Machine Calf Raise</name>
+        <bodyPart>Legs</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Smith Machine</item>
+            <item>Bench/Seat</item>
+            <item>Block/Plate</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=4-Q0v924o3U</video>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/leg.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/0S75mYG.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Intermediate</difficulty>
+        <whatItDoes>An isolation movement that targets the soleus muscle (located beneath the gastrocnemius), which is best activated when the knee is bent, promoting overall calf thickness and endurance.</whatItDoes>
+        <executionSteps>
+            <step>Set a bench inside a Smith Machine and place a wooden block or bumper plate under the bar. Sit on the bench and rest the bar across the tops of your thighs, just above your knees.</step>
+            <step>Place the balls of your feet on the elevated surface, letting your heels hang off for a full stretch.</step>
+            <step>Unrack the bar and hold it steady with your hands.</step>
+            <step>Slowly lower your heels down towards the floor to maximize the stretch in the calves.</step>
+            <step>Powerfully raise your heels up as high as possible, squeezing the calves at the peak contraction.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Relying on momentum to move the weight rather than slow, deliberate muscle contraction.</mistake>
+            <mistake>Not using a full range of motion (failing to stretch fully at the bottom or contract fully at the top).</mistake>
+            <mistake>Allowing the knees to move too much during the movement.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>16</number>
+        <name>Supine Crunch (Hands Behind Head)</name>
+        <bodyPart>Core</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Mat</item>
+            <item>No Equipment</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=kYv_nF3hAkk</video>
+        <goal>Core Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/abs.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/1GPHRyK.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <whatItDoes>A fundamental exercise to strengthen the rectus abdominis (six-pack muscles), focusing on contracting the upper abdominal area to bring the rib cage toward the pelvis.</whatItDoes>
+        <executionSteps>
+            <step>Lie flat on your back with your knees bent and feet flat on the floor, about hip-width apart.</step>
+            <step>Place your hands lightly behind your head, or cross them over your chest (do not pull on your neck).</step>
+            <step>Exhale and slowly curl your upper body (head and shoulders) off the floor by contracting your abdominal muscles, bringing your rib cage toward your pelvis.</step>
+            <step>Pause and squeeze the abdominals at the peak of the movement.</step>
+            <step>Inhale and slowly lower your upper body back down to the starting position.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Pulling on the neck to lift the head, which can cause strain.</mistake>
+            <mistake>Lifting the entire torso off the floor (like a sit-up), which engages the hip flexors too much.</mistake>
+            <mistake>Rushing the movement; maintain control for muscle engagement.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>17</number>
+        <name>Wall Tricep and Lat Stretch</name>
+        <bodyPart>Back</bodyPart>
+        <bodyPart>Arms</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>No Equipment</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=d0UG1-VXPpk</video>
+        <goal>Flexibility</goal>
+        <goal>Mobility</goal>
+        <goal>Posture</goal>
+        <icon>https://img.icons8.com/color/96/stretching.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/ZZTGMKh.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <whatItDoes>Increases flexibility and range of motion in the triceps, latissimus dorsi (lats), and shoulders, helping to improve overhead mobility and reduce tension in the upper back.</whatItDoes>
+        <executionSteps>
+            <step>Stand next to a wall and raise one arm overhead, bending the elbow so your hand rests behind your neck.</step>
+            <step>Place your bent elbow and forearm flat against the wall, keeping your body close.</step>
+            <step>Slowly lean your upper body into the wall and push your hips slightly away to deepen the stretch along the side of your torso and tricep.</step>
+            <step>Maintain a steady breath and hold the stretch for 20–30 seconds.</step>
+            <step>Release and switch sides, repeating for the other arm.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Shrugging the shoulder toward the ear; actively try to keep the shoulder relaxed and down.</mistake>
+            <mistake>Bouncing or forcing the stretch with jerky movements; the stretch should be slow and controlled.</mistake>
+            <mistake>Allowing the lower back to arch excessively off the wall if the body is against the wall.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>18</number>
+        <name>Standing Barbell Tricep Extension (French Press)</name>
+        <bodyPart>Arms</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Barbell</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=6hX9R923b3Y</video>
+        <goal>Muscle Growth</goal>
+        <goal>Tricep Isolation</goal>
+        <icon>https://img.icons8.com/color/96/triceps.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/1cTf2Ux.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Intermediate</difficulty>
+        <whatItDoes>Primarily targets the long head of the triceps brachii, maximizing the stretch on the muscle by placing the arms overhead.</whatItDoes>
+        <executionSteps>
+            <step>Stand tall and hold an EZ curl bar (or straight bar) overhead with an overhand grip, hands about shoulder-width apart.</step>
+            <step>Keep your elbows tucked in and pointing straight forward. Bracing your core and glutes helps prevent back arching.</step>
+            <step>Inhale and slowly lower the bar behind your head by bending only at the elbows.</step>
+            <step>Stretch the triceps fully, then exhale and forcefully extend your arms, using your triceps to press the bar back to the starting overhead position.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Flaring the elbows out to the sides, which reduces tricep isolation and can stress the elbow joint.</mistake>
+            <mistake>Allowing the head or upper body to move forward or backward (using momentum or arching the back).</mistake>
+            <mistake>Not achieving a full range of motion (stopping short on the descent).</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>19</number>
+        <name>Wide Grip Pull Up (Cable Machine Assisted)</name>
+        <bodyPart>Back</bodyPart>
+        <bodyPart>Arms</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Cable Machine</item>
+            <item>Pull Up Bar</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=M85u-N43UeM</video>
+        <goal>Strength</goal>
+        <goal>Back Width</goal>
+        <icon>https://img.icons8.com/color/96/pull-up.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/0V2YQjW.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Intermediate</difficulty>
+        <whatItDoes>A compound upper body exercise that targets the lats for back width and thickness, using a cable machine to provide assistance for lifters who cannot perform full unassisted reps.</whatItDoes>
+        <executionSteps>
+            <step>Set up a resistance band or cable machine attachment for assistance on a high pull-up bar.</step>
+            <step>Grasp the bar with a wide, overhand grip.</step>
+            <step>Hang with arms fully extended and shoulders shrugged up, then initiate the pull by depressing the shoulder blades (pulling them down and back) and slightly arching the chest up.</step>
+            <step>Pull your body upward until your chin clears the bar, focusing on driving your elbows down and back.</step>
+            <step>Slowly lower your body back down to a dead hang, ensuring a full stretch in the lats.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Pulling with the biceps instead of initiating the movement with the back muscles (lats).</mistake>
+            <mistake>Not going through a full range of motion (stopping short on the descent or failing to get the chin over the bar).</mistake>
+            <mistake>Using jerky or swinging motions.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>20</number>
+        <name>Kneeling Ab Wheel Rollout</name>
+        <bodyPart>Core</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Ab Wheel</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=F07_q8D3gE0</video>
+        <goal>Core Strength</goal>
+        <goal>Core Endurance</goal>
+        <goal>Definition</goal>
+        <icon>https://img.icons8.com/color/96/abs.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/0Yz8WdV.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Intermediate</difficulty>
+        <whatItDoes>An advanced core exercise that highly activates the entire core (rectus abdominis, obliques, transverse abdominis) and hip flexors, requiring significant anti-extension strength.</whatItDoes>
+        <executionSteps>
+            <step>Kneel on a mat with your knees hip-width apart and grasp the ab wheel handles with an overhand grip.</step>
+            <step>Keep your back straight and core braced, ensuring your hips are slightly tucked (posterior pelvic tilt) to prevent the lower back from arching.</step>
+            <step>Slowly roll the wheel forward, extending your body until you are close to the floor, maintaining the rigid, braced posture.</step>
+            <step>Pause briefly at the point of maximum extension you can safely control.</step>
+            <step>Contract your core and lats to pull your body back to the starting kneeling position.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Letting the lower back arch (hip sag) on the descent, which can lead to injury.</mistake>
+            <mistake>Not extending far enough; push the limits of your range of motion while maintaining form.</mistake>
+            <mistake>Using momentum rather than slow, controlled tension.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>21</number>
+        <name>Barbell Front Squat</name>
+        <bodyPart>Legs</bodyPart>
+        <bodyPart>Core</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Barbell</item>
+            <item>Rack</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=gS673Ea61i8</video>
+        <goal>Strength</goal>
+        <goal>Quadriceps Focus</goal>
+        <icon>https://img.icons8.com/color/96/squats.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/1gFNTZV.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Intermediate</difficulty>
+        <whatItDoes>A variation of the squat that places the barbell across the front of the shoulders, forcing a more upright torso and heavily targeting the quadriceps and upper back/core stability.</whatItDoes>
+        <executionSteps>
+            <step>Set the barbell in a rack slightly below shoulder height. Place the bar high on the front of your shoulders (deltoids) and secure it with an Olympic clean grip or cross-arm grip.</step>
+            <step>Unrack the bar and take 1-2 steps back. Position your feet shoulder-width apart, toes pointing slightly out.</step>
+            <step>Brace your core and keep your elbows pointed forward (to create a solid shelf for the bar).</step>
+            <step>Squat down by pushing your knees forward and keeping your torso as upright as possible, descending until your hips are below parallel.</step>
+            <step>Drive through your mid-foot to stand back up, maintaining the upright posture.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Letting the elbows drop, causing the bar to roll forward off the shoulders.</mistake>
+            <mistake>Rounding the upper back; maintain tension and keep the chest proud.</mistake>
+            <mistake>Not being able to squat deep enough due to mobility limitations in the ankles, hips, or upper back.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>22</number>
+        <name>Incline Bench Supported Sissy Squat</name>
+        <bodyPart>Legs</bodyPart>
+        <gender>All</gender>
+        <equipment>
+            <item>Incline Bench</item>
+            <item>Weight Plate (Optional)</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=cMfeIMcR8Fg</video>
+        <goal>Muscle Growth</goal>
+        <goal>Quadriceps Isolation</goal>
+        <icon>https://img.icons8.com/color/96/quadriceps.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/0lQnxMZ.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <whatItDoes>An isolation exercise that places extreme tension on the quadriceps, specifically emphasizing the rectus femoris muscle by training it in a simultaneously lengthened (hip extension) and flexed (knee flexion) position.</whatItDoes>
+        <executionSteps>
+            <step>Set up an incline bench and stand facing away from it. Hold a weight plate to your chest (optional) and lean back, placing your hand on the bench for balance.</step>
+            <step>Keep your hips fully extended and your body in a straight line from your shoulders to your knees throughout the movement.</step>
+            <step>Slowly bend your knees, letting them travel far forward while descending your body backward.</step>
+            <step>Descend as far as comfortable, then powerfully push back up to the starting position.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Letting the hips move out of full extension (allowing the butt to stick out) as you descend, which takes tension off the rectus femoris.</mistake>
+            <mistake>Using jerky or fast movements; the exercise should be slow and controlled to maintain tension.</mistake>
+        </commonMistakes>
+    </exercise>
+
+
+    <exercise>
+        <number>23</number>
+        <name>Incline Dumbbell Fly</name>
+        <bodyPart>Chest</bodyPart>
+        <gender>Male</gender>
+        <equipment>
+            <item>Dumbbell</item>
+            <item>Incline Bench</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=bDaIL_zKbZw</video>
+        <goal>Muscle Growth</goal>
+        <goal>Definition</goal>
+        <icon>https://img.icons8.com/color/96/chest.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/1PLE8e9.gif</animation>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <difficulty>Intermediate</difficulty>
+        <whatItDoes>Isolates the upper pectoral muscles with a focus on the stretching phase to build upper chest width.</whatItDoes>
+        <executionSteps>
+            <step>Lie on an incline bench holding dumbbells directly above your chest, palms facing each other.</step>
+            <step>Keep a slight bend in your elbows to protect the joint.</step>
+            <step>Lower the weights out to the sides in a wide arc until you feel a stretch in your chest.</step>
+            <step>Reverse the motion to bring the dumbbells back to the top.</step>
+            <step>Stop just before weights touch to maintain tension.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Turning the movement into a press by bending elbows too much.</mistake>
+            <mistake>Lowering the weights too far, risking shoulder injury.</mistake>
+            <mistake>Touching the weights together at the top.</mistake>
+            <mistake>Using too much weight and compromising form.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>24</number>
+        <name>Decline Dumbbell Bench Press</name>
+        <bodyPart>Chest</bodyPart>
+        <gender>Male</gender>
+        <equipment>
+            <item>Dumbbell</item>
+            <item>Decline Bench</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=0x_54YyTj1U</video>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/chest.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/1qrWgZ2.gif</animation>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Intermediate</difficulty>
+        <difficulty>Advanced</difficulty>
+        <whatItDoes>Targets the lower pectoral muscles and triceps more effectively than the flat bench press.</whatItDoes>
+        <executionSteps>
+            <step>Secure your legs at the end of the decline bench and lie back.</step>
+            <step>Start with weights at shoulder width, arms extended above your chest.</step>
+            <step>Lower the weights slowly until your elbows are at a 90-degree angle.</step>
+            <step>Press the weights back up to the starting position.</step>
+            <step>Squeeze the chest at the top.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Setting the bench angle too steep.</mistake>
+            <mistake>Flaring elbows out too wide.</mistake>
+            <mistake>Using momentum to push the weight up.</mistake>
+            <mistake>Banging dumbbells together at the top.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>25</number>
+        <name>Barbell Rear Shrug</name>
+        <bodyPart>Traps</bodyPart>
+        <gender>Male</gender>
+        <equipment>
+            <item>Barbell</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=S21X-c9oCWk</video>
+        <goal>Muscle Growth</goal>
+        <goal>Posture</goal>
+        <icon>https://img.icons8.com/color/96/shoulders.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/1oE78pm.gif</animation>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Obese</bmiLevel>
+        <difficulty>Intermediate</difficulty>
+        <difficulty>Advanced</difficulty>
+        <whatItDoes>Targets the upper and middle trapezius muscles, improving upper back thickness and posture.</whatItDoes>
+        <executionSteps>
+            <step>Stand holding a barbell behind your thighs with an overhand grip.</step>
+            <step>Keep your arms straight and chest up.</step>
+            <step>Elevate your shoulders toward your ears as high as possible.</step>
+            <step>Squeeze the traps at the top for a second.</step>
+            <step>Lower the bar back down under control.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Rolling the shoulders forward or backward.</mistake>
+            <mistake>Bending the elbows to lift the weight.</mistake>
+            <mistake>Jutting the head forward.</mistake>
+            <mistake>Using excessive weight limiting range of motion.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>26</number>
+        <name>Incline Cable Pulldown</name>
+        <bodyPart>Lats</bodyPart>
+        <gender>Male</gender>
+        <equipment>
+            <item>Cable Machine</item>
+            <item>Incline Bench</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=OAJ_NsX7r50</video>
+        <goal>Muscle Growth</goal>
+        <goal>Hypertrophy</goal>
+        <icon>https://img.icons8.com/color/96/back-muscles.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/1PK5Uo3.gif</animation>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <difficulty>Intermediate</difficulty>
+        <whatItDoes>Provides a strict angle for latissimus dorsi isolation, minimizing momentum and maximizing the stretch.</whatItDoes>
+        <executionSteps>
+            <step>Set a bench to an incline and position it in front of a high pulley cable.</step>
+            <step>Sit facing away from the machine and grasp the bar with a wide grip.</step>
+            <step>Lean back into the bench and pull the bar down towards your upper chest.</step>
+            <step>Squeeze your shoulder blades together at the bottom.</step>
+            <step>Slowly return the bar to the top.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Arching the lower back excessively.</mistake>
+            <mistake>Pulling with the biceps rather than the back.</mistake>
+            <mistake>Bringing the bar too low.</mistake>
+            <mistake>Using momentum to jerk the weight down.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>27</number>
+        <name>Overhead Triceps Stretch</name>
+        <bodyPart>Triceps</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Bodyweight</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=6h2F7t8tFqU</video>
+        <goal>Flexibility</goal>
+        <goal>Recovery</goal>
+        <icon>https://img.icons8.com/color/96/triceps.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/1jXLYEw.gif</animation>
+        <bmiLevel>All</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <difficulty>Intermediate</difficulty>
+        <difficulty>Advanced</difficulty>
+        <whatItDoes>Improves flexibility in the triceps and shoulders, reducing muscle tightness.</whatItDoes>
+        <executionSteps>
+            <step>Stand or sit upright. Reach one arm overhead.</step>
+            <step>Bend the elbow so your hand reaches down the center of your back.</step>
+            <step>Use the opposite hand to gently pull the raised elbow toward your head.</step>
+            <step>Hold the stretch for 15-30 seconds.</step>
+            <step>Switch arms and repeat.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Pulling the elbow too aggressively.</mistake>
+            <mistake>Arching the back.</mistake>
+            <mistake>Craning the neck forward.</mistake>
+            <mistake>Holding the breath.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>28</number>
+        <name>Single Leg Dumbbell Calf Raise</name>
+        <bodyPart>Calves</bodyPart>
+        <gender>Male</gender>
+        <equipment>
+            <item>Dumbbell</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=wxwY7GWSOp4</video>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/calves.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/1kB3Wmk.gif</animation>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <difficulty>Intermediate</difficulty>
+        <whatItDoes>Isolates the calf muscles unilaterally to correct imbalances and build lower leg mass.</whatItDoes>
+        <executionSteps>
+            <step>Stand on one leg while holding a dumbbell in the hand on the same side.</step>
+            <step>Keep your core tight and your standing leg slightly straight.</step>
+            <step>Raise your heel as high as possible by pushing through the ball of your foot.</step>
+            <step>Pause at the top, then slowly lower the heel.</step>
+            <step>Complete reps on one side before switching.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Using momentum or bouncing.</mistake>
+            <mistake>Not going through the full range of motion.</mistake>
+            <mistake>Leaning too far forward.</mistake>
+            <mistake>Bending the knee significantly.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>29</number>
+        <name>Medicine Ball Push-Up</name>
+        <bodyPart>Chest</bodyPart>
+        <gender>Male</gender>
+        <equipment>
+            <item>Medicine Ball</item>
+            <item>Bodyweight</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=t-2A52yV9H8</video>
+        <goal>Stability</goal>
+        <goal>Core Strength</goal>
+        <icon>https://img.icons8.com/color/96/chest.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/1IG6gVF.gif</animation>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Intermediate</difficulty>
+        <difficulty>Advanced</difficulty>
+        <whatItDoes>Increases core activation and shoulder stability while targeting the chest and triceps.</whatItDoes>
+        <executionSteps>
+            <step>Place a large medicine ball on the floor.</step>
+            <step>Get into a push-up position with both hands balancing on the ball.</step>
+            <step>Keep your body rigid and core engaged.</step>
+            <step>Lower your chest slowly towards the ball.</step>
+            <step>Push explosively back up to the starting position.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Poor core stability causing hips to sway.</mistake>
+            <mistake>Hands slipping off the ball.</mistake>
+            <mistake>Neck dropping down towards the ball.</mistake>
+            <mistake>Performing reps too quickly.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>30</number>
+        <name>Sphinx Push-Up</name>
+        <bodyPart>Triceps</bodyPart>
+        <gender>Male</gender>
+        <equipment>
+            <item>Bodyweight</item>
+            <item>Mat</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=f-tQaGZ94m8</video>
+        <goal>Strength</goal>
+        <goal>Muscle Growth</goal>
+        <icon>https://img.icons8.com/color/96/triceps.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/1IFV9h3.gif</animation>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Intermediate</difficulty>
+        <difficulty>Advanced</difficulty>
+        <whatItDoes>An advanced bodyweight movement that isolates the triceps by extending the elbows from a plank position.</whatItDoes>
+        <executionSteps>
+            <step>Start in a plank position with forearms on the ground.</step>
+            <step>Keep your body in a straight line from head to heels.</step>
+            <step>Press your palms into the floor to lift your elbows off the ground.</step>
+            <step>Extend arms fully.</step>
+            <step>Slowly lower your elbows back to the starting plank position.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Allowing the hips to sag.</mistake>
+            <mistake>Flaring the elbows out wide.</mistake>
+            <mistake>Placing hands too far forward.</mistake>
+            <mistake>Using momentum to jerk up.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>31</number>
+        <name>Resistance Band Calf Press</name>
+        <bodyPart>Calves</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Resistance Band</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=Jd7_qFV_SkE</video>
+        <goal>Rehabilitation</goal>
+        <goal>Toning</goal>
+        <icon>https://img.icons8.com/color/96/calves.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/1LVFcEn.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <difficulty>Intermediate</difficulty>
+        <whatItDoes>Strengthens the calves using variable resistance, great for warming up or rehabilitation.</whatItDoes>
+        <executionSteps>
+            <step>Sit on the floor with legs extended.</step>
+            <step>Loop a resistance band around the balls of your feet.</step>
+            <step>Press your toes forward against the resistance of the band.</step>
+            <step>Pause at the peak extension.</step>
+            <step>Slowly return your toes toward your shins.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Letting the band slip off the feet.</mistake>
+            <mistake>Bending knees excessively.</mistake>
+            <mistake>Not maintaining tension on the band.</mistake>
+            <mistake>Performing the movement too fast.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>32</number>
+        <name>Diamond Push-Up</name>
+        <bodyPart>Triceps</bodyPart>
+        <gender>Male</gender>
+        <equipment>
+            <item>Bodyweight</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=J0DnG1_S92I</video>
+        <goal>Strength</goal>
+        <goal>Muscle Growth</goal>
+        <icon>https://img.icons8.com/color/96/triceps.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/01qpYSe.gif</animation>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Intermediate</difficulty>
+        <difficulty>Advanced</difficulty>
+        <whatItDoes>A push-up variation that shifts focus to the triceps and inner chest by narrowing the hand placement.</whatItDoes>
+        <executionSteps>
+            <step>Get into a push-up position.</step>
+            <step>Place hands together forming a diamond shape with thumbs and index fingers.</step>
+            <step>Lower your chest towards your hands, keeping elbows tucked.</step>
+            <step>Push back up to the starting position.</step>
+            <step>Keep your core tight throughout the movement.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Allowing elbows to flare out excessively.</mistake>
+            <mistake>Letting hips sag.</mistake>
+            <mistake>Not going down low enough.</mistake>
+            <mistake>Hand placement not being centered under the chest.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>33</number>
+        <name>Smith Machine Shrug</name>
+        <bodyPart>Traps</bodyPart>
+        <gender>Male</gender>
+        <equipment>
+            <item>Smith Machine</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=83eJjH-3kD4</video>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/shoulders.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/1YB40kg.gif</animation>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <difficulty>Intermediate</difficulty>
+        <whatItDoes>Isolates the trapezius muscles to build upper back thickness and neck stability.</whatItDoes>
+        <executionSteps>
+            <step>Set the bar height to just below your waist.</step>
+            <step>Grip the bar with hands shoulder-width apart.</step>
+            <step>Lift your shoulders toward your ears as high as possible.</step>
+            <step>Pause at the top and squeeze the traps.</step>
+            <step>Lower the bar slowly to the starting position.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Rolling the shoulders (keep the motion vertical).</mistake>
+            <mistake>Using too much weight and limiting range of motion.</mistake>
+            <mistake>Jutting the head forward.</mistake>
+            <mistake>Bending the elbows to help lift the weight.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>34</number>
+        <name>Dumbbell Front Squat</name>
+        <bodyPart>Quadriceps</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Dumbbell</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=MVMHh95oB6w</video>
+        <goal>Strength</goal>
+        <goal>Muscle Growth</goal>
+        <icon>https://img.icons8.com/color/96/leg.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/1RIkUHT.gif</animation>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Intermediate</difficulty>
+        <difficulty>Advanced</difficulty>
+        <whatItDoes>Targets the quads, glutes, and core while placing less stress on the lower back than a back squat.</whatItDoes>
+        <executionSteps>
+            <step>Stand with feet shoulder-width apart, holding dumbbells at your shoulders.</step>
+            <step>Keep your chest up and elbows high.</step>
+            <step>Lower your hips back and down until thighs are parallel to the floor.</step>
+            <step>Drive through your heels to return to the standing position.</step>
+            <step>Keep your core braced throughout the movement.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Letting the knees cave inward.</mistake>
+            <mistake>Rounding the upper back.</mistake>
+            <mistake>Dropping the elbows, causing the weight to pull you forward.</mistake>
+            <mistake>Lifting the heels off the ground.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>35</number>
+        <name>Barbell Front Squat</name>
+        <bodyPart>Legs</bodyPart>
+        <bodyPart>Core</bodyPart>
+        <gender>Both</gender>
+        <equipment>
+            <item>Barbell</item>
+            <item>Squat Rack (for un-racking)</item>
+        </equipment>
+        <video>https://www.youtube.com/watch?v=y-e-y-aHjE4</video>
+        <goal>Strength</goal>
+        <goal>Muscle Growth</goal>
+        <icon>https://img.icons8.com/color/96/weightlift.png</icon>
+        <animation>https://biplovkhatri.com.np/GymApp/media/Y7YcmIJ.gif</animation>
+        <bmiLevel>Fit</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <whatItDoes>A squat variation that emphasizes the quadriceps due to the upright torso position. It also significantly challenges core and upper back strength for stability.</whatItDoes>
+        <executionSteps>
+            <step>Load the barbell and place it across the front of your shoulders, using a clean grip or crossed-arm grip to secure it.</step>
+            <step>Stand with feet shoulder-width apart, chest high, and elbows pointing forward.</step>
+            <step>Descend slowly into a squat, keeping your torso as upright as possible. Go as deep as mobility allows without rounding your back.</step>
+            <step>Drive through your heels and push your hips forward to return to the standing position.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Dropping the elbows, causing the chest to collapse and the back to round.</mistake>
+            <mistake>Letting the weight roll forward onto the fingertips (losing the rack position).</mistake>
+            <mistake>Failing to maintain a stable, upright core throughout the lift.</mistake>
+        </commonMistakes>
+    </exercise>
+
+
+
+
+
+</exercises>
