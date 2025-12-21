@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <exercises>
     <exercise>
+        <number>1</number>
         <name>One Arm Medicine Ball Slam</name>
         <bodyPart>Full Body</bodyPart>
         <gender>Male</gender>
@@ -35,6 +36,7 @@
     </exercise>
 
     <exercise>
+        <number>2</number>
         <name>Navy Seal Burpee</name>
         <bodyPart>Full Body</bodyPart>
         <gender>Male</gender>
@@ -68,6 +70,7 @@
     </exercise>
 
     <exercise>
+        <number>3</number>
         <name>Dumbbell Walking Lunge</name>
         <bodyPart>Full Body</bodyPart>
         <gender>Male</gender>
@@ -103,6 +106,7 @@
     </exercise>
 
     <exercise>
+        <number>4</number>
         <name>Dumbbell Push Press</name>
         <bodyPart>Full Body</bodyPart>
         <gender>Male</gender>
@@ -135,6 +139,7 @@
     </exercise>
 
     <exercise>
+        <number>5</number>
         <name>Dumbbell Deadlift</name>
         <bodyPart>Full Body</bodyPart>
         <gender>Male</gender>
@@ -169,6 +174,7 @@
     </exercise>
 
     <exercise>
+        <number>6</number>
         <name>Dumbbell Sumo Deadlift</name>
         <bodyPart>Full Body</bodyPart>
         <gender>Male</gender>
@@ -203,6 +209,7 @@
     </exercise>
 
     <exercise>
+        <number>7</number>
         <name>Backward Medicine Ball Throw</name>
         <bodyPart>Full Body</bodyPart>
         <gender>Male</gender>
@@ -235,6 +242,7 @@
     </exercise>
 
     <exercise>
+        <number>8</number>
         <name>Zercher Carry</name>
         <bodyPart>Full Body</bodyPart>
         <gender>Male</gender>
@@ -268,6 +276,7 @@
     </exercise>
 
     <exercise>
+        <number>9</number>
         <name>Wall Walk</name>
         <bodyPart>Full Body</bodyPart>
         <gender>Male</gender>
@@ -297,6 +306,2251 @@
             <mistake>Arching lower back excessively instead of keeping core tight.</mistake>
             <mistake>Rushing the movement and losing control.</mistake>
             <mistake>Allowing shoulders to shrug up toward ears.</mistake>
+        </commonMistakes>
+        
+    </exercise>
+    
+    <exercise>
+        <number>10</number>
+        <name>Kettlebell Hang Clean</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Kettlebell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/kettlebell.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/07/Kettlebell-Hang-Clean.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Explosive full-body movement that develops hip power, shoulder stability, and coordination while building strength in the posterior chain and upper body.</whatItDoes>
+        <executionSteps>
+            <step>Start with kettlebell hanging at mid-thigh level, feet hip-width apart.</step>
+            <step>Hinge at hips slightly, then explosively extend hips and knees to pull the kettlebell upward.</step>
+            <step>Shrug shoulders and pull elbow high to rack the kettlebell across forearm and biceps at chest level.</step>
+            <step>Absorb the catch softly by bending knees, then return to hang position.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Pulling with arms too early instead of using hip drive.</mistake>
+            <mistake>Banging the forearm with the kettlebell during the rack.</mistake>
+            <mistake>Leaning back or losing core tension during the catch.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>11</number>
+        <name>Dumbbell Power Clean</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Dumbbell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/weightlift.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/07/Dumbbell-Power-Clean.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Full-body explosive lift that builds power, coordination, and strength across the posterior chain, traps, and shoulders.</whatItDoes>
+        <executionSteps>
+            <step>Start with dumbbells on the floor just outside feet, hips back.</step>
+            <step>Explosively extend hips and knees, shrugging shoulders to pull dumbbells up.</step>
+            <step>Quickly drop under and catch dumbbells at shoulders in quarter squat position.</step>
+            <step>Stand tall, then lower dumbbells back to floor with control.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Using arms to pull instead of generating power from hips.</mistake>
+            <mistake>Not achieving triple extension (ankles, knees, hips).</mistake>
+            <mistake>Landing with stiff legs instead of catching in quarter squat.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>12</number>
+        <name>Dumbbell Devil Press</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Dumbbell</item>
+        </equipment>
+        <goal>Lose Weight</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/burpee.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/07/Dumbbell-Devil-Press.gif</animation>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>High-intensity combination of burpee and dumbbell snatch that dramatically improves cardiovascular endurance, full-body strength, and power.</whatItDoes>
+        <executionSteps>
+            <step>Start standing with dumbbells on ground between feet.</step>
+            <step>Squat down, place hands on dumbbells, jump feet back into plank.</step>
+            <step>Perform a push-up, then jump feet forward.</step>
+            <step>Explosively snatch or swing both dumbbells overhead in one motion and stand tall.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Sagging hips during the push-up or plank phase.</mistake>
+            <mistake>Using momentum only from arms instead of full-body drive.</mistake>
+            <mistake>Not fully locking out overhead at the top.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>13</number>
+        <name>Overhead Squat</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Barbell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/squat.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/07/overhead-squat.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Demands exceptional shoulder mobility, core strength, and lower body power while improving overall stability and coordination.</whatItDoes>
+        <executionSteps>
+            <step>Snatch or press barbell overhead with wide grip, lock elbows.</step>
+            <step>Stand with feet slightly wider than shoulder-width.</step>
+            <step>Brace core and squat down as deep as mobility allows while keeping bar overhead.</step>
+            <step>Drive through heels to stand back up, maintaining active shoulders.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Leaning forward or letting chest collapse.</mistake>
+            <mistake>Allowing elbows to bend or bar to drift forward.</mistake>
+            <mistake>Not reaching full depth due to poor mobility.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>14</number>
+        <name>Ski Ergometer</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Ski Erg Machine</item>
+        </equipment>
+        <goal>Lose Weight</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/rowing-machine.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Ski-Ergometer.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <bmiLevel>Obese</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Provides intense full-body cardiovascular conditioning with emphasis on upper body pulling strength and endurance.</whatItDoes>
+        <executionSteps>
+            <step>Stand facing the machine, grab handles with palms down.</step>
+            <step>Drive powerfully with legs while pulling handles down in a diagonal motion.</step>
+            <step>Coordinate leg push and arm pull to mimic cross-country skiing.</step>
+            <step>Maintain rhythm and consistent power output.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Pulling only with arms and neglecting leg drive.</mistake>
+            <mistake>Leaning too far forward or back, losing posture.</mistake>
+            <mistake>Inconsistent pacing leading to early fatigue.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>15</number>
+        <name>Human Flag</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Pole</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/calisthenics.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Human-Flag.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Extreme isometric hold requiring tremendous core, shoulder, and oblique strength to hold the body horizontally on a vertical pole.</whatItDoes>
+        <executionSteps>
+            <step>Grip pole with both hands (bottom hand pull, top hand push).</step>
+            <step>Lift body sideways while pressing and pulling to lever into horizontal position.</step>
+            <step>Engage entire core and lats to maintain rigid body line parallel to ground.</step>
+            <step>Hold position, then lower with control.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Sagging hips or bending at waist.</mistake>
+            <mistake>Not actively pushing and pulling simultaneously.</mistake>
+            <mistake>Lack of shoulder depression and scapular control.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>16</number>
+        <name>Farmer's Walk</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Dumbbell</item>
+            <item>Kettlebell</item>
+        </equipment>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/farmer-walk.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Farmers-walk_Cardio.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <bmiLevel>Obese</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Builds grip strength, core stability, leg endurance, and overall work capacity under heavy load.</whatItDoes>
+        <executionSteps>
+            <step>Pick up heavy weights in each hand (dumbbells or kettlebells).</step>
+            <step>Stand tall, brace core, and keep shoulders back.</step>
+            <step>Walk forward with short, controlled steps for distance or time.</step>
+            <step>Maintain upright posture throughout.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Rounding shoulders or leaning forward.</mistake>
+            <mistake>Shuffling feet instead of proper walking stride.</mistake>
+            <mistake>Losing grip due to relaxed hands.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>17</number>
+        <name>Log Lift</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Log</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/strongman.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Log-Lift.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Strongman overhead press variation that builds massive upper body and core strength with unstable, thick implement.</whatItDoes>
+        <executionSteps>
+            <step>Clean the log from ground to chest (or start from rack).</step>
+            <step>Dip slightly at knees, then explosively press log overhead.</step>
+            <step>Lock out arms fully while stabilizing the awkward implement.</step>
+            <step>Lower log back to chest or ground with control.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Pressing in front instead of driving upward close to face.</mistake>
+            <mistake>Leaning back excessively during the press.</mistake>
+            <mistake>Not achieving full lockout overhead.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>18</number>
+        <name>Tire Sledge Hammer</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Sledgehammer</item>
+            <item>Tire</item>
+        </equipment>
+        <goal>Lose Weight</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/hammer.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Tire-SledgeHammer.gif</animation>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <bmiLevel>Obese</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>High-intensity full-body conditioning exercise that builds rotational power, grip strength, and cardiovascular endurance.</whatItDoes>
+        <executionSteps>
+            <step>Stand facing tire, holding sledgehammer with both hands.</step>
+            <step>Raise hammer overhead or to one side using core rotation.</step>
+            <step>Slam hammer forcefully into tire, alternating sides.</step>
+            <step>Maintain powerful swings with controlled follow-through.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Using only arms instead of full-body rotation.</mistake>
+            <mistake>Overhead swings without proper shoulder mobility.</mistake>
+            <mistake>Losing balance or footing during powerful swings.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>19</number>
+        <name>Tire Flip</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Tire</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/strongman.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/StrongMan-Tire-Flip.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Extreme full-body power exercise that builds explosive leg drive, grip, and posterior chain strength.</whatItDoes>
+        <executionSteps>
+            <step>Squat down and grip underneath the tire, chest close.</step>
+            <step>Deadlift tire upward while driving knees into it.</step>
+            <step>At knee height, push forward aggressively to flip tire over.</step>
+            <step>Repeat continuously for distance or reps.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Rounding back during initial lift.</mistake>
+            <mistake>Not driving knees forward to transition power.</mistake>
+            <mistake>Pushing too early before tire is vertical enough.</mistake>
+        </commonMistakes>
+    </exercise>
+    
+    <exercise>
+        <number>20</number>
+        <name>Barbell Snatch</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Barbell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/weightlift.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Barbell-Snatch.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Highly technical Olympic lift that develops explosive full-body power, speed, coordination, and overhead stability.</whatItDoes>
+        <executionSteps>
+            <step>Start with barbell on the floor, wide grip, feet hip-width apart.</step>
+            <step>Explosively extend hips and knees while shrugging to pull bar upward.</step>
+            <step>Rapidly drop under the bar into overhead squat position, catching with locked elbows.</step>
+            <step>Stand up fully to complete the lift.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Pulling with arms too early instead of using hip explosion.</mistake>
+            <mistake>Not achieving full triple extension before pulling under.</mistake>
+            <mistake>Pressing out the bar instead of locking elbows instantly.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>21</number>
+        <name>Power Snatch</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Barbell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/weightlift.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Barbell-Power-Snatch.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Explosive variation of the snatch that emphasizes power and speed with a higher catch position (no full squat).</whatItDoes>
+        <executionSteps>
+            <step>Start with barbell on floor, wide snatch grip.</step>
+            <step>Explosively extend hips, knees, and ankles while pulling bar high.</step>
+            <step>Quickly drop into partial squat and catch bar overhead with locked arms.</step>
+            <step>Stand fully upright to finish.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Catching too low instead of staying high in power position.</mistake>
+            <mistake>Banging the bar forward away from body.</mistake>
+            <mistake>Not fully extending hips at the top of the pull.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>22</number>
+        <name>Muscle Snatch</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Barbell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/weightlift.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Barbell-Muscle-Snatch.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Strength-focused snatch variation that eliminates leg drive after the pull, emphasizing upper body pulling power and turnover speed.</whatItDoes>
+        <executionSteps>
+            <step>Start with barbell on floor or hang position, wide grip.</step>
+            <step>Pull bar high using hips and strong shrug, keeping legs straight after initial extension.</step>
+            <step>Quickly turnover wrists and punch arms overhead without re-bending knees.</step>
+            <step>Lock out overhead and stand tall.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Re-bending knees to catch (turning it into power snatch).</mistake>
+            <mistake>Slow elbow turnover at the top.</mistake>
+            <mistake>Looping the bar forward instead of keeping it close.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>23</number>
+        <name>Heaving Snatch Balance</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Barbell</item>
+        </equipment>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/weightlift.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Barbell-Heaving-Snatch-Balance.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Develops speed, confidence, and stability in the overhead squat receiving position for the snatch.</whatItDoes>
+        <executionSteps>
+            <step>Start with bar on back rack, wide snatch grip.</step>
+            <step>Dip slightly at knees, then explosively drive upward while pushing body down under bar.</step>
+            <step>Catch in deep overhead squat with locked arms.</step>
+            <step>Stand up to complete.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Pressing the bar up instead of pulling yourself under.</mistake>
+            <mistake>Catching with bent elbows or unstable overhead position.</mistake>
+            <mistake>Leaning forward during the dip and drive.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>24</number>
+        <name>Barbell Hang Clean</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Barbell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/weightlift.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/07/Barbell-Hang-Clean.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Explosive Olympic lift variation from hang position that builds power, posterior chain strength, and receiving stability.</whatItDoes>
+        <executionSteps>
+            <step>Start with barbell at mid-thigh or knee hang, grip just outside shoulders.</step>
+            <step>Hinge slightly, then violently extend hips and shrug.</step>
+            <step>Pull elbows high and drop under bar to rack on shoulders in front squat.</step>
+            <step>Stand fully to finish.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Arm pulling instead of hip explosion.</mistake>
+            <mistake>Banging elbows on thighs during rack.</mistake>
+            <mistake>Catching on toes or losing balance forward.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>25</number>
+        <name>Rowing Machine</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Rowing Machine</item>
+        </equipment>
+        <goal>Lose Weight</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/rowing-machine.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/06/Rowing-Machine.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <bmiLevel>Obese</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Provides low-impact, high-efficiency full-body cardiovascular conditioning with emphasis on posterior chain and endurance.</whatItDoes>
+        <executionSteps>
+            <step>Sit on rower, strap feet in, grip handle with overhand grip.</step>
+            <step>Drive powerfully with legs first, then lean back slightly and pull arms to chest.</step>
+            <step>Reverse order for recovery: arms extend, body leans forward, knees bend.</step>
+            <step>Maintain smooth, rhythmic stroke sequence.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Pulling with arms before driving with legs.</mistake>
+            <mistake>Over-leaning back at finish.</mistake>
+            <mistake>Rushing the recovery and losing rhythm.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>26</number>
+        <name>Barbell Bent Over Row</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Barbell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/bent-over-row.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Bent-Over-Row.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <bmiLevel>Obese</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Builds upper back, lats, and posterior chain strength while improving posture and grip.</whatItDoes>
+        <executionSteps>
+            <step>Hinge at hips with slight knee bend, grip barbell just outside knees.</step>
+            <step>Keep back flat and pull bar to lower chest or upper abdomen.</step>
+            <step>Squeeze shoulder blades together at top.</step>
+            <step>Lower bar with control.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Rounding the back during the pull.</mistake>
+            <mistake>Using momentum or standing up to cheat the weight.</mistake>
+            <mistake>Pulling bar too high toward upper chest.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>27</number>
+        <name>Legless Rope Climb</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Rope</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/rope-climb.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Rope-Climb.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Extreme upper body pulling strength exercise that heavily targets lats, grip, and core while building tremendous pulling power.</whatItDoes>
+        <executionSteps>
+            <step>Grip rope high overhead with both hands.</step>
+            <step>Pull body upward using arms and back while keeping legs straight and together.</step>
+            <step>Reach one hand higher and repeat pulling motion.</step>
+            <step>Descend with control using braking technique.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Kipping or using legs to assist the climb.</mistake>
+            <mistake>Sliding down uncontrollably and burning hands.</mistake>
+            <mistake>Loss of grip due to poor hand positioning.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>28</number>
+        <name>Push-up Toe Touch</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>No Equipment</item>
+        </equipment>
+        <goal>Lose Weight</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/push-ups.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Push-up-Toe-Touch.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Combines push-up with dynamic core engagement to build chest, shoulder, triceps strength and improve coordination.</whatItDoes>
+        <executionSteps>
+            <step>Start in push-up position.</step>
+            <step>Perform a full push-up.</step>
+            <step>At the top, lift one hand and opposite foot to touch hand to toe.</step>
+            <step>Return to plank and repeat alternating sides.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Sagging hips during the toe touch.</mistake>
+            <mistake>Incomplete push-up range of motion.</mistake>
+            <mistake>Rushing and losing balance.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>29</number>
+        <name>Bent Over Dumbbell Row</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Dumbbell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/bent-over-row.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/02/Bent-Over-Dumbbell-Row.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <bmiLevel>Obese</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Targets upper back, lats, and rear shoulders while improving posture and unilateral strength.</whatItDoes>
+        <executionSteps>
+            <step>Hinge at hips with slight knee bend, holding dumbbells hanging down.</step>
+            <step>Pull dumbbells toward hips, squeezing shoulder blades.</step>
+            <step>Keep elbows close to body during the pull.</step>
+            <step>Lower weights with control.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Rounding the back or standing too upright.</mistake>
+            <mistake>Using momentum to swing weights.</mistake>
+            <mistake>Pulling too high toward chest instead of hips.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>30</number>
+        <name>Muscle-Up</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Rings</item>
+            <item>Pull-up Bar</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/muscle-up.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/05/Muscle-up-vertical-bar.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Advanced gymnastic movement combining explosive pull-up with dip to transition over bar or rings, building immense upper body strength.</whatItDoes>
+        <executionSteps>
+            <step>Hang from rings or bar with false grip (on rings).</step>
+            <step>Explosively pull chest high while transitioning elbows over.</step>
+            <step>Roll forward and press out into dip position.</step>
+            <step>Complete full dip to lockout overhead.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Lack of false grip leading to failed transition.</mistake>
+            <mistake>Chicken-winging (asymmetric transition).</mistake>
+            <mistake>Not pulling high enough before transitioning.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>31</number>
+        <name>Push Press</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Barbell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/weightlift.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/02/push-press-1.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Combines leg drive with overhead press to build explosive power and shoulder strength.</whatItDoes>
+        <executionSteps>
+            <step>Rack barbell at shoulders, elbows forward.</step>
+            <step>Dip slightly at knees while keeping torso upright.</step>
+            <step>Explosively drive through legs to press bar overhead.</step>
+            <step>Lock out arms and stand tall.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Turning movement into jerk by re-dipping.</mistake>
+            <mistake>Leaning back excessively during press.</mistake>
+            <mistake>Insufficient leg drive or dip.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>32</number>
+        <name>Landmine Squat to Press</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Barbell</item>
+            <item>Landmine Attachment</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/weightlift.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/04/Landmine-Press.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Combines front squat with unilateral press to build lower body strength, core stability, and pressing power.</whatItDoes>
+        <executionSteps>
+            <step>Hold landmine bar at chest height, feet shoulder-width.</step>
+            <step>Squat down until thighs are parallel or below.</step>
+            <step>Drive up explosively and press bar forward/upward.</step>
+            <step>Lock out at top, then lower bar and repeat.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Leaning too far forward during squat.</mistake>
+            <mistake>Pressing before fully extending hips.</mistake>
+            <mistake>Losing core brace and arching back.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>33</number>
+        <name>Barbell Clean and Press</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Barbell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/weightlift.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/04/Barbell-Clean-and-Press-.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Classic compound movement combining clean with strict or push press to build total-body strength and power.</whatItDoes>
+        <executionSteps>
+            <step>Perform full clean to rack bar at shoulders.</step>
+            <step>Immediately press or push press bar overhead.</step>
+            <step>Lock out fully overhead.</step>
+            <step>Lower bar to floor with control.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Poor clean technique leading to bad rack position.</mistake>
+            <mistake>Leaning back during overhead press.</mistake>
+            <mistake>Using strict press when form breaks down.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>34</number>
+        <name>Power Clean</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Barbell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/weightlift.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/04/Power-Clean-.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Explosive Olympic lift that develops full-body power, speed, and coordination with high catch position.</whatItDoes>
+        <executionSteps>
+            <step>Start with bar on floor, grip just outside legs.</step>
+            <step>Explosively extend hips and shrug to pull bar high.</step>
+            <step>Drop into partial squat and catch bar on shoulders.</step>
+            <step>Stand fully to complete.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Arm pulling instead of hip drive.</mistake>
+            <mistake>Catching too low instead of power position.</mistake>
+            <mistake>Bar crashing on shoulders due to poor rack.</mistake>
+        </commonMistakes>
+    </exercise>
+    
+    <exercise>
+        <number>35</number>
+        <name>Turkish Get-up</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Kettlebell</item>
+            <item>Dumbbell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/turkish-getup.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/04/Turkish-Get-Up-Squat-style.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Complex full-body movement that builds shoulder stability, core strength, mobility, and coordination through multiple planes.</whatItDoes>
+        <executionSteps>
+            <step>Lie on back holding weight overhead with one straight arm.</step>
+            <step>Roll to opposite elbow, then hand, while keeping arm locked.</step>
+            <step>Drive hips high into bridge, sweep leg under to kneeling position.</step>
+            <step>Stand up fully, then reverse steps back to ground.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Letting loaded arm bend or waver overhead.</mistake>
+            <mistake>Rushing transitions and losing balance.</mistake>
+            <mistake>Collapsing core during bridge or lunge phase.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>36</number>
+        <name>Kettlebell Swings</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Kettlebell</item>
+        </equipment>
+        <goal>Lose Weight</goal>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/kettlebell.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/09/Kettlebell-Swings.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <bmiLevel>Obese</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Explosive hip hinge that builds posterior chain power, cardiovascular endurance, and grip strength.</whatItDoes>
+        <executionSteps>
+            <step>Stand with feet slightly wider than shoulders, kettlebell in front.</step>
+            <step>Hinge at hips to grab handle with both hands, shoulders back.</step>
+            <step>Hike bell back between legs, then explosively drive hips forward.</step>
+            <step>Swing bell to chest height using hip snap, then control descent.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Squatting instead of hinging at hips.</mistake>
+            <mistake>Using arms to lift instead of hip power.</mistake>
+            <mistake>Overextending or leaning back at top.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>37</number>
+        <name>One Arm Kettlebell Snatch</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Kettlebell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/kettlebell.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/03/One-Arm-Kettlebell-Snatch-exercise.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Unilateral explosive lift that develops full-body power, shoulder stability, and cardiovascular conditioning.</whatItDoes>
+        <executionSteps>
+            <step>Start with kettlebell on ground between feet.</step>
+            <step>Hinge and explosively pull bell upward with one arm.</step>
+            <step>Punch hand through to lock overhead in one fluid motion.</step>
+            <step>Lower bell safely to ground or back swing.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Banging forearm with bell during lockout.</mistake>
+            <mistake>Pressing out instead of punching through.</mistake>
+            <mistake>Leaning or rotating torso excessively.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>38</number>
+        <name>Impossible Dips</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Rings</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/dips.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/01/Impossible-Dips.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Extreme ring dip variation requiring immense pressing strength and core control in inverted position.</whatItDoes>
+        <executionSteps>
+            <step>Start in support hold on rings.</step>
+            <step>Lower slowly while leaning forward until rings reach hips.</step>
+            <step>Press back up powerfully to support.</step>
+            <step>Maintain full body tension throughout.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Losing false grip or ring control.</mistake>
+            <mistake>Arching back or piking hips.</mistake>
+            <mistake>Rushing descent without control.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>39</number>
+        <name>Korean Dips</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Rings</item>
+            <item>Parallel Bars</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/dips.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/01/Korean-Dips.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Deep ring dip variation with extreme forward lean that heavily targets chest, shoulders, and core.</whatItDoes>
+        <executionSteps>
+            <step>Start in support, lean torso far forward.</step>
+            <step>Lower until shoulders drop well below elbows/hands.</step>
+            <step>Press back up while maintaining forward angle.</step>
+            <step>Keep rings close to body.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Insufficient forward lean, reducing depth.</mistake>
+            <mistake>Shrugging shoulders or losing tension.</mistake>
+            <mistake>Bouncing out of bottom position.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>40</number>
+        <name>Straight Bar Dip</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Pull-up Bar</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/dips.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/01/Straight-Bar-Dip.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Advanced dip variation on single straight bar that demands high triceps, chest, and core strength.</whatItDoes>
+        <executionSteps>
+            <step>Grip bar with both hands close together, body in front.</step>
+            <step>Lean slightly forward and lower chest toward bar.</step>
+            <step>Press powerfully back to locked arms.</step>
+            <step>Maintain strict form without kipping.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Kipping or swinging for momentum.</mistake>
+            <mistake>Insufficient depth or partial reps.</mistake>
+            <mistake>Flaring elbows too wide.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>41</number>
+        <name>Kettlebell Clean and Jerk</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Kettlebell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/kettlebell.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/06/Kettlebell-Clean-and-Jerk.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Classic Olympic-style lift with kettlebell that builds explosive power, shoulder endurance, and full-body coordination.</whatItDoes>
+        <executionSteps>
+            <step>Clean kettlebell to rack position explosively.</step>
+            <step>Dip slightly and drive upward to jerk overhead.</step>
+            <step>Catch in split or squat stance with locked arm.</step>
+            <step>Stand tall, then lower safely.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Poor rack position causing forearm bang.</mistake>
+            <mistake>Pressing instead of jerking overhead.</mistake>
+            <mistake>Unstable catch or early arm bend.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>42</number>
+        <name>Dumbbell Burpees</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Dumbbell</item>
+        </equipment>
+        <goal>Lose Weight</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/burpee.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/06/Dumbbell-Burpees.gif</animation>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <bmiLevel>Obese</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>High-intensity burpee variation with dumbbells that adds upper body and grip challenge while boosting metabolism.</whatItDoes>
+        <executionSteps>
+            <step>Hold dumbbells at sides, squat and place on ground.</step>
+            <step>Jump feet back into plank, perform push-up.</step>
+            <step>Jump feet forward, then clean dumbbells to shoulders.</step>
+            <step>Stand explosively and press overhead.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Sagging hips during push-up phase.</mistake>
+            <mistake>Dropping dumbbells instead of controlled lower.</mistake>
+            <mistake>Not achieving full overhead lockout.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>43</number>
+        <name>Dumbbell Jump Squat</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Dumbbell</item>
+        </equipment>
+        <goal>Lose Weight</goal>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/squat.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/04/Dumbbell-Jump-Squat.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Plyometric squat variation that develops explosive lower body power and cardiovascular conditioning.</whatItDoes>
+        <executionSteps>
+            <step>Hold dumbbells at sides or shoulders.</step>
+            <step>Squat down to parallel or below.</step>
+            <step>Explosively jump upward as high as possible.</step>
+            <step>Land softly and immediately descend into next rep.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Landing with stiff knees (high impact).</mistake>
+            <mistake>Leaning too far forward or rounding back.</mistake>
+            <mistake>Shallow squat depth reducing power.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>44</number>
+        <name>Burpees</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>No Equipment</item>
+        </equipment>
+        <goal>Lose Weight</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/burpee.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/02/burpees.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <bmiLevel>Obese</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Ultimate bodyweight conditioning exercise combining squat, push-up, and jump for maximum calorie burn and endurance.</whatItDoes>
+        <executionSteps>
+            <step>Stand tall, then squat and place hands on ground.</step>
+            <step>Jump feet back into plank, perform push-up.</step>
+            <step>Jump feet forward, then explode upward into jump.</step>
+            <step>Land softly and immediately begin next rep.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Sagging or arching back in plank.</mistake>
+            <mistake>Incomplete push-up or no chest to ground.</mistake>
+            <mistake>Landing heavily without soft knees.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>45</number>
+        <name>L-Sit Pull-Up</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Pull-up Bar</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/pullups.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/06/L-Pull-Up.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Combines L-sit hold with pull-up to massively challenge core compression and pulling strength.</whatItDoes>
+        <executionSteps>
+            <step>Hang from bar and raise straight legs to L-position.</step>
+            <step>Maintain L-hold while performing strict pull-up.</step>
+            <step>Pull until chin clears bar.</step>
+            <step>Lower slowly while keeping legs up.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Bending knees or piking hips to cheat L.</mistake>
+            <mistake>Kipping instead of strict pull.</mistake>
+            <mistake>Dropping legs during the pull.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>46</number>
+        <name>Back Lever</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Pull-up Bar</item>
+            <item>Rings</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/calisthenics.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/06/Back-Lever.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Advanced isometric hold that builds tremendous shoulder, back, and core strength in horizontal supinated position.</whatItDoes>
+        <executionSteps>
+            <step>Start in inverted hang, supinated grip.</step>
+            <step>Depress shoulders and pull body into horizontal line.</step>
+            <step>Keep arms straight and body rigid parallel to ground.</step>
+            <step>Hold position, then return with control.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Bending arms or sagging hips.</mistake>
+            <mistake>Not fully depressing scapulae.</mistake>
+            <mistake>Arching back instead of hollow body.</mistake>
+        </commonMistakes>
+    </exercise>
+    
+    <exercise>
+        <number>47</number>
+        <name>Front Lever Pull-up</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Pull-up Bar</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/pullups.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/06/Front-Lever-Pull-up.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Extreme advanced pull-up performed while maintaining front lever position, building massive lat, core, and shoulder strength.</whatItDoes>
+        <executionSteps>
+            <step>Hold full front lever (body horizontal, facing up).</step>
+            <step>Pull chest toward bar while keeping body rigid and horizontal.</step>
+            <step>Lower slowly back to front lever hold.</step>
+            <step>Maintain strict hollow body throughout.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Dropping hips or bending at waist.</mistake>
+            <mistake>Kipping or using momentum.</mistake>
+            <mistake>Bending arms too early without full lever control.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>48</number>
+        <name>One Arm Dumbbell Snatch</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Dumbbell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/weightlift.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/05/One-Arm-Dumbbell-Snatch.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Unilateral explosive lift that develops full-body power, coordination, and unilateral shoulder stability.</whatItDoes>
+        <executionSteps>
+            <step>Start with dumbbell on ground between feet.</step>
+            <step>Hinge and explosively pull with one arm, shrugging shoulder.</step>
+            <step>Punch hand upward to lock dumbbell overhead.</step>
+            <step>Lower with control or drop safely.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Rotating torso excessively to compensate.</mistake>
+            <mistake>Pressing out instead of fast punch-through.</mistake>
+            <mistake>Poor hip drive, relying only on arm.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>49</number>
+        <name>Archer Pull-up</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Pull-up Bar</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/pullups.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/01/Archer-Pull-up.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Unilateral pulling progression toward one-arm pull-up that heavily loads one side while building lat and bicep strength.</whatItDoes>
+        <executionSteps>
+            <step>Grip bar wide, start from dead hang.</step>
+            <step>Pull body toward one straight arm while bending the working arm.</step>
+            <step>Lower slowly with control on working side.</step>
+            <step>Alternate sides each rep.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Kipping or swinging body.</mistake>
+            <mistake>Bending assisting arm too much.</mistake>
+            <mistake>Shrugging shoulders instead of depressing.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>50</number>
+        <name>Cross Body Push-up</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>No Equipment</item>
+        </equipment>
+        <goal>Lose Weight</goal>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/push-ups.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Cross-Body-Push-up_Plyometric.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Plyometric push-up variation that adds rotational power and oblique engagement for enhanced core and chest development.</whatItDoes>
+        <executionSteps>
+            <step>Start in push-up position.</step>
+            <step>Lower chest, then explosively push up.</step>
+            <step>At top, drive one knee across body toward opposite elbow.</step>
+            <step>Land hands and repeat alternating sides.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Sagging hips during rotation.</mistake>
+            <mistake>Incomplete push-up depth.</mistake>
+            <mistake>Landing heavily without control.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>51</number>
+        <name>Trap Bar Jump Squat</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Trap Bar</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/squat.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/02/trap-bar-jump-squat.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Loaded explosive squat that maximizes lower body power output and vertical jump capability.</whatItDoes>
+        <executionSteps>
+            <step>Stand inside trap bar, grip handles, feet shoulder-width.</step>
+            <step>Squat down to parallel.</step>
+            <step>Explosively extend hips and jump as high as possible.</step>
+            <step>Land softly and reset for next rep.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Shallow depth reducing power generation.</mistake>
+            <mistake>Landing stiff-legged.</mistake>
+            <mistake>Leaning forward excessively.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>52</number>
+        <name>Medicine Ball Sit-up Throw</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Medicine Ball</item>
+        </equipment>
+        <goal>Lose Weight</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/sit-ups.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/01/Medicine-Ball-Sit-up-Throw.gif</animation>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <bmiLevel>Obese</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Explosive core exercise that builds abdominal power and coordination through dynamic throwing motion.</whatItDoes>
+        <executionSteps>
+            <step>Lie on back holding medicine ball at chest, partner or wall opposite.</step>
+            <step>Perform sit-up explosively.</step>
+            <step>At top, throw ball forcefully forward.</step>
+            <step>Catch return and lower with control.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Using arms only to throw instead of hip snap.</mistake>
+            <mistake>Arching lower back at bottom.</mistake>
+            <mistake>Throwing upward instead of forward.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>53</number>
+        <name>Barbell Jump Squat</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Barbell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/squat.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/01/Barbell-Jump-Squat.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Loaded plyometric squat that dramatically increases lower body explosive power.</whatItDoes>
+        <executionSteps>
+            <step>Rack light barbell on back, feet shoulder-width.</step>
+            <step>Squat to parallel.</step>
+            <step>Explosively jump upward driving through heels.</step>
+            <step>Land softly and reset.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Using too heavy weight limiting explosion.</mistake>
+            <mistake>Landing with locked knees.</mistake>
+            <mistake>Bar bouncing on back at bottom.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>54</number>
+        <name>Handstand Walk</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>No Equipment</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/handstand.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/12/handstand-walk.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Advanced gymnastic skill that builds shoulder strength, core control, and balance while moving in handstand.</whatItDoes>
+        <executionSteps>
+            <step>Kick up into freestanding or wall-assisted handstand.</step>
+            <step>Shift weight slightly to one hand, move opposite hand forward.</step>
+            <step>Alternate hands in controlled steps.</step>
+            <step>Maintain tight core and pointed toes.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Arching back or banana shape.</mistake>
+            <mistake>Over-shifting weight causing collapse.</mistake>
+            <mistake>Piking hips or bending arms.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>55</number>
+        <name>Handstand</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>No Equipment</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/handstand.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/02/handstand-holds.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Isometric hold that develops exceptional shoulder strength, core stability, and balance control.</whatItDoes>
+        <executionSteps>
+            <step>Kick up into handstand against wall or freestanding.</step>
+            <step>Stack shoulders, hips, and feet vertically.</step>
+            <step>Engage core, point toes, and squeeze glutes.</step>
+            <step>Hold position with controlled breathing.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Arching lower back excessively.</mistake>
+            <mistake>Shrugging shoulders toward ears.</mistake>
+            <mistake>Bending arms or collapsing elbows.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>56</number>
+        <name>Kettlebell Clean and Press</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Kettlebell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/kettlebell.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/06/Kettlebell-Clean-and-Press.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Compound movement combining clean with strict press to build full-body strength and shoulder development.</whatItDoes>
+        <executionSteps>
+            <step>Clean kettlebell to rack position.</step>
+            <step>Brace core and press kettlebell strictly overhead.</step>
+            <step>Lock out elbow fully.</step>
+            <step>Lower to rack, then back to ground.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Using leg drive during press (turning into push press).</mistake>
+            <mistake>Poor rack position causing wrist strain.</mistake>
+            <mistake>Leaning back during overhead press.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>57</number>
+        <name>Climbing Monkey Bars</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Monkey Bars</item>
+        </equipment>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/pullups.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/12/Climbing-Monkey-Bars.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Functional pulling and grip exercise that builds upper body strength, coordination, and endurance.</whatItDoes>
+        <executionSteps>
+            <step>Grip first bar, hang with straight arms.</step>
+            <step>Swing or pull forward to reach next bar.</step>
+            <step>Alternate hands to progress across bars.</step>
+            <step>Maintain controlled momentum.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Excessive swinging losing control.</mistake>
+            <mistake>Bending arms too early reducing distance.</mistake>
+            <mistake>Dropping suddenly instead of controlled dismount.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>58</number>
+        <name>Kipping Handstand Push-up</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>No Equipment</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/handstand.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/07/kipping-handstand-push-up.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Kipping variation allowing higher volume handstand push-ups to build shoulder endurance and gymnastic capacity.</whatItDoes>
+        <executionSteps>
+            <step>Kick up to wall handstand.</step>
+            <step>Create kip by arching then hollowing body.</step>
+            <step>Use momentum to press head through full range.</step>
+            <step>Control descent and repeat kip.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Over-arching back risking injury.</mistake>
+            <mistake>Incomplete range (not touching head).</mistake>
+            <mistake>Losing wall contact or balance.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>59</number>
+        <name>Snap Jumps</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>No Equipment</item>
+        </equipment>
+        <goal>Lose Weight</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/burpee.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/02/SNAP-JUMPS.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <bmiLevel>Obese</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>High-intensity variation of mountain climbers that elevates heart rate and improves lower body explosiveness.</whatItDoes>
+        <executionSteps>
+            <step>Start in plank position.</step>
+            <step>Explosively drive both knees toward chest simultaneously.</step>
+            <step>Snap feet back to plank.</step>
+            <step>Repeat rapidly with fast tempo.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Sagging hips or piking butt up.</mistake>
+            <mistake>Incomplete knee drive (half reps).</mistake>
+            <mistake>Bouncing on toes losing tension.</mistake>
+        </commonMistakes>
+    </exercise>
+    <exercise>
+        <number>60</number>
+        <name>Barbell Thruster</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Barbell</item>
+        </equipment>
+        <goal>Lose Weight</goal>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/weightlift.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/10/thruster.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Combines front squat with overhead press in one fluid motion to build explosive power, leg strength, and cardiovascular endurance.</whatItDoes>
+        <executionSteps>
+            <step>Hold barbell at shoulders, elbows high.</step>
+            <step>Squat down until thighs are parallel.</step>
+            <step>Drive explosively upward and press bar overhead.</step>
+            <step>Lock out arms at top, then lower bar to shoulders and repeat.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Leaning forward during squat.</mistake>
+            <mistake>Pressing bar before full hip extension.</mistake>
+            <mistake>Allowing elbows to drop during squat.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>61</number>
+        <name>Bodyweight Skull Crushers</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Pull-up Bar</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/triceps.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Bodyweight-Skull-Crushers.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Bodyweight triceps isolation exercise that builds arm strength and shoulder stability using horizontal bar.</whatItDoes>
+        <executionSteps>
+            <step>Grip bar shoulder-width, body angled backward.</step>
+            <step>Bend elbows to lower forehead toward bar.</step>
+            <step>Extend elbows to push body away from bar.</step>
+            <step>Keep body straight and core tight throughout.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Sagging hips or bending at waist.</mistake>
+            <mistake>Flaring elbows outward.</mistake>
+            <mistake>Partial range of motion.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>62</number>
+        <name>Straddle Planche</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>No Equipment</item>
+            <item>Parallettes</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/calisthenics.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/08/Straddle-planche.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Advanced isometric hold that demands extreme shoulder, chest, and core strength with legs straddled for easier balance.</whatItDoes>
+        <executionSteps>
+            <step>Lean forward on hands, protract shoulders.</step>
+            <step>Lift feet off ground, straddle legs wide.</step>
+            <step>Keep hips at shoulder height, body parallel to floor.</step>
+            <step>Hold with straight arms and hollow body.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Piking hips or bending arms.</mistake>
+            <mistake>Not leaning far enough forward.</mistake>
+            <mistake>Shrugging shoulders instead of protracting.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>63</number>
+        <name>One Arm Kettlebell Swing</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Kettlebell</item>
+        </equipment>
+        <goal>Lose Weight</goal>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/kettlebell.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/07/One-Arm-Kettlebell-Swing.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Unilateral hip hinge that builds posterior chain power, core stability, and grip strength.</whatItDoes>
+        <executionSteps>
+            <step>Hold kettlebell in one hand, hinge at hips.</step>
+            <step>Hike bell back between legs.</step>
+            <step>Explosively drive hips forward to swing to chest height.</step>
+            <step>Switch hands at top or bottom, repeat.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Rotating torso to compensate.</mistake>
+            <mistake>Using arm instead of hip snap.</mistake>
+            <mistake>Leaning sideways during swing.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>64</number>
+        <name>Medicine Ball Overhead Slam</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Medicine Ball</item>
+        </equipment>
+        <goal>Lose Weight</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/medicine-ball.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/06/Medicine-ball-Overhead-Slam-exercise.gif</animation>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <bmiLevel>Obese</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Explosive full-body power movement that releases stress while building core, shoulder, and hip strength.</whatItDoes>
+        <executionSteps>
+            <step>Hold medicine ball overhead with both hands.</step>
+            <step>Rise onto toes, then slam ball powerfully into ground.</step>
+            <step>Use full hip extension and core rotation.</step>
+            <step>Catch bounce or pick up and repeat.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Using only arms to slam.</mistake>
+            <mistake>Slamming too far in front.</mistake>
+            <mistake>Arching lower back excessively.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>65</number>
+        <name>Wall Ball</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Medicine Ball</item>
+        </equipment>
+        <goal>Lose Weight</goal>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/medicine-ball.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/01/wall-ball.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <bmiLevel>Obese</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>High-rep metabolic exercise combining squat and overhead throw to target mark for maximum calorie burn.</whatItDoes>
+        <executionSteps>
+            <step>Hold medicine ball at chest, face wall target.</step>
+            <step>Squat until hips below knees.</step>
+            <step>Explosively stand and throw ball to target height.</step>
+            <step>Catch ball and immediately descend into next squat.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Shallow squats (not breaking parallel).</mistake>
+            <mistake>Throwing before full extension.</mistake>
+            <mistake>Losing ball control on catch.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>66</number>
+        <name>Kettlebell Renegade Row</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Kettlebell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/plank.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/07/Kettlebell-Renegade-Row.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Anti-rotation core exercise that builds back strength, grip, and plank stability.</whatItDoes>
+        <executionSteps>
+            <step>Plank position holding kettlebell handles.</step>
+            <step>Row one kettlebell to hip while keeping hips square.</step>
+            <step>Lower with control, alternate sides.</step>
+            <step>Keep body in straight line, no twisting.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Rotating hips during row.</mistake>
+            <mistake>Sagging lower back.</mistake>
+            <mistake>Jerking weight instead of controlled pull.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>67</number>
+        <name>Push-Up to Renegade Row</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Dumbbell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/push-ups.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/07/Push-Up-to-Renegade-Row.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Combines push-up with alternating dumbbell rows for total upper body and core strength.</whatItDoes>
+        <executionSteps>
+            <step>Start in plank holding dumbbells.</step>
+            <step>Perform full push-up.</step>
+            <step>At top, row one dumbbell to hip.</step>
+            <step>Row opposite side, then repeat sequence.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Hips rotating during rows.</mistake>
+            <mistake>Incomplete push-up depth.</mistake>
+            <mistake>Rushing without control.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>68</number>
+        <name>Modified Hindu Push-up</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>No Equipment</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/push-ups.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/07/Modified-Hindu-Push-up.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <bmiLevel>Obese</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Flowing push-up variation that improves shoulder mobility, chest strength, and core control.</whatItDoes>
+        <executionSteps>
+            <step>Start in downward dog position.</step>
+            <step>Dive chest forward into upward dog.</step>
+            <step>Push hips back to downward dog.</step>
+            <step>Repeat fluid motion.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Sagging lower back in upward dog.</mistake>
+            <mistake>Not fully extending hips in downward dog.</mistake>
+            <mistake>Rushing without smooth transition.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>69</number>
+        <name>Planche Push-Up</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>No Equipment</item>
+            <item>Parallettes</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/calisthenics.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/07/Planche-Push-Up.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Extreme pushing exercise performed in planche position, building incredible shoulder and core strength.</whatItDoes>
+        <executionSteps>
+            <step>Hold planche lean or full planche.</step>
+            <step>Bend elbows to lower chest toward hands.</step>
+            <step>Press powerfully back to starting position.</step>
+            <step>Keep body parallel to ground throughout.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Piking hips during descent.</mistake>
+            <mistake>Not leaning far enough forward.</mistake>
+            <mistake>Bending at hips instead of elbows.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>70</number>
+        <name>Archer Push-Up</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>No Equipment</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/push-ups.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/07/Archer-Push-Up.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Unilateral push-up progression toward one-arm push-up that heavily loads one side at a time.</whatItDoes>
+        <executionSteps>
+            <step>Start in wide push-up position.</step>
+            <step>Lower chest toward one hand while keeping opposite arm straight.</step>
+            <step>Push back up through working arm.</step>
+            <step>Alternate sides each rep.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Rotating hips or torso.</mistake>
+            <mistake>Bending assisting arm.</mistake>
+            <mistake>Partial range on working side.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>71</number>
+        <name>Kettlebell Figure 8</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Kettlebell</item>
+        </equipment>
+        <goal>Lose Weight</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/kettlebell.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/09/Kettlebell-Figure-8.gif</animation>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <bmiLevel>Obese</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Dynamic core and coordination drill that improves hip mobility and oblique strength.</whatItDoes>
+        <executionSteps>
+            <step>Stand with feet wider than shoulders, slight squat.</step>
+            <step>Pass kettlebell between legs in figure-8 pattern.</step>
+            <step>Hand to hand behind each leg smoothly.</step>
+            <step>Keep torso upright and movement fluid.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Rounding back instead of hinging.</mistake>
+            <mistake>Dropping kettlebell or losing flow.</mistake>
+            <mistake>Standing too upright, reducing core work.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>72</number>
+        <name>Dumbbell Renegade Row</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Dumbbell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/plank.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/01/dumbbell-renegade-row-1.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Amateur</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Anti-rotation plank row that builds back strength, core stability, and shoulder endurance.</whatItDoes>
+        <executionSteps>
+            <step>Plank position holding dumbbells.</step>
+            <step>Row one dumbbell to hip while resisting rotation.</step>
+            <step>Lower slowly, alternate sides.</step>
+            <step>Keep hips square to floor.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Hips twisting during row.</mistake>
+            <mistake>Sagging lower back.</mistake>
+            <mistake>Pulling elbow too high.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>73</number>
+        <name>Dumbbell Iron Cross</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Dumbbell</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/shoulders.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/07/Dumbbell-Iron-Cross.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Gymnastic-inspired shoulder exercise that builds extreme deltoid and rotator cuff strength.</whatItDoes>
+        <executionSteps>
+            <step>Hold light dumbbells at sides.</step>
+            <step>Raise arms laterally to form cross position.</step>
+            <step>Hold isometric with arms parallel to floor.</step>
+            <step>Lower slowly with control.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Using momentum to raise arms.</mistake>
+            <mistake>Dropping arms too quickly.</mistake>
+            <mistake>Shrugging shoulders upward.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>74</number>
+        <name>Ring Dips</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Rings</item>
+        </equipment>
+        <goal>Muscle Growth</goal>
+        <goal>Strength</goal>
+        <icon>https://img.icons8.com/color/96/dips.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/07/Ring-Dips.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <difficulty>Advanced</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <whatItDoes>Unstable dip variation that massively strengthens chest, triceps, and shoulders while improving joint stability.</whatItDoes>
+        <executionSteps>
+            <step>Start in support hold on rings, turned out slightly.</step>
+            <step>Lower until shoulders below elbows.</step>
+            <step>Press back to support, keeping rings close.</step>
+            <step>Maintain false grip for easier transition.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Not reaching full depth.</mistake>
+            <mistake>Flaring elbows too wide.</mistake>
+            <mistake>Kipping instead of strict form.</mistake>
+        </commonMistakes>
+    </exercise>
+
+    <exercise>
+        <number>75</number>
+        <name>Battle Rope</name>
+        <bodyPart>Full Body</bodyPart>
+        <gender>Male</gender>
+        <gender>Female</gender>
+        <equipment>
+            <item>Battle Rope</item>
+        </equipment>
+        <goal>Lose Weight</goal>
+        <goal>Endurance</goal>
+        <icon>https://img.icons8.com/color/96/battle-ropes.png</icon>
+        <animation>https://fitnessprogramer.com/wp-content/uploads/2015/07/Battle-Rope.gif</animation>
+        <bmiLevel>Underweight</bmiLevel>
+        <bmiLevel>Normal</bmiLevel>
+        <bmiLevel>Overweight</bmiLevel>
+        <bmiLevel>Obese</bmiLevel>
+        <difficulty>Beginner</difficulty>
+        <ageRange>18-35</ageRange>
+        <ageRange>36-50</ageRange>
+        <ageRange>51+</ageRange>
+        <whatItDoes>Intense conditioning tool that builds shoulder endurance, grip strength, and cardiovascular fitness.</whatItDoes>
+        <executionSteps>
+            <step>Hold rope ends, slight squat stance.</step>
+            <step>Alternately whip ropes to create waves.</step>
+            <step>Or slam both ropes simultaneously.</step>
+            <step>Maintain fast, continuous motion for time.</step>
+        </executionSteps>
+        <commonMistakes>
+            <mistake>Using only arms instead of full body.</mistake>
+            <mistake>Standing too upright (no leg drive).</mistake>
+            <mistake>Small, weak waves due to low power.</mistake>
         </commonMistakes>
     </exercise>
 
