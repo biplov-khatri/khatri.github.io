@@ -2,6 +2,7 @@
     <app>
         <name>Driving licence Practice app Japan</name>
         <icon>https://biplovkhatri.com.np/applist/Images/driving.webp</icon>
+        <description>Driving licence Practice app Japan is a comprehensive mobile application designed to help users prepare for the Japanese driving license test. The app offers a variety of practice questions, mock tests, and study materials to enhance learning and improve test-taking skills.</description>
         <android>https://play.google.com/store/apps/details?id=com.dquiz.app</android>
         <ios></ios>
     </app>
@@ -9,6 +10,7 @@
     <app>
         <name>JLPT N5</name>
         <icon>https://biplovkhatri.com.np/applist/Images/n5.png</icon>
+        <description>JLPT N5 is an app designed to help users prepare for the Japanese Language Proficiency Test (JLPT) at the N5 level. It offers a variety of study materials, including vocabulary lists, grammar explanations, practice questions, and mock tests to enhance learning and improve test-taking skills.</description>
         <android>https://play.google.com/store/apps/details?id=com.n5.app</android>
         <ios></ios>
     </app>
@@ -16,6 +18,7 @@
     <app>
         <name>Gymmy - everything related to fitness</name>
         <icon>https://biplovkhatri.com.np/applist/Images/gymy.png</icon>
+        <description>Gymmy is your ultimate fitness companion, designed to help you achieve your health and wellness goals with ease. Whether you're a beginner or a seasoned athlete, Gymmy offers a comprehensive suite of features to support your fitness journey.</description>
         <android>https://play.google.com/store/apps/details?id=com.diet.app</android>
         <ios></ios>
     </app>
