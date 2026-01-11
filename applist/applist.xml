@@ -1,21 +1,21 @@
 <apps>
     <app>
         <name>Driving licence Practice app Japan</name>
-        <icon>https://yourdomain.com/icons/jlpt_n5.png</icon>
+        <icon>https://biplovkhatri.com.np/applist/Images/driving.webp</icon>
         <android>https://play.google.com/store/apps/details?id=com.dquiz.app</android>
         <ios></ios>
     </app>
 
     <app>
         <name>JLPT N5</name>
-        <icon>https://yourdomain.com/icons/gym_app.png</icon>
+        <icon>https://biplovkhatri.com.np/applist/Images/n5.png</icon>
         <android>https://play.google.com/store/apps/details?id=com.n5.app</android>
         <ios></ios>
     </app>
 
     <app>
         <name>Gymmy - everything related to fitness</name>
-        <icon>https://yourdomain.com/icons/diet_tracker.png</icon>
+        <icon>https://biplovkhatri.com.np/applist/Images/gymy.png</icon>
         <android>https://play.google.com/store/apps/details?id=com.diet.app</android>
         <ios></ios>
     </app>
