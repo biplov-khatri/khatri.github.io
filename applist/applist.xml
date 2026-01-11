@@ -14,7 +14,7 @@
     </app>
 
     <app>
-        <name>Gymmy – everything related to fitness</name>
+        <name>Gymmy - everything related to fitness</name>
         <icon>https://yourdomain.com/icons/diet_tracker.png</icon>
         <android>https://play.google.com/store/apps/details?id=com.diet.app</android>
         <ios></ios>
