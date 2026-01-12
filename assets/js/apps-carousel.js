@@ -1,7 +1,7 @@
 // This JS will fetch the applist.xml, parse it, and populate the apps carousel
 
 document.addEventListener('DOMContentLoaded', function() {
-  fetch('applist/applist.xml')
+  fetch('/applist/applist.xml')
     .then(response => response.text())
     .then(str => (new window.DOMParser()).parseFromString(str, 'text/xml'))
     .then(data => {
