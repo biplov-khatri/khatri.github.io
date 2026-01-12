@@ -1,3 +1,51 @@
+/* Apps Made by Me Carousel Styles */
+#apps-carousel-outer {
+  width: 100%;
+  overflow-x: auto;
+  overflow-y: visible;
+  white-space: nowrap;
+  margin-bottom: 2rem;
+}
+#apps-carousel-inner {
+  display: flex;
+  gap: 24px;
+  align-items: stretch;
+  min-height: 220px;
+}
+.apps-slide {
+  min-width: 320px;
+  max-width: 340px;
+  flex: 0 0 auto;
+  transition: box-shadow 0.2s;
+}
+.apps-slide .card {
+  height: 100%;
+  border-radius: 16px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+  border: none;
+}
+.apps-slide .app-icon {
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
+  border-radius: 12px;
+  background: #f8f9fa;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+}
+.apps-slide h5 {
+  font-size: 1.1rem;
+  margin: 0.5rem 0 0.25rem 0;
+}
+.apps-slide p.small {
+  font-size: 0.95rem;
+  color: #666;
+  min-height: 48px;
+}
+.apps-slide .btn {
+  font-size: 0.95rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+}
 /**
 * Template Name: MyResume - v4.7.0
 * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
