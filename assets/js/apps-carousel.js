@@ -8,6 +8,28 @@ document.addEventListener('DOMContentLoaded', function() {
       const apps = data.getElementsByTagName('app');
       const container = document.getElementById('apps-carousel-inner');
       if (!container) return;
+      // Inject modal HTML if not present
+      if (!document.getElementById('app-modal')) {
+        const modal = document.createElement('div');
+        modal.id = 'app-modal';
+        modal.style.display = 'none';
+        modal.innerHTML = `
+          <div id="app-modal-backdrop" style="position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(0,0,0,0.5);z-index:2000;display:flex;align-items:center;justify-content:center;">
+            <div id="app-modal-content" style="background:#fff;border-radius:16px;max-width:95vw;width:400px;box-shadow:0 8px 32px rgba(0,0,0,0.18);padding:2rem;position:relative;">
+              <button id="app-modal-close" style="position:absolute;top:12px;right:12px;font-size:1.5rem;background:none;border:none;cursor:pointer;">&times;</button>
+              <div id="app-modal-body"></div>
+            </div>
+          </div>
+        `;
+        document.body.appendChild(modal);
+        document.getElementById('app-modal-close').onclick = function() {
+          document.getElementById('app-modal').style.display = 'none';
+        };
+        document.getElementById('app-modal-backdrop').onclick = function(e) {
+          if (e.target === this) document.getElementById('app-modal').style.display = 'none';
+        };
+      }
+
       for (let i = 0; i < apps.length; i++) {
         const app = apps[i];
         const name = app.getElementsByTagName('name')[0].textContent;
@@ -25,7 +47,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const slide = document.createElement('div');
         slide.className = 'apps-slide';
         slide.innerHTML = `
-          <div class="card h-100 text-center p-3" style="overflow: hidden;">
+          <div class="card h-100 text-center p-3" style="overflow: hidden; cursor:pointer;">
             <img src="${icon}" alt="${name}" class="app-icon mx-auto mb-2" style="width:64px;height:64px;object-fit:contain;">
             <h5 class="mt-2">${name}</h5>
             <div style="height: 48px; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; white-space: normal;">
@@ -34,6 +56,18 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="d-flex justify-content-center">${links}</div>
           </div>
         `;
+        // Add click event to show modal with full details
+        slide.querySelector('.card').onclick = function(e) {
+          e.stopPropagation();
+          const modalBody = document.getElementById('app-modal-body');
+          modalBody.innerHTML = `
+            <img src="${icon}" alt="${name}" class="app-icon mx-auto mb-3" style="width:80px;height:80px;object-fit:contain;display:block;">
+            <h4 class="mb-2">${name}</h4>
+            <p style="color:#444;font-size:1rem;">${desc}</p>
+            <div class="d-flex justify-content-center mt-3">${links}</div>
+          `;
+          document.getElementById('app-modal').style.display = 'block';
+        };
         container.appendChild(slide);
       }
       // Start the animation
