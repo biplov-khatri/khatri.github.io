@@ -1,3 +1,17 @@
+.apps-slide .card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
+}
+.apps-slide p.small {
+  flex: 1 1 auto;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  margin-bottom: 0.5rem;
+  max-height: 80px;
+  overflow-y: auto;
+}
 /* Apps Made by Me Carousel Styles */
 #apps-carousel-outer {
   width: 100%;
