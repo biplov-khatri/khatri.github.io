@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
           <div class="card h-100 text-center p-3">
             <img src="${icon}" alt="${name}" class="app-icon mx-auto mb-2" style="width:64px;height:64px;object-fit:contain;">
             <h5 class="mt-2">${name}</h5>
-            <p class="small">${desc}</p>
+            <p class="small text-truncate">${desc}</p>
             <div class="d-flex justify-content-center">${links}</div>
           </div>
         `;
