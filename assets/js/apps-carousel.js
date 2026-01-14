@@ -25,10 +25,12 @@ document.addEventListener('DOMContentLoaded', function() {
         const slide = document.createElement('div');
         slide.className = 'apps-slide';
         slide.innerHTML = `
-          <div class="card h-100 text-center p-3">
+          <div class="card h-100 text-center p-3" style="overflow: hidden;">
             <img src="${icon}" alt="${name}" class="app-icon mx-auto mb-2" style="width:64px;height:64px;object-fit:contain;">
             <h5 class="mt-2">${name}</h5>
-            <p class="small text-truncate">${desc}</p>
+            <div style="height: 48px; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; white-space: normal;">
+              <p class="small mb-2">${desc}</p>
+            </div>
             <div class="d-flex justify-content-center">${links}</div>
           </div>
         `;
