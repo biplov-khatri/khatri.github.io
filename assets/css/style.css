@@ -3,15 +3,9 @@
   flex-direction: column;
   height: 100%;
   overflow: hidden;
+  position: relative;
 }
-.apps-slide p.small {
-  flex: 1 1 auto;
-  overflow-wrap: break-word;
-  word-break: break-word;
-  margin-bottom: 0.5rem;
-  max-height: 80px;
-  overflow-y: auto;
-}
+/* Remove duplicate/conflicting .apps-slide p.small above. Use only the one below, cleaned up. */
 /* Apps Made by Me Carousel Styles */
 #apps-carousel-outer {
   width: 100%;
@@ -53,7 +47,15 @@
 .apps-slide p.small {
   font-size: 0.95rem;
   color: #666;
-  min-height: 48px;
+  margin-bottom: 0.5rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
+  min-height: unset;
+  max-height: unset;
 }
 .apps-slide .btn {
   font-size: 0.95rem;
