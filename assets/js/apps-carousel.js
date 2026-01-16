@@ -1,6 +1,43 @@
 // This JS will fetch the applist.xml, parse it, and populate the apps carousel
 
 document.addEventListener('DOMContentLoaded', function() {
+    // Enable horizontal swipe/drag scrolling for the carousel on mobile
+    const outer = document.getElementById('apps-carousel-outer');
+    if (outer) {
+      let isDown = false;
+      let startX, scrollLeft;
+      outer.addEventListener('touchstart', function(e) {
+        isDown = true;
+        startX = e.touches[0].pageX - outer.offsetLeft;
+        scrollLeft = outer.scrollLeft;
+      });
+      outer.addEventListener('touchmove', function(e) {
+        if (!isDown) return;
+        e.preventDefault();
+        const x = e.touches[0].pageX - outer.offsetLeft;
+        const walk = (startX - x);
+        outer.scrollLeft = scrollLeft + walk;
+      }, { passive: false });
+      outer.addEventListener('touchend', function() { isDown = false; });
+      outer.addEventListener('touchcancel', function() { isDown = false; });
+      // Also support mouse drag for desktop
+      let isMouseDown = false, mouseStartX, mouseScrollLeft;
+      outer.addEventListener('mousedown', function(e) {
+        isMouseDown = true;
+        mouseStartX = e.pageX - outer.offsetLeft;
+        mouseScrollLeft = outer.scrollLeft;
+        outer.classList.add('dragging');
+      });
+      outer.addEventListener('mouseleave', function() { isMouseDown = false; outer.classList.remove('dragging'); });
+      outer.addEventListener('mouseup', function() { isMouseDown = false; outer.classList.remove('dragging'); });
+      outer.addEventListener('mousemove', function(e) {
+        if (!isMouseDown) return;
+        e.preventDefault();
+        const x = e.pageX - outer.offsetLeft;
+        const walk = (mouseStartX - x);
+        outer.scrollLeft = mouseScrollLeft + walk;
+      });
+    }
   fetch('/applist/applist.xml')
     .then(response => response.text())
     .then(str => (new window.DOMParser()).parseFromString(str, 'text/xml'))
