@@ -27,6 +27,15 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+    #apps-carousel-outer {
+      scroll-behavior: smooth;
+    }
+  </style>
+
   
 </head>
 
@@ -292,7 +301,7 @@
           <p>Some of the mobile apps I have developed. Scroll or swipe to see more!</p>
         </div>
         <div id="apps-carousel-outer" style="overflow:hidden;position:relative;width:100%;">
-          <div id="apps-carousel-inner" style="display:flex;gap:24px;transition:transform 0.3s;will-change:transform;">
+          <div id="apps-carousel-inner" style="display:flex;gap:24px;transition:transform 0.6s cubic-bezier(0.4,0,0.2,1);will-change:transform;">
             <!-- Apps will be loaded here by JS -->
           </div>
         </div>
