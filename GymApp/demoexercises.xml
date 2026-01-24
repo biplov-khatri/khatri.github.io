@@ -5,5 +5,10 @@
         <description> just a simple push pull legs demo.</description>
     </app>
 
-   
+    <app>
+        <name>Demo 2</name>
+        <icon>https://biplovkhatri.com.np/GymApp/assets/qr2.png</icon>
+        <description> just a simple push pull legs demo.</description>
+    </app>
+
 </apps>
