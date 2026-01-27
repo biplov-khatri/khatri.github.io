@@ -1,6 +1,5 @@
 <exercises>
 
-    <!-- 11. new -->
     <exercise>
         <name>Hands Bike</name>
         <gender>Male</gender>
@@ -58,32 +57,6 @@
     </exercise>
 
     <exercise>
-        <name>1-2 Stick Drill</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=hdA5M5p1H2A</video>
-        <icon>https://img.icons8.com/color/96/running.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/04/1-2-Stick-Drill-Plyometrics.gif</animation>
-        <time>20</time>
-        <bmiLevel>Normal</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Improves speed, coordination, and reactive footwork.</whatItDoes>
-        <executionSteps>
-            <step>Start in an athletic stance.</step>
-            <step>Perform two quick steps forward.</step>
-            <step>Pause (“stick”) in a stable landing position.</step>
-            <step>Repeat with controlled explosive movement.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Not fully stopping during the “stick.”</mistake>
-            <mistake>Leaning too far forward when accelerating.</mistake>
-        </commonMistakes>
-    </exercise>
-    <exercise>
         <name>Step Up with Knee Raises</name>
         <gender>Male</gender>
         <gender>Female</gender>
@@ -137,33 +110,7 @@
             <mistake>Not absorbing impact with knees slightly bent.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Bear Crawl</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=FUX6Pz8vV0s</video>
-        <icon>https://img.icons8.com/color/96/bear.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/02/Bear-Crawl.gif</animation>
-        <time>45</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Strengthens core, shoulders, and improves full-body coordination and conditioning.</whatItDoes>
-        <executionSteps>
-            <step>Start on all fours with knees slightly lifted above the ground.</step>
-            <step>Move opposite hand and foot forward at the same time.</step>
-            <step>Keep hips low and core tight.</step>
-            <step>Crawl forward in a controlled rhythm.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Raising hips too high.</mistake>
-            <mistake>Letting the back sag.</mistake>
-        </commonMistakes>
-    </exercise>
+    
     <exercise>
         <name>High Knee Run</name>
         <gender>Male</gender>
@@ -352,33 +299,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <name>High Knees Against Wall</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video></video>
-        <icon></icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/09/High-Knees-against-wall.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Improves cardiovascular endurance and hip flexor strength.</whatItDoes>
-        <executionSteps>
-            <step>Place hands on a wall at shoulder height.</step>
-            <step>Drive one knee up toward your chest.</step>
-            <step>Switch legs rapidly while staying light on your feet.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Leaning too much into the wall.</mistake>
-            <mistake>Low knee height.</mistake>
-        </commonMistakes>
-    </exercise>
-
+   
     <exercise>
         <name>Vertical Mountain Climber</name>
         <gender>Male</gender>
@@ -406,31 +327,6 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <name>Single Leg Hip Thrust Jump</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Glutes</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video></video>
-        <icon></icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Single-Leg-Hip-Thrust-Jump.gif</animation>
-        <time>20</time>
-        <bmiLevel>Athletic</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <whatItDoes>Develops explosive glute and hamstring power.</whatItDoes>
-        <executionSteps>
-            <step>Lie on your back with one foot planted on the ground.</step>
-            <step>Lift hips upward and explosively push off the supporting leg.</step>
-            <step>Land softly and repeat.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Arching the lower back.</mistake>
-            <mistake>Poor landing control.</mistake>
-        </commonMistakes>
-    </exercise>
 
     <exercise>
         <name>Cross Body Push-up</name>
@@ -1930,36 +1826,11 @@
             <mistake>Slouching forward.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Sprint</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=sprint+exercise</video>
-        <icon>https://img.icons8.com/color/96/running.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/06/sprint.gif</animation>
-        <time>20</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <whatItDoes>Boosts cardiovascular fitness, leg power, and speed.</whatItDoes>
-        <executionSteps>
-            <step>Run in place as fast as possible.</step>
-            <step>Lift knees high and pump arms quickly.</step>
-            <step>Maintain explosive pace for the duration.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Not lifting knees enough.</mistake>
-            <mistake>Leaning forward.</mistake>
-        </commonMistakes>
-    </exercise>
+   
     <exercise>
         <name>Walk Wave Machine</name>
         <gender>Male</gender>
-        <gender>Female</gender>
+        <gender>Female</gender>z
         <bodyPart>Cardio</bodyPart>
         <equipment>
             <item>Machine</item>
@@ -2295,32 +2166,8 @@
             <mistake>Legs too low off floor.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>5 Dot Drills</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Legs and  Agility</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=5+dot+drills+exercise</video>
-        <icon>https://img.icons8.com/color/96/footprint.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/12/5-Dot-drills-agility-exercise.gif</animation>
-        <time>25</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Improves agility, coordination, and quick foot movement.</whatItDoes>
-        <executionSteps>
-            <step>Stand at the center dot.</step>
-            <step>Jump to each surrounding dot in sequence, returning to center each time.</step>
-            <step>Maintain fast, controlled movements.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Landing off balance.</mistake>
-            <mistake>Not returning to center dot properly.</mistake>
-        </commonMistakes>
-    </exercise>
+    
+
     <exercise>
         <name>Navy Seal Burpee</name>
         <gender>Male</gender>
@@ -2347,36 +2194,6 @@
             <mistake>Not jumping fully.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Depth Jump to Hurdle Hop</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Legs and Plyometrics</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-            <item>Hurdle (or low obstacle)</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=depth+jump+to+hurdle+hop+exercise</video>
-        <icon>https://img.icons8.com/color/96/jump.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/09/Depth-Jump-to-Hurdle-Hop.gif</animation>
-        <time>25</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <whatItDoes>Develops explosive leg power, coordination, and agility.</whatItDoes>
-        <executionSteps>
-            <step>Stand on a platform, step off and land softly.</step>
-            <step>Immediately jump over hurdle or obstacle.</step>
-            <step>Land softly and repeat.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Landing stiffly.</mistake>
-            <mistake>Insufficient jump height.</mistake>
-        </commonMistakes>
-    </exercise>
-
-    
-    
     
     
     <exercise>
