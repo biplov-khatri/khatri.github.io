@@ -111,33 +111,7 @@
         </commonMistakes>
     </exercise>
     
-    <exercise>
-        <name>High Knee Run</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=8opcQdC-V-U</video>
-        <icon>https://img.icons8.com/color/96/running.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/08/High-Knee-Run.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Improves speed, cardio endurance, and hip flexor strength.</whatItDoes>
-        <executionSteps>
-            <step>Stand tall with hands at your sides.</step>
-            <step>Drive your knees upward one at a time as fast as possible.</step>
-            <step>Pump arms in coordination with legs.</step>
-            <step>Maintain an upright posture throughout.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Leaning backward or forward.</mistake>
-            <mistake>Not lifting knees high enough.</mistake>
-        </commonMistakes>
-    </exercise>
+    
     <exercise>
         <name>High Knee Skips</name>
         <gender>Male</gender>
@@ -300,60 +274,9 @@
     </exercise>
 
    
-    <exercise>
-        <name>Vertical Mountain Climber</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Full Body</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video></video>
-        <icon></icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/07/Vertical-Mountain-Climber.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Boosts cardio and strengthens lower body and core.</whatItDoes>
-        <executionSteps>
-            <step>Stand upright with hands reaching overhead.</step>
-            <step>Drive one knee upward while pulling hands down.</step>
-            <step>Alternate legs rapidly in a climbing motion.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Poor posture.</mistake>
-            <mistake>Slow tempo.</mistake>
-        </commonMistakes>
-    </exercise>
+      
 
 
-    <exercise>
-        <name>Cross Body Push-up</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Chest</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video></video>
-        <icon></icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Cross-Body-Push-up_Plyometric.gif</animation>
-        <time>20</time>
-        <bmiLevel>Athletic</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <whatItDoes>Builds upper-body explosiveness and shoulder stability.</whatItDoes>
-        <executionSteps>
-            <step>Start in a push-up position.</step>
-            <step>Lower your chest to the floor.</step>
-            <step>Explode upward and move hands diagonally to opposite sides.</step>
-            <step>Repeat with controlled landing.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Flaring elbows.</mistake>
-            <mistake>Weak core engagement.</mistake>
-        </commonMistakes>
-    </exercise>
 
     <exercise>
         <name>Box Jump to Pistol Squat</name>
@@ -540,31 +463,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <name>Long Jump</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Legs</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video></video>
-        <icon></icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/03/Long-Jump-Plyometrics.gif</animation>
-        <time>20</time>
-        <bmiLevel>Athletic</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <whatItDoes>Develops lower-body explosive power and coordination.</whatItDoes>
-        <executionSteps>
-            <step>Start in a partial squat stance.</step>
-            <step>Swing arms back and jump forward as far as possible.</step>
-            <step>Land softly with knees bent.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Poor landing control.</mistake>
-            <mistake>Insufficient arm swing.</mistake>
-        </commonMistakes>
-    </exercise>
+   
 
     <exercise>
         <name>Front Plank With Arm And Leg Lift</name>
@@ -645,31 +544,6 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <name>Ski Step</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video></video>
-        <icon></icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/04/Ski-Step.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Improves coordination and cardiovascular endurance.</whatItDoes>
-        <executionSteps>
-            <step>Stand upright with arms slightly bent.</step>
-            <step>Step side to side in a skiing motion.</step>
-            <step>Move arms opposite to your legs.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Shallow steps.</mistake>
-            <mistake>Poor arm coordination.</mistake>
-        </commonMistakes>
-    </exercise>
 
     <exercise>
         <name>Dumbbell Split Jump</name>
@@ -776,168 +650,9 @@
             <mistake>Poor squat form.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Boxer Shuffle</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=boxer+shuffle+cardio</video>
-        <icon>https://img.icons8.com/color/96/running.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Boxer-Shuffle-Cardio.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Improves footwork, agility, and overall cardiovascular endurance.</whatItDoes>
-        <executionSteps>
-            <step>Stand in a light boxing stance.</step>
-            <step>Shift weight from one foot to the other.</step>
-            <step>Stay light on your toes and move continuously.</step>
-            <step>Maintain a relaxed upper body.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Landing heavily on the heels.</mistake>
-            <mistake>Minimal foot movement.</mistake>
-        </commonMistakes>
-    </exercise>
-    <exercise>
-        <name>Jab Boxing</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=jab+boxing+exercise</video>
-        <icon>https://img.icons8.com/color/96/boxing.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/10/Jab-Boxing.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Enhances arm speed, improves coordination, and increases heart rate.</whatItDoes>
-        <executionSteps>
-            <step>Stand in a boxing stance.</step>
-            <step>Extend your lead hand straight forward.</step>
-            <step>Retract the punch swiftly.</step>
-            <step>Repeat with controlled speed.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Dropping guard after punching.</mistake>
-            <mistake>Overextending the arm.</mistake>
-        </commonMistakes>
-    </exercise>
-    <exercise>
-        <name>Punches</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=punches+cardio+workout</video>
-        <icon>https://img.icons8.com/color/96/boxing.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/09/Punches.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Improves upper-body endurance and cardiovascular fitness.</whatItDoes>
-        <executionSteps>
-            <step>Stand with feet shoulder-width apart.</step>
-            <step>Throw alternating punches forward.</step>
-            <step>Rotate your torso slightly with each punch.</step>
-            <step>Maintain a steady pace.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Not rotating the torso.</mistake>
-            <mistake>Punching without control.</mistake>
-        </commonMistakes>
-    </exercise>
-    <exercise>
-        <name>Right Uppercut</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=right+uppercut+boxing+technique</video>
-        <icon>https://img.icons8.com/color/96/boxing.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/08/Right-Uppercut-Boxing.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Strengthens shoulders and core while boosting cardio activity.</whatItDoes>
-        <executionSteps>
-            <step>Stand in a boxing stance.</step>
-            <step>Bend knees slightly and rotate hips.</step>
-            <step>Drive your right fist upward in a scooping motion.</step>
-            <step>Return to guard and repeat.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Using only the arm instead of the whole body.</mistake>
-            <mistake>Lack of hip rotation.</mistake>
-        </commonMistakes>
-    </exercise>
-    <exercise>
-        <name>Right Cross</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=right+cross+boxing+technique</video>
-        <icon>https://img.icons8.com/color/96/boxing.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/08/Right-Cross-Boxing.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Develops power, coordination, and cardiovascular performance.</whatItDoes>
-        <executionSteps>
-            <step>Stand in fighting position.</step>
-            <step>Rotate hips and shoulders.</step>
-            <step>Extend your right arm forward forcefully.</step>
-            <step>Return to guard immediately.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Overreaching the punch.</mistake>
-            <mistake>Not rotating hips.</mistake>
-        </commonMistakes>
-    </exercise>
-    <exercise>
-        <name>Hook Kick</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=hook+kick+kickboxing</video>
-        <icon>https://img.icons8.com/color/96/martial-arts.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Hook-Kick-Kickboxing-with-boxing-bag.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Improves lower-body strength, agility, and balance.</whatItDoes>
-        <executionSteps>
-            <step>Stand in a fighting stance.</step>
-            <step>Lift your knee up sideways.</step>
-            <step>Extend your leg outward in a hooking motion.</step>
-            <step>Return to stance and repeat.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Lack of balance.</mistake>
-            <mistake>Kicking without proper hip movement.</mistake>
-        </commonMistakes>
-    </exercise>
+   
+
+    
     <exercise>
         <name>Boxing Right Cross</name>
         <gender>Male</gender>
@@ -965,33 +680,7 @@
             <mistake>Not rotating hips fully.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Walking High Knee Lunges</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=walking+high+knee+lunge</video>
-        <icon>https://img.icons8.com/color/96/running.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/09/Walking-High-Knee-Lunges.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Strengthens legs, improves balance, and boosts cardiovascular output.</whatItDoes>
-        <executionSteps>
-            <step>Step forward into a lunge.</step>
-            <step>Push through the front leg and lift the opposite knee high.</step>
-            <step>Step forward into the next lunge.</step>
-            <step>Repeat walking movement.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Knee collapsing inward.</mistake>
-            <mistake>Not lifting knee high enough.</mistake>
-        </commonMistakes>
-    </exercise>
+   
     <exercise>
         <name>High Knees Run</name>
         <gender>Male</gender>
@@ -1046,33 +735,8 @@
             <mistake>Shortening the knee-to-elbow range.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Run in Place</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=run+in+place+exercise</video>
-        <icon>https://img.icons8.com/color/96/running.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/09/Run-in-Place-exercise.gif</animation>
-        <time>40</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Improves cardio endurance and warms up the whole body.</whatItDoes>
-        <executionSteps>
-            <step>Stand tall with relaxed shoulders.</step>
-            <step>Begin jogging in place.</step>
-            <step>Lift your knees slightly and swing your arms.</step>
-            <step>Maintain a consistent pace.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Landing heavily on the feet.</mistake>
-            <mistake>Leaning too far forward.</mistake>
-        </commonMistakes>
-    </exercise>
+   
+   
     <exercise>
         <name>Jump Squats</name>
         <gender>Male</gender>
@@ -1100,33 +764,7 @@
             <mistake>Leaning forward too much.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Short Stride Run</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=short+stride+run+exercise</video>
-        <icon>https://img.icons8.com/color/96/running.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/09/Short-Stride-Run.gif</animation>
-        <time>40</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Improves foot speed, stamina, and cardiovascular performance.</whatItDoes>
-        <executionSteps>
-            <step>Stand tall and begin running with short, quick steps.</step>
-            <step>Keep your feet close to the ground.</step>
-            <step>Maintain quick turnover.</step>
-            <step>Use your arms for balance and rhythm.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Overstriding.</mistake>
-            <mistake>Slouching posture.</mistake>
-        </commonMistakes>
-    </exercise>
+    
     <exercise>
         <name>Lateral Step-up</name>
         <gender>Male</gender>
@@ -1208,60 +846,8 @@
             <mistake>Short, weak knee drive.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Backward Running</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=backward+running+exercise</video>
-        <icon>https://img.icons8.com/color/96/running.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/08/Backwards-Running.gif</animation>
-        <time>40</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Builds balance, agility, and strengthens leg muscles differently than forward running.</whatItDoes>
-        <executionSteps>
-            <step>Stand tall and look straight ahead.</step>
-            <step>Begin jogging backward with short steps.</step>
-            <step>Keep your core engaged.</step>
-            <step>Maintain a safe pace.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Taking long backward steps.</mistake>
-            <mistake>Looking down constantly.</mistake>
-        </commonMistakes>
-    </exercise>
-    <exercise>
-        <name>Side Shuttle</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=side+shuttle+drill</video>
-        <icon>https://img.icons8.com/color/96/running.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/09/Side-Shuttle.gif</animation>
-        <time>35</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Improves lateral speed, agility, and footwork.</whatItDoes>
-        <executionSteps>
-            <step>Stand with feet shoulder-width apart.</step>
-            <step>Shuffle quickly to one side.</step>
-            <step>Touch the ground or imaginary marker.</step>
-            <step>Shuffle to the opposite side.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Crossing the feet.</mistake>
-            <mistake>Standing too tall during shuffles.</mistake>
-        </commonMistakes>
-    </exercise>
+    
+    
     <exercise>
         <name>Tuck Jump</name>
         <gender>Male</gender>
@@ -1316,32 +902,7 @@
             <mistake>Rushing the twist.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Power Skips</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=power+skips+exercise</video>
-        <icon>https://img.icons8.com/color/96/running.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/09/Power-Skips.gif</animation>
-        <time>25</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Improves leg power, coordination, and cardiovascular fitness.</whatItDoes>
-        <executionSteps>
-            <step>Stand tall and prepare to skip forward explosively.</step>
-            <step>Drive knees high while swinging opposite arms.</step>
-            <step>Land softly and repeat continuously.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Landing hard on feet.</mistake>
-            <mistake>Not using full arm drive.</mistake>
-        </commonMistakes>
-    </exercise>
+    
     <exercise>
         <name>Plyo Jacks</name>
         <gender>Male</gender>
@@ -1450,60 +1011,8 @@
             <mistake>Leaning forward.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Wheel Run</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=wheel+run+exercise</video>
-        <icon>https://img.icons8.com/color/96/running.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/09/Wheel-Run.gif</animation>
-        <time>35</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Boosts agility, coordination, and cardiovascular endurance.</whatItDoes>
-        <executionSteps>
-            <step>Stand in a neutral position.</step>
-            <step>Run in a circular motion as if spinning a wheel.</step>
-            <step>Maintain light, fast steps.</step>
-            <step>Keep arms moving for rhythm.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Crossing feet.</mistake>
-            <mistake>Stopping rotation mid-run.</mistake>
-        </commonMistakes>
-    </exercise>
-    <exercise>
-        <name>Zig Zag Hops Plyometric</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=zig+zag+hops+plyometric</video>
-        <icon>https://img.icons8.com/color/96/running.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/05/Zig-Zag-Hops-Plyometric.gif</animation>
-        <time>25</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Develops explosive leg power, agility, and cardiovascular fitness.</whatItDoes>
-        <executionSteps>
-            <step>Stand with feet together.</step>
-            <step>Jump side-to-side in a zig-zag pattern.</step>
-            <step>Land softly on the balls of feet.</step>
-            <step>Repeat quickly and controlled.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Landing flat-footed.</mistake>
-            <mistake>Jumping too narrowly or widely.</mistake>
-        </commonMistakes>
-    </exercise>
+    
+     
     <exercise>
         <name>Bodyweight Squat</name>
         <gender>Male</gender>
@@ -1531,33 +1040,7 @@
             <mistake>Knees caving inward.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Lateral Speed Step</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=lateral+speed+step+exercise</video>
-        <icon>https://img.icons8.com/color/96/running.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/05/Lateral-Speed-Step.gif</animation>
-        <time>35</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Improves lateral speed, agility, and cardiovascular fitness.</whatItDoes>
-        <executionSteps>
-            <step>Stand in a slight squat position.</step>
-            <step>Step quickly side-to-side with small, fast steps.</step>
-            <step>Keep torso stable.</step>
-            <step>Maintain continuous movement.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Crossing feet.</mistake>
-            <mistake>Not staying low enough.</mistake>
-        </commonMistakes>
-    </exercise>
+    
     <exercise>
         <name>Curtsy Squat</name>
         <gender>Male</gender>
@@ -1612,33 +1095,7 @@
             <mistake>Loss of balance.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Backward Jump</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=backward+jump+exercise</video>
-        <icon>https://img.icons8.com/color/96/running.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/05/Backward-Jumping.gif</animation>
-        <time>25</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Enhances leg power, coordination, and cardiovascular endurance.</whatItDoes>
-        <executionSteps>
-            <step>Stand with feet shoulder-width apart.</step>
-            <step>Jump backward explosively.</step>
-            <step>Land softly on both feet.</step>
-            <step>Repeat continuously.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Landing stiffly.</mistake>
-            <mistake>Not using arms for balance.</mistake>
-        </commonMistakes>
-    </exercise>
+    
     <exercise>
         <name>Jumping Jack</name>
         <gender>Male</gender>
@@ -1666,87 +1123,9 @@
             <mistake>Insufficient jump height.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Single Leg Broad Jump</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=single+leg+broad+jump+exercise</video>
-        <icon>https://img.icons8.com/color/96/running.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/05/Single-Leg-Broad-Jump.gif</animation>
-        <time>25</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Builds explosive single-leg power and cardiovascular endurance.</whatItDoes>
-        <executionSteps>
-            <step>Stand on one leg with knee slightly bent.</step>
-            <step>Jump forward as far as possible.</step>
-            <step>Land softly on the same leg.</step>
-            <step>Repeat for set time and switch legs.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Landing flat-footed.</mistake>
-            <mistake>Loss of balance.</mistake>
-        </commonMistakes>
-    </exercise>
-    <exercise>
-        <name>Power Lunge</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Legs</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=power+lunge+exercise</video>
-        <icon>https://img.icons8.com/color/96/lunge.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/09/power-lunge.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Builds explosive leg power, glutes, and cardiovascular endurance.</whatItDoes>
-        <executionSteps>
-            <step>Stand tall with feet hip-width apart.</step>
-            <step>Step forward into a lunge, lowering your back knee toward the ground.</step>
-            <step>Push explosively off the front foot to return to standing.</step>
-            <step>Alternate legs and repeat.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Knee extending beyond toes.</mistake>
-            <mistake>Not landing softly.</mistake>
-        </commonMistakes>
-    </exercise>
-    <exercise>
-        <name>Shadow Boxing</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Full Body</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=shadow+boxing+exercise</video>
-        <icon>https://img.icons8.com/color/96/boxing-glove.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/09/shadow-boxing-workout.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Improves cardio, coordination, and upper body endurance.</whatItDoes>
-        <executionSteps>
-            <step>Stand in a fighting stance with knees slightly bent.</step>
-            <step>Throw punches in the air, alternating hands.</step>
-            <step>Keep movements controlled and maintain footwork.</step>
-            <step>Repeat continuously.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Locking elbows.</mistake>
-            <mistake>Leaning forward excessively.</mistake>
-        </commonMistakes>
-    </exercise>
+    
+
+   
     <exercise>
         <name>Walking</name>
         <gender>Male</gender>
@@ -1773,32 +1152,7 @@
             <mistake>Shuffling feet.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Briskly Walking</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=brisk+walking+exercise</video>
-        <icon>https://img.icons8.com/color/96/walking.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/09/Briskly-Walking.gif</animation>
-        <time>35</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Increases heart rate and burns more calories than regular walking.</whatItDoes>
-        <executionSteps>
-            <step>Walk in place or around the room at a faster pace.</step>
-            <step>Maintain straight posture and engage core.</step>
-            <step>Swing arms naturally.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Not increasing pace sufficiently.</mistake>
-            <mistake>Leaning forward.</mistake>
-        </commonMistakes>
-    </exercise>
+    
     <exercise>
         <name>Running</name>
         <gender>Male</gender>
