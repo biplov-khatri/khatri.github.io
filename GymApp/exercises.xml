@@ -12708,7 +12708,7 @@
         <gender>Female</gender>
         <equipment>
             <item>No Equipment</item>
-            <item>Box or Step</item>
+            <item>Box</item>
         </equipment>
         <goal>Strength</goal>
         <goal>Endurance</goal>
@@ -17289,7 +17289,7 @@
         <gender>Male</gender>
         <gender>Female</gender>
         <equipment>
-            <item>T-Bar Machine</item>
+            <item>T-Bar</item>
         </equipment>
         <goal>Muscle Growth</goal>
         <goal>Strength</goal>
@@ -27361,7 +27361,7 @@
         <gender>male</gender>
         <gender>female</gender>
         <equipment>
-            <item>EZ-Bar</item>
+            <item>EZ Bar</item>
         </equipment>
         <video>https://www.youtube.com/watch?v=4biCTQej6RQ</video>
         <goal>muscle growth</goal>
@@ -27816,7 +27816,7 @@
         <gender>female</gender>
         <equipment>
             <item>Cable Machine</item>
-            <item>EZ-Bar</item>
+            <item>EZ Bar</item>
         </equipment>
         <video>https://www.youtube.com/watch?v=e0Mu2jC4nRk</video>
         <goal>muscle growth</goal>
@@ -46645,7 +46645,6 @@
         <gender>female</gender>
         <equipment>
             <item>No Equipment</item>
-            <item>Bag optional</item>
         </equipment>
         <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
         <goal>endurance</goal>
@@ -46678,7 +46677,7 @@
         <gender>male</gender>
         <gender>female</gender>
         <equipment>
-            <item>Bag optional</item>
+            <item>No Equipment</item>
         </equipment>
         <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
         <goal>endurance</goal>
