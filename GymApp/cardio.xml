@@ -113,60 +113,8 @@
             <mistake>Failing to coordinate arm and leg movement.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Assault AirBike</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>AirBike</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=3t8ZMPkQhCw</video>
-        <icon>https://img.icons8.com/color/96/exercise-bike.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/06/Assault-AirBike.gif</animation>
-        <time>45</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Provides a full-body cardio workout combining upper and lower body motion.</whatItDoes>
-        <executionSteps>
-            <step>Sit on the seat and grab the handles firmly.</step>
-            <step>Begin pedaling while pushing and pulling the handles.</step>
-            <step>Maintain an upright torso and steady pace.</step>
-            <step>Increase speed gradually to raise heart rate.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Slouching the upper body.</mistake>
-            <mistake>Using only legs or only arms instead of both.</mistake>
-        </commonMistakes>
-    </exercise>
-    <exercise>
-        <name>Recumbent Exercise Bike</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Recumbent Bike</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=kYyT1i_sQ0Q</video>
-        <icon>https://img.icons8.com/color/96/recumbent-bike.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/06/Recumbent-Exercise-Bike.gif</animation>
-        <time>45</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Provides low-impact cardiovascular exercise suitable for beginners and those with joint issues.</whatItDoes>
-        <executionSteps>
-            <step>Sit back into the seat and place your feet on the pedals.</step>
-            <step>Adjust seat distance to maintain slight knee bend.</step>
-            <step>Begin pedaling at a controlled pace.</step>
-            <step>Increase resistance gradually as needed.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Sitting too far or too close to the pedals.</mistake>
-            <mistake>Slouching the back instead of maintaining posture.</mistake>
-        </commonMistakes>
-    </exercise>
+   
+   
     <exercise>
         <name>The Box Jump</name>
         <gender>Male</gender>
@@ -193,37 +141,7 @@
             <mistake>Landing stiff-legged on the box.</mistake>
         </commonMistakes>
     </exercise>
-    
-    <exercise>
-        <name>Vibration Plate</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Full Body</bodyPart>
-        <equipment>
-            <item>Vibration Plate</item>
-        </equipment>
-        <video></video>
-        <icon></icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/06/Vibrate-Plate-Standing.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Enhances muscle activation and circulation through vibration.</whatItDoes>
-        <executionSteps>
-            <step>Stand with knees slightly bent on the vibration plate.</step>
-            <step>Maintain balance and engage your core.</step>
-            <step>Hold the position while the plate vibrates.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Locking the knees.</mistake>
-            <mistake>Leaning too far forward.</mistake>
-        </commonMistakes>
-    </exercise>
-
    
-      
-
 
 
     <exercise>
@@ -330,32 +248,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <name>Stationary Bike Run</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Stationary Bike</item>
-        </equipment>
-        <video></video>
-        <icon></icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Stationary-Bike-Run.gif</animation>
-        <time>40</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Improves lower-body endurance and cardiovascular fitness.</whatItDoes>
-        <executionSteps>
-            <step>Sit on the bike with proper seat height.</step>
-            <step>Pedal at a fast but controlled pace.</step>
-            <step>Maintain steady breathing.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Slouched posture.</mistake>
-            <mistake>Pedaling too fast without control.</mistake>
-        </commonMistakes>
-    </exercise>
+    
     <exercise>
         <name>Jack Burpees</name>
         <gender>Male</gender>
