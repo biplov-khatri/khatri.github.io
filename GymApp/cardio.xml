@@ -1,32 +1,6 @@
 <exercises>
 
-    <exercise>
-        <name>Hands Bike</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Air Bike</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=u-AxJ4lZ5G0</video>
-        <icon>https://img.icons8.com/color/96/exercise-bike.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Hands-Bike.gif</animation>
-        <time>40</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Improves upper-body cardiovascular endurance using cycling mechanics.</whatItDoes>
-        <executionSteps>
-            <step>Sit on the bike and grip the handles.</step>
-            <step>Start pedaling with your arms in a controlled motion.</step>
-            <step>Maintain consistent resistance and rhythm.</step>
-            <step>Keep shoulders relaxed and core active.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Using momentum instead of controlled movement.</mistake>
-            <mistake>Slouching forward and losing form.</mistake>
-        </commonMistakes>
-    </exercise>
+   
 
 
     <exercise>
@@ -219,33 +193,7 @@
             <mistake>Landing stiff-legged on the box.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Battle Rope</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Battle Rope</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=cQ_jmFfiHnU</video>
-        <icon>https://img.icons8.com/color/96/rope.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2015/07/Battle-Rope.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Athletic</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Improves full-body conditioning, strengthens arms and core, and boosts cardiovascular performance.</whatItDoes>
-        <executionSteps>
-            <step>Stand with knees slightly bent and hold the rope ends.</step>
-            <step>Keep core engaged and chest upright.</step>
-            <step>Move arms up and down to create waves in the rope.</step>
-            <step>Maintain steady breathing and controlled rhythm.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Using lower back instead of core.</mistake>
-            <mistake>Holding breath during high-intensity rounds.</mistake>
-        </commonMistakes>
-    </exercise>
+    
     <exercise>
         <name>Vibration Plate</name>
         <gender>Male</gender>
@@ -653,33 +601,6 @@
    
 
     
-    <exercise>
-        <name>Boxing Right Cross</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Boxing Bag</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=boxing+right+cross</video>
-        <icon>https://img.icons8.com/color/96/boxing.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Boxing-Right-Cross-with-boxing-bag.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Increases punching power, coordination, and cardio intensity.</whatItDoes>
-        <executionSteps>
-            <step>Stand in boxing stance.</step>
-            <step>Twist your hips and shoulders.</step>
-            <step>Throw a powerful right cross punch.</step>
-            <step>Reset to guard position.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Leaning forward too much.</mistake>
-            <mistake>Not rotating hips fully.</mistake>
-        </commonMistakes>
-    </exercise>
    
     <exercise>
         <name>High Knees Run</name>
@@ -1182,32 +1103,6 @@
     </exercise>
    
     <exercise>
-        <name>Walk Wave Machine</name>
-        <gender>Male</gender>
-        <gender>Female</gender>z
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Machine</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=walk+wave+machine+exercise</video>
-        <icon>https://img.icons8.com/color/96/treadmill.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/10/Walk-Wave-Machine.gif</animation>
-        <time>35</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Improves cardiovascular fitness and lower body endurance.</whatItDoes>
-        <executionSteps>
-            <step>Walk on the wave machine at steady pace.</step>
-            <step>Keep posture upright.</step>
-            <step>Use arm movement for balance.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Slouching forward.</mistake>
-            <mistake>Using machine incorrectly.</mistake>
-        </commonMistakes>
-    </exercise>
-    <exercise>
         <name>Jump Rope</name>
         <gender>Male</gender>
         <gender>Female</gender>
@@ -1233,189 +1128,10 @@
             <mistake>Poor wrist rotation.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Bike</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Legs</bodyPart>
-        <equipment>
-            <item>Stationary Bike</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=bike+exercise</video>
-        <icon>https://img.icons8.com/color/96/bicycle.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/06/Bike.gif</animation>
-        <time>40</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Improves leg strength and cardiovascular endurance.</whatItDoes>
-        <executionSteps>
-            <step>Sit on bike seat with feet on pedals.</step>
-            <step>Pedal continuously at a steady pace.</step>
-            <step>Engage core to maintain posture.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Poor posture.</mistake>
-            <mistake>Pedaling too slowly.</mistake>
-        </commonMistakes>
-    </exercise>
-    <exercise>
-        <name>Treadmill</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Treadmill</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=treadmill+exercise</video>
-        <icon>https://img.icons8.com/color/96/treadmill.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/06/Treadmill-.gif</animation>
-        <time>40</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Improves cardiovascular endurance and leg strength.</whatItDoes>
-        <executionSteps>
-            <step>Walk or run at a steady pace on the treadmill.</step>
-            <step>Maintain upright posture.</step>
-            <step>Engage core for stability.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Leaning forward.</mistake>
-            <mistake>Holding treadmill handles too much.</mistake>
-        </commonMistakes>
-    </exercise>
-    <exercise>
-        <name>Incline Treadmill</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Legs</bodyPart>
-        <equipment>
-            <item>Treadmill</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=incline+treadmill+exercise</video>
-        <icon>https://img.icons8.com/color/96/treadmill.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/06/Incline-Treadmill.gif</animation>
-        <time>35</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Increases leg and glute strength while boosting cardiovascular endurance.</whatItDoes>
-        <executionSteps>
-            <step>Set treadmill to an incline.</step>
-            <step>Walk or jog at steady pace.</step>
-            <step>Maintain upright posture and engage core.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Slouching.</mistake>
-            <mistake>Relying too much on handrails.</mistake>
-        </commonMistakes>
-    </exercise>
-    <exercise>
-        <name>Rowing Machine</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Full Body</bodyPart>
-        <equipment>
-            <item>Rowing Machine</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=rowing+machine+exercise</video>
-        <icon>https://img.icons8.com/color/96/rowing.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/06/Rowing-Machine.gif</animation>
-        <time>35</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Strengthens back, arms, legs, and improves cardiovascular fitness.</whatItDoes>
-        <executionSteps>
-            <step>Sit on the rowing machine with feet strapped in.</step>
-            <step>Pull handle towards chest while extending legs.</step>
-            <step>Return to start position smoothly.</step>
-            <step>Repeat at steady pace.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Rounding back.</mistake>
-            <mistake>Jerking the handle.</mistake>
-        </commonMistakes>
-    </exercise>
-    <exercise>
-        <name>Manual Treadmill</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Legs</bodyPart>
-        <equipment>
-            <item>Manual Treadmill</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=manual+treadmill+exercise</video>
-        <icon>https://img.icons8.com/color/96/treadmill.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/06/Assault-Air-Runner.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Improves leg strength and cardiovascular endurance with self-powered motion.</whatItDoes>
-        <executionSteps>
-            <step>Stand on treadmill and walk/run by moving the belt with feet.</step>
-            <step>Maintain upright posture.</step>
-            <step>Use arm swing for balance.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Leaning forward.</mistake>
-            <mistake>Short stride length.</mistake>
-        </commonMistakes>
-    </exercise>
-    <exercise>
-        <name>Elliptical Machine</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Full Body</bodyPart>
-        <equipment>
-            <item>Elliptical Machine</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=elliptical+machine+exercise</video>
-        <icon>https://img.icons8.com/color/96/elliptical-trainer.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/10/Elliptical-Machine.gif</animation>
-        <time>35</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Works legs, arms, and improves cardio with low-impact motion.</whatItDoes>
-        <executionSteps>
-            <step>Stand on pedals and hold handles.</step>
-            <step>Move legs and arms in smooth elliptical motion.</step>
-            <step>Maintain steady pace.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Locking knees.</mistake>
-            <mistake>Leaning forward.</mistake>
-        </commonMistakes>
-    </exercise>
-    <exercise>
-        <name>Stair Climber Machine</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Legs</bodyPart>
-        <equipment>
-            <item>Stair Climber</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=stair+climber+exercise</video>
-        <icon>https://img.icons8.com/color/96/stairs.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/10/Walking-on-Stepmill.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Strengthens legs, glutes, and improves cardiovascular endurance.</whatItDoes>
-        <executionSteps>
-            <step>Step continuously on machine pedals.</step>
-            <step>Maintain upright posture and engage core.</step>
-            <step>Use handrails lightly if needed.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Leaning heavily on handrails.</mistake>
-            <mistake>Taking too short steps.</mistake>
-        </commonMistakes>
-    </exercise>
+    
+    
+  
+    
     <exercise>
         <name>Elbow To Knee Twists</name>
         <gender>Male</gender>
@@ -1582,38 +1298,7 @@
         </commonMistakes>
     </exercise>
 
-    
-    <exercise>
-        <name>Wall Walk</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Full Body</bodyPart>
-        <equipment>
-            <item>No Equipment</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=wall+walk+exercise</video>
-        <icon>https://img.icons8.com/color/96/handstand.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/12/wall-walk-muscles.gif</animation>
-        <time>25</time>
-        <bmiLevel>Underweight</bmiLevel>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <whatItDoes>
-            Builds shoulder strength, core stability, and full-body control while preparing the body for advanced inverted movements.
-        </whatItDoes>
-        <executionSteps>
-            <step>Begin in a plank position with feet against the wall.</step>
-            <step>Walk your feet up the wall while moving your hands closer to the wall.</step>
-            <step>Continue until your body is nearly vertical and chest is close to the wall.</step>
-            <step>Slowly walk back down with controlled movement.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Overarching the lower back instead of engaging the core.</mistake>
-            <mistake>Moving too quickly and losing balance or control.</mistake>
-            <mistake>Letting shoulders shrug up toward the ears.</mistake>
-        </commonMistakes>
-    </exercise>
+  
 
     
     <exercise>
@@ -1934,37 +1619,7 @@
             <mistake>Not using the full range of motion.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Drop Push-Up</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Chest</bodyPart>
-        <equipment>
-            <item>No Equipment</item>
-            <item>Box or Step</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=drop+push+up+exercise</video>
-        <icon>https://img.icons8.com/color/96/push-ups.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/06/Drop-Push-Up.gif</animation>
-        <time>20</time>
-        <bmiLevel>Underweight</bmiLevel>
-        <bmiLevel>Normal</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <whatItDoes>
-            An explosive plyometric push-up that builds powerful chest, shoulder, and triceps strength while improving reactive control.
-        </whatItDoes>
-        <executionSteps>
-            <step>Start in a push-up position with hands elevated on a box or step.</step>
-            <step>Drop your hands quickly to the floor.</step>
-            <step>Absorb the impact and immediately press explosively upward.</step>
-            <step>Land softly with control and repeat.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Failing to control the landing.</mistake>
-            <mistake>Using only partial pressing range.</mistake>
-            <mistake>Arching the lower back upon impact.</mistake>
-        </commonMistakes>
-    </exercise>
+    
     <exercise>
         <name>Lying Upper Body Rotation</name>
         <gender>Male</gender>
@@ -2452,36 +2107,7 @@
             <mistake>Not fully extending the arm and leg.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Decline Sit-up</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Abs</bodyPart>
-        <equipment>
-            <item>Decline Bench</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=QhGU5cmNZds</video>
-        <icon>https://img.icons8.com/color/96/abs.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/05/Decline-Sit-up.gif</animation>
-        <time>30</time>
-        <bmiLevel>Underweight</bmiLevel>
-        <bmiLevel>Normal</bmiLevel>
-        <difficulty>Amateur</difficulty>
-        <whatItDoes>
-            Increases resistance on the abdominal muscles by using a decline angle, enhancing upper ab strength and core control.
-        </whatItDoes>
-        <executionSteps>
-            <step>Secure your feet on the decline bench and lie back fully.</step>
-            <step>Engage your core and sit up using your abdominal muscles.</step>
-            <step>Squeeze the abs briefly at the top.</step>
-            <step>Lower yourself back down slowly with control.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Relying too much on hip flexors instead of abs.</mistake>
-            <mistake>Using momentum to come up.</mistake>
-            <mistake>Straining or pulling on the neck.</mistake>
-        </commonMistakes>
-    </exercise>
+    
     <exercise>
         <name>Heel Touch</name>
         <gender>Male</gender>
