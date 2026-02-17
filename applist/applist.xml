@@ -14,7 +14,7 @@
         <android>https://play.google.com/store/apps/details?id=com.n5.app</android>
         <ios></ios>
     </app>
-
+    <!--
     <app>
         <name>Gymmy - everything related to fitness</name>
         <icon>https://biplovkhatri.com.np/applist/Images/gymy.png</icon>
@@ -22,4 +22,5 @@
         <android>https://play.google.com/store/apps/details?id=com.diet.app</android>
         <ios></ios>
     </app>
+    -->
 </apps>
