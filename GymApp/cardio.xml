@@ -115,138 +115,7 @@
     </exercise>
    
    
-    <exercise>
-        <name>The Box Jump</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Box</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=52r_Ul5k03g</video>
-        <icon>https://img.icons8.com/color/96/wooden-box.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2015/07/The-Box-Jump.gif</animation>
-        <time>25</time>
-        <bmiLevel>Athletic</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Builds explosive power, leg strength, and high-intensity cardio endurance.</whatItDoes>
-        <executionSteps>
-            <step>Stand facing the box with feet shoulder-width apart.</step>
-            <step>Lower into a half squat and swing arms backward.</step>
-            <step>Explosively jump onto the box, landing softly.</step>
-            <step>Step down carefully and repeat.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Jumping backward when stepping off.</mistake>
-            <mistake>Landing stiff-legged on the box.</mistake>
-        </commonMistakes>
-    </exercise>
-   
 
-
-    <exercise>
-        <name>Box Jump to Pistol Squat</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Legs</bodyPart>
-        <equipment>
-            <item>Box</item>
-        </equipment>
-        <video></video>
-        <icon></icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/02/Box-Jump-to-Pistol-Squat.gif</animation>
-        <time>25</time>
-        <bmiLevel>Athletic</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <whatItDoes>Improves balance, leg strength, and plyometric power.</whatItDoes>
-        <executionSteps>
-            <step>Jump onto the box with both feet.</step>
-            <step>Stabilize and perform a single-leg pistol squat.</step>
-            <step>Return to standing and step down.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Poor balance on landing.</mistake>
-            <mistake>Knee collapsing inward.</mistake>
-        </commonMistakes>
-    </exercise>
-
-    <exercise>
-        <name>Box Jump 2 to 1</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Legs</bodyPart>
-        <equipment>
-            <item>Box</item>
-        </equipment>
-        <video></video>
-        <icon></icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/02/Box-Jump-2-to-1.gif</animation>
-        <time>20</time>
-        <bmiLevel>Athletic</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <whatItDoes>Develops unilateral leg strength and explosive power.</whatItDoes>
-        <executionSteps>
-            <step>Jump onto the box with two feet.</step>
-            <step>Land and balance on one leg.</step>
-            <step>Step down safely.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Landing instability.</mistake>
-            <mistake>Improper box height selection.</mistake>
-        </commonMistakes>
-    </exercise>
-
-    <exercise>
-        <name>Box Jump 1 to 2</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Legs</bodyPart>
-        <equipment>
-            <item>Box</item>
-        </equipment>
-        <video></video>
-        <icon></icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/02/Box-Jump-1-to-2.gif</animation>
-        <time>20</time>
-        <bmiLevel>Athletic</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <whatItDoes>Improves explosive strength and dynamic balance.</whatItDoes>
-        <executionSteps>
-            <step>Jump onto the box from a single-leg stance.</step>
-            <step>Land on both feet with control.</step>
-            <step>Step down carefully.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Knee instability.</mistake>
-            <mistake>Poor landing mechanics.</mistake>
-        </commonMistakes>
-    </exercise>
-
-    <exercise>
-        <name>Single Leg Box Jump</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Legs</bodyPart>
-        <equipment>
-            <item>Box</item>
-        </equipment>
-        <video></video>
-        <icon></icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/02/Single-Leg-Box-Jump.gif</animation>
-        <time>20</time>
-        <bmiLevel>Athletic</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <whatItDoes>Strengthens single-leg explosiveness and balance.</whatItDoes>
-        <executionSteps>
-            <step>Stand on one leg in front of the box.</step>
-            <step>Jump explosively onto the box.</step>
-            <step>Land on the same leg and balance.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Using momentum instead of leg power.</mistake>
-            <mistake>Poor landing stability.</mistake>
-        </commonMistakes>
-    </exercise>
 
     
     <exercise>
@@ -358,85 +227,9 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <name>Dumbbell Burpees</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Full Body</bodyPart>
-        <equipment>
-            <item>Dumbbells</item>
-        </equipment>
-        <video></video>
-        <icon></icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/06/Dumbbell-Burpees.gif</animation>
-        <time>25</time>
-        <bmiLevel>Athletic</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <whatItDoes>Increases full-body strength, explosiveness, and conditioning.</whatItDoes>
-        <executionSteps>
-            <step>Hold dumbbells at your sides.</step>
-            <step>Drop into a plank by placing dumbbells on the ground.</step>
-            <step>Perform a push-up.</step>
-            <step>Jump feet forward and explosively stand.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Lifting with poor back posture.</mistake>
-            <mistake>Dropping weights too hard.</mistake>
-        </commonMistakes>
-    </exercise>
+    
 
 
-    <exercise>
-        <name>Dumbbell Split Jump</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Legs</bodyPart>
-        <equipment>
-            <item>Dumbbells</item>
-        </equipment>
-        <video></video>
-        <icon></icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/04/Dumbbell-Split-Jump.gif</animation>
-        <time>20</time>
-        <bmiLevel>Athletic</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <whatItDoes>Builds explosive leg strength and balance.</whatItDoes>
-        <executionSteps>
-            <step>Hold dumbbells at your sides.</step>
-            <step>Drop into a lunge and explode upward.</step>
-            <step>Switch legs midair and land softly.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Uneven landing.</mistake>
-            <mistake>Leaning forward excessively.</mistake>
-        </commonMistakes>
-    </exercise>
-
-    <exercise>
-        <name>Dumbbell Jump Squat</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Legs</bodyPart>
-        <equipment>
-            <item>Dumbbells</item>
-        </equipment>
-        <video></video>
-        <icon></icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/04/Dumbbell-Jump-Squat.gif</animation>
-        <time>20</time>
-        <bmiLevel>Athletic</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <whatItDoes>Increases explosive power in legs and glutes.</whatItDoes>
-        <executionSteps>
-            <step>Hold dumbbells at your sides.</step>
-            <step>Lower into a squat.</step>
-            <step>Explode upward into a jump.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Leaning forward.</mistake>
-            <mistake>Poor landing technique.</mistake>
-        </commonMistakes>
-    </exercise>
 
     <exercise>
         <name>Burpees</name>
@@ -633,33 +426,7 @@
             <mistake>Not fully stepping onto the platform.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Band Assisted Sprinter Run</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Resistance Band</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=band+assisted+sprinter+run</video>
-        <icon>https://img.icons8.com/color/96/running.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/10/Band-Assisted-Sprinter-Run.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Improves sprint mechanics, explosiveness, and cardio output.</whatItDoes>
-        <executionSteps>
-            <step>Attach the band around your waist with a partner holding it.</step>
-            <step>Lean slightly forward.</step>
-            <step>Drive your knees quickly in a sprinting motion.</step>
-            <step>Maintain strong arm swings.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Not leaning forward enough.</mistake>
-            <mistake>Short, weak knee drive.</mistake>
-        </commonMistakes>
-    </exercise>
+    
     
     
     <exercise>
@@ -939,88 +706,9 @@
     </exercise>
     
 
-   
-    <exercise>
-        <name>Walking</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=walking+exercise</video>
-        <icon>https://img.icons8.com/color/96/walking.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/09/Walking.gif</animation>
-        <time>40</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <whatItDoes>Improves cardiovascular health and joint mobility.</whatItDoes>
-        <executionSteps>
-            <step>Stand tall and start walking in place or around the room.</step>
-            <step>Swing arms naturally for rhythm.</step>
-            <step>Maintain steady pace.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Slouching forward.</mistake>
-            <mistake>Shuffling feet.</mistake>
-        </commonMistakes>
-    </exercise>
     
-    <exercise>
-        <name>Running</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Cardio</bodyPart>
-        <equipment>
-            <item>Bodyweight</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=running+exercise</video>
-        <icon>https://img.icons8.com/color/96/running.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/07/Run.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Improves cardiovascular endurance, leg strength, and coordination.</whatItDoes>
-        <executionSteps>
-            <step>Run in place or in a safe indoor area.</step>
-            <step>Lift knees moderately high.</step>
-            <step>Keep arms swinging for rhythm.</step>
-            <step>Maintain steady breathing.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Landing heavily on heels.</mistake>
-            <mistake>Slouching forward.</mistake>
-        </commonMistakes>
-    </exercise>
+  
    
-    <exercise>
-        <name>Jump Rope</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Full Body</bodyPart>
-        <equipment>
-            <item>Jump Rope</item>
-        </equipment>
-        <video>https://www.youtube.com/results?search_query=jump+rope+exercise</video>
-        <icon>https://img.icons8.com/color/96/jump-rope.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/06/Jump-Rope.gif</animation>
-        <time>30</time>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Intermediate</difficulty>
-        <whatItDoes>Boosts cardiovascular endurance, coordination, and leg power.</whatItDoes>
-        <executionSteps>
-            <step>Hold rope handles and swing rope over head.</step>
-            <step>Jump over the rope as it reaches feet.</step>
-            <step>Keep core tight and pace steady.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Jumping too high.</mistake>
-            <mistake>Poor wrist rotation.</mistake>
-        </commonMistakes>
-    </exercise>
     
     
   
@@ -2091,37 +1779,7 @@
             <mistake>Bending the knees during the raise.</mistake>
         </commonMistakes>
     </exercise>
-    <exercise>
-        <name>Weighted Crunch</name>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <bodyPart>Abs</bodyPart>
-        <equipment>
-            <item>Dumbbell</item>
-            <item>Plate</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=Pxkw6dUt_Ok</video>
-        <icon>https://img.icons8.com/color/96/abs.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/05/Weighted-Crunch.gif</animation>
-        <time>30</time>
-        <bmiLevel>Underweight</bmiLevel>
-        <bmiLevel>Normal</bmiLevel>
-        <difficulty>Amateur</difficulty>
-        <whatItDoes>
-            Adds external resistance to a traditional crunch, increasing upper abdominal strength and promoting muscle growth through progressive overload.
-        </whatItDoes>
-        <executionSteps>
-            <step>Lie on your back with knees bent and feet flat on the floor.</step>
-            <step>Hold a dumbbell or plate securely on your chest or slightly overhead.</step>
-            <step>Crunch upward by contracting your abdominal muscles.</step>
-            <step>Squeeze at the top, then lower your shoulders slowly with control.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Using a weight that is too heavy, causing poor form or strain.</mistake>
-            <mistake>Pulling on the neck instead of engaging the abs.</mistake>
-            <mistake>Using momentum rather than controlled movement.</mistake>
-        </commonMistakes>
-    </exercise>
+    
     <exercise>
         <name>Bodyweight Windmill</name>
         <gender>Male</gender>
