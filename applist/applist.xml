@@ -14,13 +14,13 @@
         <android>https://play.google.com/store/apps/details?id=com.n5.app</android>
         <ios></ios>
     </app>
-    <!--
+    
     <app>
         <name>Gymmy - everything related to fitness</name>
         <icon>https://biplovkhatri.com.np/applist/Images/gymy.png</icon>
         <description>Gymmy is your ultimate fitness companion, designed to help you achieve your health and wellness goals with ease. Whether you're a beginner or a seasoned athlete, Gymmy offers a comprehensive suite of features to support your fitness journey.</description>
-        <android>https://play.google.com/store/apps/details?id=com.diet.app</android>
+        <android>https://play.google.com/store/apps/details?id=com.khatori.gym_app</android>
         <ios></ios>
     </app>
-    -->
+    
 </apps>
