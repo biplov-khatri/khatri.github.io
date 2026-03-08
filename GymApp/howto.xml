@@ -1,0 +1,24 @@
+
+<howto>
+
+    <HomeWorkout>
+        <heading>Creating a workout</heading>
+        <Image>https://biplovkhatri.com.np/GymApp/media/ZZTGMKh.gif</Image>
+        <note>I am handsome</note>
+    </HomeWorkout>
+    
+    
+    <Exercise>
+        <heading>creating exercise</heading>
+        <Image>https://biplovkhatri.com.np/GymApp/media/ZZTGMKh.gif</Image>
+        <note>I am handsome</note>
+        
+        
+        <heading>Save your progress</heading>
+        <Image>https://biplovkhatri.com.np/GymApp/media/ZZTGMKh.gif</Image>
+        <note>I am handsome</note>
+        
+        
+    </Exercise>
+    
+</howto>
