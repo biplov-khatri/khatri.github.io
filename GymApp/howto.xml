@@ -2,21 +2,29 @@
 <howto>
 
     <HomeWorkout>
-        <heading>Creating a workout</heading>
-        <Image>https://biplovkhatri.com.np/GymApp/media/ZZTGMKh.gif</Image>
-        <note>I am handsome</note>
-    </HomeWorkout>
+        <item>
+            <heading>Creating a workout</heading>
+            <Image>https://biplovkhatri.com.np/GymApp/media/ZZTGMKh.gif</Image>
+            <note>I am handsome</note>
+
+        </item>
+            </HomeWorkout>
     
     
     <Exercise>
-        <heading>creating exercise</heading>
-        <Image>https://biplovkhatri.com.np/GymApp/media/ZZTGMKh.gif</Image>
-        <note>I am handsome</note>
+        <item>
+            <heading>creating exercise</heading>
+            <Image>https://biplovkhatri.com.np/GymApp/media/ZZTGMKh.gif</Image>
+            <note>I am handsome</note>
+        </item>
+       
         
         
-        <heading>Save your progress</heading>
-        <Image>https://biplovkhatri.com.np/GymApp/media/ZZTGMKh.gif</Image>
-        <note>I am handsome</note>
+        <item>
+            <heading>adding exercise</heading>
+            <Image>https://biplovkhatri.com.np/GymApp/media/ZZTGMKh.gif</Image>
+            <note>I am handsome</note>
+        </item>
         
         
     </Exercise>
