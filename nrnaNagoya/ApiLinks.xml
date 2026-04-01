@@ -7,7 +7,9 @@
     <Members>
         <link>https://nrna.khatori.net/api/v1/members</link>
     </Members>
-    
+    <banners>
+        <link>https://nrna.khatori.net/api/v1/banners</link>
+    </banners>
     
     
 </apps>
