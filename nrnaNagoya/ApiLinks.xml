@@ -1,11 +1,11 @@
 
 <apps>
     <Blogs>
-        <link></link>
+        <link>https://nrna.khatori.net/api/v1/blogs</link>
     </Blogs>
 
     <Members>
-        <link><#...#></link>
+        <link>https://nrna.khatori.net/api/v1/members</link>
     </Members>
     
     
