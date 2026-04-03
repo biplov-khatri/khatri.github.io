@@ -12,13 +12,13 @@
     </banners>
     
     <jobs>
-        <link>https://nrna.khatori.net/api/v1/jobs/<link>
+        <link>https://nrna.khatori.net/api/v1/jobs</link>
     </jobs>
         
         
         <jobs>
-        <link>https://nrna.khatori.net/api/v1/institutions<link>
-    </jobs>
+          <link>https://nrna.khatori.net/api/v1/institutions</link>
+       </jobs>
     
     
 </apps>
