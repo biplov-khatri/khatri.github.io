@@ -1,23 +1,23 @@
 
 <apps>
     <Blogs>
-        <link>https://nrna.khatori.net/api/v1/blogs</link>
+        <link>https://nrnanagoya.com/api/v1/blogs</link>
     </Blogs>
 
     <Members>
-        <link>https://nrna.khatori.net/api/v1/members</link>
+        <link>https://nrnanagoya.com/api/v1/members</link>
     </Members>
     <banners>
-        <link>https://nrna.khatori.net/api/v1/banners</link>
+        <link>https://nrnanagoya.com/api/v1/banners</link>
     </banners>
     
     <jobs>
-        <link>https://nrna.khatori.net/api/v1/jobs</link>
+        <link>https://nrnanagoya.com/api/v1/jobs</link>
     </jobs>
         
         
         <jobs>
-          <link>https://nrna.khatori.net/api/v1/institutions</link>
+          <link>https://nrnanagoya.com/api/v1/institutions</link>
        </jobs>
     
     
@@ -27,6 +27,6 @@
     </email>
     
     <media>
-        https://nrna.khatori.net/public/api/v1/media
+        https://nrnanagoya.com/public/api/v1/media
     </media>
 </apps>
