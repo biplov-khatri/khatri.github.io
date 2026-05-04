@@ -14,11 +14,10 @@
     <jobs>
         <link>https://nrnanagoya.com/api/v1/jobs</link>
     </jobs>
-        
-        
-        <jobs>
+    
+    <colleges>
           <link>https://nrnanagoya.com/api/v1/institutions</link>
-       </jobs>
+    </colleges>
     
     
     <email>
