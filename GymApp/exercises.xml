@@ -8356,40 +8356,6 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>253</number>
-        <name>Scapular Protraction and Retraction</name>
-        <bodyPart>Shoulders</bodyPart>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <equipment>
-            <item>No Equipment</item>
-        </equipment>
-        <goal>Strength</goal>
-        <goal>Endurance</goal>
-        <icon>https://img.icons8.com/color/96/scapula.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/10/Scapular-Protraction-and-Retraction.gif</animation>
-        <bmiLevel>Underweight</bmiLevel>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <bmiLevel>Obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>18-35</ageRange>
-        <ageRange>36-50</ageRange>
-        <ageRange>51+</ageRange>
-        <whatItDoes>Isolates scapular movement for serratus and trap strength.</whatItDoes>
-        <executionSteps>
-            <step>Plank or standing position.</step>
-            <step>Protract (push shoulders forward).</step>
-            <step>Retract (pull shoulder blades together).</step>
-            <step>Repeat slowly.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Using arms.</mistake>
-            <mistake>Rounding back.</mistake>
-            <mistake>Fast movement.</mistake>
-        </commonMistakes>
-    </exercise>
 
     <exercise>
         <number>254</number>
@@ -46268,6 +46234,5 @@
             <mistake>Low intensity.</mistake>
         </commonMistakes>
     </exercise>
-
 
 </exercises>

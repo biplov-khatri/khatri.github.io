@@ -35,5 +35,14 @@
         <appid>4</appid>
     </app>
     
+    <app>
+        <name>Tiny Tools</name>
+        <description> Tiny Tools is your all-in-one digital Swiss Army Knife, consolidating essential utilities into a single, lightweight, and privacy-focused app. Seamlessly transfer files via serverless P2P sharing and utilize on-device AI for instant background removal and smart photo editing. Secure your communications with encrypted secret messaging and self-destructing notes while boosting productivity with integrated QR tools, OCR scanning, and PDF generation. It’s the ultimate toolkit for users who value power, privacy, and simplicity without the bloat.</description>
+        <icon>https://biplovkhatri.com.np/applist/Images/tt.png</icon>
+        <android></android>
+        <ios>https://apps.apple.com/us/app/tiny-tools-all-in-one/id6760553836</ios>
+        <appid>5</appid>
+    </app>
+    
     
 </apps>
