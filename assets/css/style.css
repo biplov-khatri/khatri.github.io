@@ -9,16 +9,26 @@
 /* Apps Made by Me Carousel Styles */
 #apps-carousel-outer {
   width: 100%;
-  overflow-x: auto;
-  overflow-y: visible;
-  white-space: nowrap;
+  overflow: hidden;
+  position: relative;
   margin-bottom: 2rem;
+  /* Gradient masks for smooth edges */
+  -webkit-mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+  mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
 }
 #apps-carousel-inner {
   display: flex;
   gap: 24px;
-  align-items: stretch;
-  min-height: 220px;
+  width: max-content;
+  animation: scroll-left 30s linear infinite;
+  padding-right: 24px; /* match gap for seamless loop */
+}
+#apps-carousel-inner:hover {
+  animation-play-state: paused;
+}
+@keyframes scroll-left {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
 }
 .apps-slide {
   min-width: 320px;

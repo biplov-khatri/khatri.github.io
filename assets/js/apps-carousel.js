@@ -67,8 +67,7 @@ document.addEventListener('DOMContentLoaded', function() {
         };
       }
 
-      for (let i = 0; i < apps.length; i++) {
-        const app = apps[i];
+      const renderApp = (app) => {
         const name = app.getElementsByTagName('name')[0].textContent;
         const icon = app.getElementsByTagName('icon')[0].textContent;
         const desc = app.getElementsByTagName('description')[0].textContent;
@@ -93,7 +92,6 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="d-flex justify-content-center">${links}</div>
           </div>
         `;
-        // Add click event to show modal with full details
         slide.querySelector('.card').onclick = function(e) {
           e.stopPropagation();
           const modalBody = document.getElementById('app-modal-body');
@@ -105,24 +103,16 @@ document.addEventListener('DOMContentLoaded', function() {
           `;
           document.getElementById('app-modal').style.display = 'block';
         };
-        container.appendChild(slide);
+        return slide;
+      };
+
+      // First set
+      for (let i = 0; i < apps.length; i++) {
+        container.appendChild(renderApp(apps[i]));
       }
-      // Start the animation
-      startAppsCarousel();
+      // Second set for infinite loop
+      for (let i = 0; i < apps.length; i++) {
+        container.appendChild(renderApp(apps[i]));
+      }
     });
 });
-
-function startAppsCarousel() {
-  const carousel = document.getElementById('apps-carousel-inner');
-  if (!carousel) return;
-  let scrollAmount = 0;
-  function scroll() {
-    scrollAmount += 1;
-    if (scrollAmount >= carousel.scrollWidth - carousel.clientWidth) {
-      scrollAmount = 0;
-    }
-    carousel.scrollTo({ left: scrollAmount, behavior: 'smooth' });
-    requestAnimationFrame(scroll);
-  }
-  requestAnimationFrame(scroll);
-}
