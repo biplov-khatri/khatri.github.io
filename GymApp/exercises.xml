@@ -21990,41 +21990,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>693</number>
-        <name>Water Bottle Hammer Curl</name>
-        <bodyPart>Biceps</bodyPart>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <equipment>
-            <item>Water Bottle</item>
-        </equipment>
-        <goal>Muscle Growth</goal>
-        <goal>Strength</goal>
-        <icon>https://img.icons8.com/color/96/biceps.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/06/Water-Bottle-Hammer-Curl.gif</animation>
-        <bmiLevel>Underweight</bmiLevel>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <bmiLevel>Obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>18-35</ageRange>
-        <ageRange>36-50</ageRange>
-        <ageRange>51+</ageRange>
-        <whatItDoes>Home hammer curl with water bottles.</whatItDoes>
-        <executionSteps>
-            <step>Hold filled bottles neutral grip.</step>
-            <step>Curl up.</step>
-            <step>Squeeze.</step>
-            <step>Lower slowly.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Rotating wrists.</mistake>
-            <mistake>Swinging.</mistake>
-            <mistake>Uneven bottles.</mistake>
-        </commonMistakes>
-    </exercise>
-
+   
     <exercise>
         <number>694</number>
         <name>Seated Alternating Dumbbell Curl</name>
@@ -25722,41 +25688,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>809</number>
-        <name>Hand Gripper</name>
-        <bodyPart>Forearms</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Hand Gripper</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=jeiJv-zhCjM</video>
-        <goal>strength</goal>
-        <goal>endurance</goal>
-        <icon>https://img.icons8.com/color/96/hand-gripper.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/01/Hand-Gripper.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>10-65</ageRange>
-        <whatItDoes>Strengthens crushing grip and forearm muscles responsible for finger flexion.</whatItDoes>
-        <executionSteps>
-            <step>Hold the gripper in one hand.</step>
-            <step>Squeeze handles together as hard as possible.</step>
-            <step>Hold contraction for 1-2 seconds or perform reps.</step>
-            <step>Release slowly and repeat.</step>
-            <step>Switch hands.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Using only partial range if gripper is too heavy.</mistake>
-            <mistake>Neglecting the slower release phase.</mistake>
-            <mistake>Overtraining without adequate recovery.</mistake>
-        </commonMistakes>
-    </exercise>
-
+    
     <exercise>
         <number>810</number>
         <name>Dumbbell Reverse Curl</name>
@@ -28711,39 +28643,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>904</number>
-        <name>Seated Twist Machine</name>
-        <bodyPart>Abs</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Twist Machine</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=P0ozFnyvymw</video>
-        <goal>strength</goal>
-        <goal>muscle growth</goal>
-        <icon>https://img.icons8.com/color/96/abs.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/10/Lever-Seated-Twist.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>16-65</ageRange>
-        <whatItDoes>Isolates obliques with weighted rotational resistance.</whatItDoes>
-        <executionSteps>
-            <step>Sit in machine, adjust pads and weight.</step>
-            <step>Twist torso side to side against resistance.</step>
-            <step>Keep hips stable.</step>
-            <step>Control movement fully.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Using momentum.</mistake>
-            <mistake>Moving hips with torso.</mistake>
-            <mistake>Too heavy weight.</mistake>
-        </commonMistakes>
-    </exercise>
+   
 
     <exercise>
         <number>905</number>
@@ -29055,40 +28955,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>914</number>
-        <name>Standing Twist Machine</name>
-        <bodyPart>Abs</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Twist Machine</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=g_RdfTljb4Q</video>
-        <goal>strength</goal>
-        <goal>Mobility</goal>
-        <icon>https://img.icons8.com/color/96/abs.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/09/Standing-Twist-Machine.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>16-65</ageRange>
-        <whatItDoes>Rotational oblique work in standing position.</whatItDoes>
-        <executionSteps>
-            <step>Stand in machine, grip handles.</step>
-            <step>Twist torso side to side.</step>
-            <step>Keep lower body stable.</step>
-            <step>Use controlled resistance.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Twisting hips.</mistake>
-            <mistake>Fast uncontrolled reps.</mistake>
-            <mistake>Leaning body.</mistake>
-        </commonMistakes>
-    </exercise>
-
+    
     <exercise>
         <number>915</number>
         <name>Seated Crunch Machine</name>
@@ -31940,39 +31807,6 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>1000</number>
-        <name>Lever Donkey Calf Raise</name>
-        <bodyPart>Calves</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Donkey Calf Machine</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=5fKX5N5X6vI</video>
-        <goal>muscle growth</goal>
-        <goal>strength</goal>
-        <icon>https://img.icons8.com/color/96/calf-muscle.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/09/Lever-Donkey-Calf-Raise.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Amateur</difficulty>
-        <ageRange>16-65</ageRange>
-        <whatItDoes>Machine version of donkey raise for constant tension.</whatItDoes>
-        <executionSteps>
-            <step>Position in machine, pad on lower back.</step>
-            <step>Lower heels.</step>
-            <step>Raise onto toes.</step>
-            <step>Squeeze calves.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Bouncing.</mistake>
-            <mistake>Short stretch.</mistake>
-            <mistake>Poor pad fit.</mistake>
-        </commonMistakes>
-    </exercise>
 
     <exercise>
         <number>1001</number>
@@ -32727,38 +32561,6 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>1023</number>
-        <name>Single Leg Calves Stretch</name>
-        <bodyPart>Calves</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Wall</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
-        <goal>Flexibility</goal>
-        <icon>https://img.icons8.com/color/96/stretching.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Single-Leg-Calves-Stretch.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>10-65</ageRange>
-        <whatItDoes>Unilateral calf stretch.</whatItDoes>
-        <executionSteps>
-            <step>Wall support, one leg back.</step>
-            <step>Push heel down.</step>
-            <step>Hold stretch.</step>
-            <step>Switch legs.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Heel lift.</mistake>
-            <mistake>Back knee bend.</mistake>
-            <mistake>Lean too far.</mistake>
-        </commonMistakes>
-    </exercise>
 
     <exercise>
         <number>1024</number>
@@ -34515,40 +34317,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>1075</number>
-        <name>Glute Ham Raise</name>
-        <bodyPart>Erector Spinae</bodyPart>
-        <bodyPart>Hamstrings</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>GHR Machine</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=5fKX5N5X6vI</video>
-        <goal>strength</goal>
-        <goal>muscle growth</goal>
-        <icon>https://img.icons8.com/color/96/back.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/07/Glute-Ham-Raise.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <ageRange>18-65</ageRange>
-        <whatItDoes>Intense hamstring and erector exercise.</whatItDoes>
-        <executionSteps>
-            <step>Position in GHR.</step>
-            <step>Lower torso controlled.</step>
-            <step>Pull up using hamstrings.</step>
-            <step>Squeeze.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Hip extension.</mistake>
-            <mistake>Fast lower.</mistake>
-            <mistake>Back dominance.</mistake>
-        </commonMistakes>
-    </exercise>
-
+    
     <exercise>
         <number>1076</number>
         <name>Push-up With Rotation</name>
@@ -38229,41 +37998,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>1182</number>
-        <name>Horizontal Leg Press</name>
-        <bodyPart>Legs</bodyPart>
-        <bodyPart>Quads</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Horizontal Leg Press</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=7y8Y4G3f4oE</video>
-        <goal>muscle growth</goal>
-        <goal>strength</goal>
-        <icon>https://img.icons8.com/color/96/leg-press.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/08/Lever-Horizontal-Leg-Press.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>16-65</ageRange>
-        <whatItDoes>Horizontal machine press.</whatItDoes>
-        <executionSteps>
-            <step>Sit in horizontal press.</step>
-            <step>Push platform.</step>
-            <step>Lower controlled.</step>
-            <step>Full range.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Lock knees.</mistake>
-            <mistake>Partial reps.</mistake>
-            <mistake>Feet placement.</mistake>
-        </commonMistakes>
-    </exercise>
-
+   
     <exercise>
         <number>1183</number>
         <name>Resistance Band Toe Touch</name>
@@ -39684,7 +39419,7 @@
         <gender>female</gender>
         <equipment>
             <item>Foam Roller</item>
-            <item>Ball</item>
+            
         </equipment>
         <video>https://www.youtube.com/watch?v=9oR0nU9tRVA</video>
         <goal>Flexibility</goal>
@@ -43338,39 +43073,7 @@
         </commonMistakes>
     </exercise>
     
-    <exercise>
-        <number>1332</number>
-        <name>Walk Wave Machine</name>
-        <bodyPart>Cardio</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Wave Machine</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
-        <goal>endurance</goal>
-        <goal>lose weight</goal>
-        <icon>https://img.icons8.com/color/96/treadmill.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/10/Walk-Wave-Machine.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>14-65</ageRange>
-        <whatItDoes>Low-impact curved treadmill walking for natural gait cardio.</whatItDoes>
-        <executionSteps>
-            <step>Step onto curved belt.</step>
-            <step>Walk pushing belt with feet.</step>
-            <step>Increase speed gradually.</step>
-            <step>Maintain posture.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Leaning on rails.</mistake>
-            <mistake>Short strides.</mistake>
-            <mistake>Slouching.</mistake>
-        </commonMistakes>
-    </exercise>
+    
 
     <exercise>
         <number>1333</number>
@@ -43577,39 +43280,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>1339</number>
-        <name>Elliptical Machine</name>
-        <bodyPart>Cardio</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Elliptical</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
-        <goal>endurance</goal>
-        <goal>lose weight</goal>
-        <icon>https://img.icons8.com/color/96/elliptical.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/10/Elliptical-Machine.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>14-65</ageRange>
-        <whatItDoes>Low-impact full-body cardio.</whatItDoes>
-        <executionSteps>
-            <step>Step on pedals.</step>
-            <step>Push/pull handles.</step>
-            <step>Adjust resistance.</step>
-            <step>Smooth circular motion.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Leaning on handles.</mistake>
-            <mistake>Locked knees.</mistake>
-            <mistake>Too high resistance.</mistake>
-        </commonMistakes>
-    </exercise>
+   
 
     <exercise>
         <number>1340</number>
@@ -45284,38 +44955,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>1390</number>
-        <name>Vibration Plate</name>
-        <bodyPart>Cardio</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Vibration Plate</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
-        <goal>endurance</goal>
-        <icon>https://img.icons8.com/color/96/vibration.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/06/Vibrate-Plate-Standing.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>14-65</ageRange>
-        <whatItDoes>Whole-body vibration cardio/activation.</whatItDoes>
-        <executionSteps>
-            <step>Stand on plate.</step>
-            <step>Turn on vibration.</step>
-            <step>Hold squat or stand.</step>
-            <step>Dynamic moves optional.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Lock knees.</mistake>
-            <mistake>Too high intensity start.</mistake>
-            <mistake>Poor posture.</mistake>
-        </commonMistakes>
-    </exercise>
+    
 
     <exercise>
         <number>1391</number>
@@ -45610,38 +45250,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>1400</number>
-        <name>Hands Bike</name>
-        <bodyPart>Cardio</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Hand Cycle</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
-        <goal>endurance</goal>
-        <icon>https://img.icons8.com/color/96/cycling.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Hands-Bike.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>14-65</ageRange>
-        <whatItDoes>Upper body arm bike cardio.</whatItDoes>
-        <executionSteps>
-            <step>Sit arm ergometer.</step>
-            <step>Crank handles.</step>
-            <step>Steady or intervals.</step>
-            <step>Good posture.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Lean.</mistake>
-            <mistake>Shoulder shrug.</mistake>
-            <mistake>Short stroke.</mistake>
-        </commonMistakes>
-    </exercise>
+    
 
     <exercise>
         <number>1401</number>
