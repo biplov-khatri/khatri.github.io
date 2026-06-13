@@ -15830,37 +15830,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>495</number>
-        <name>Weighted Vest Push-up</name>
-        <bodyPart>Chest</bodyPart>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <equipment>
-            <item>Weighted Vest</item>
-        </equipment>
-        <goal>Muscle Growth</goal>
-        <goal>Strength</goal>
-        <icon>https://img.icons8.com/color/96/push-ups.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/08/Weighted-Vest-Push-up.gif</animation>
-        <bmiLevel>Underweight</bmiLevel>
-        <bmiLevel>Normal</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <ageRange>18-35</ageRange>
-        <ageRange>36-50</ageRange>
-        <whatItDoes>Added weight push-up for progressive chest overload.</whatItDoes>
-        <executionSteps>
-            <step>Wear weighted vest.</step>
-            <step>Standard push-up.</step>
-            <step>Lower fully.</step>
-            <step>Press up.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Sagging hips.</mistake>
-            <mistake>Partial range.</mistake>
-            <mistake>Vest shifting.</mistake>
-        </commonMistakes>
-    </exercise>
+  
 
     <exercise>
         <number>496</number>
@@ -25576,40 +25546,6 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>802</number>
-        <name>Wrist Roller</name>
-        <bodyPart>Forearms</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Wrist Roller</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=-lOFG0U_rlY</video>
-        <goal>strength</goal>
-        <goal>endurance</goal>
-        <goal>muscle growth</goal>
-        <icon>https://img.icons8.com/color/96/forearm.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/08/wrist-roller.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>14-65</ageRange>
-        <whatItDoes>Builds exceptional grip strength and forearm size by working both flexor and extensor muscles through full range of motion.</whatItDoes>
-        <executionSteps>
-            <step>Hold the wrist roller with both hands at shoulder width, arms extended straight in front.</step>
-            <step>Roll the weight up by rotating your wrists forward (one hand over the other) until the weight reaches the top.</step>
-            <step>Slowly lower the weight by reversing the wrist rotation.</step>
-            <step>Repeat for the desired reps, then switch direction if needed.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Bending the arms or using shoulders to assist the movement.</mistake>
-            <mistake>Rolling too quickly without control.</mistake>
-            <mistake>Using too heavy a weight that compromises form.</mistake>
-        </commonMistakes>
-    </exercise>
 
     <exercise>
         <number>803</number>
@@ -26526,40 +26462,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>834</number>
-        <name>Ab Coaster Machine</name>
-        <bodyPart>Abs</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Ab Coaster Machine</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=vppOhwAeRZw</video>
-        <goal>muscle growth</goal>
-        <goal>strength</goal>
-        <icon>https://img.icons8.com/color/96/abs.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/07/Ab-Coaster-Machine.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>16-65</ageRange>
-        <whatItDoes>Targets the rectus abdominis and obliques with guided motion for focused abdominal contraction.</whatItDoes>
-        <executionSteps>
-            <step>Sit or kneel on the machine, grip handles, place arms on pads.</step>
-            <step>Lift knees toward chest by crunching abs.</step>
-            <step>Squeeze at top.</step>
-            <step>Slowly lower back to start.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Using momentum or swinging.</mistake>
-            <mistake>Not engaging core fully.</mistake>
-            <mistake>Poor posture on machine.</mistake>
-        </commonMistakes>
-    </exercise>
-
+ 
     <exercise>
         <number>835</number>
         <name>Cross Crunch</name>
@@ -28429,38 +28332,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>891</number>
-        <name>Ab Roller Crunch</name>
-        <bodyPart>Abs</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Ab Roller</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=3p8EBPVZ2Iw</video>
-        <goal>strength</goal>
-        <goal>muscle growth</goal>
-        <icon>https://img.icons8.com/color/96/abs.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/12/Ab-Roller-Crunch.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <ageRange>18-65</ageRange>
-        <whatItDoes>Intense full-core exercise with extended range using ab wheel.</whatItDoes>
-        <executionSteps>
-            <step>Kneel holding ab roller.</step>
-            <step>Roll forward extending body.</step>
-            <step>Contract abs to pull back.</step>
-            <step>Keep back straight.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Sagging lower back.</mistake>
-            <mistake>Going too far.</mistake>
-            <mistake>Using arms only.</mistake>
-        </commonMistakes>
-    </exercise>
+    
 
     <exercise>
         <number>892</number>
@@ -28803,40 +28675,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>902</number>
-        <name>Ab Straps Leg Raise</name>
-        <bodyPart>Abs</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Ab Straps</item>
-            <item>Pull-up Bar</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=UyHNpKXNVMg</video>
-        <goal>strength</goal>
-        <goal>muscle growth</goal>
-        <icon>https://img.icons8.com/color/96/abs.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/07/Ab-Straps-Leg-Raise.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <ageRange>18-65</ageRange>
-        <whatItDoes>Intensely targets lower abs and hip flexors in hanging position.</whatItDoes>
-        <executionSteps>
-            <step>Hang from ab straps with elbows secured.</step>
-            <step>Lift knees or straight legs toward chest.</step>
-            <step>Squeeze abs at top.</step>
-            <step>Lower slowly without swinging.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Swinging body for momentum.</mistake>
-            <mistake>Partial range of motion.</mistake>
-            <mistake>Arching back.</mistake>
-        </commonMistakes>
-    </exercise>
+    
 
     <exercise>
         <number>903</number>
@@ -29387,39 +29226,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>919</number>
-        <name>Ab Wheel Rollout</name>
-        <bodyPart>Abs</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Ab Wheel</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=9ZCoAbI7uX0</video>
-        <goal>strength</goal>
-        <goal>muscle growth</goal>
-        <icon>https://img.icons8.com/color/96/abs.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/06/Ab-Wheel-Rollout.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <ageRange>18-65</ageRange>
-        <whatItDoes>Ultimate anti-extension core exercise.</whatItDoes>
-        <executionSteps>
-            <step>Kneel holding ab wheel.</step>
-            <step>Roll forward extending.</step>
-            <step>Pull back with abs.</step>
-            <step>Maintain neutral spine.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Lower back sagging.</mistake>
-            <mistake>Overextending range.</mistake>
-            <mistake>Arm reliance.</mistake>
-        </commonMistakes>
-    </exercise>
+    
 
     <exercise>
         <number>920</number>
@@ -46100,39 +45907,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>1409</number>
-        <name>Assault AirBike</name>
-        <bodyPart>Cardio</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Assault Bike</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
-        <goal>endurance</goal>
-        <goal>lose weight</goal>
-        <icon>https://img.icons8.com/color/96/cycling.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/06/Assault-AirBike.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Amateur</difficulty>
-        <ageRange>16-65</ageRange>
-        <whatItDoes>High-intensity fan bike.</whatItDoes>
-        <executionSteps>
-            <step>Pedal and push/pull handles.</step>
-            <step>Full body effort.</step>
-            <step>Intervals or steady.</step>
-            <step>Good posture.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Arms only.</mistake>
-            <mistake>Slouch.</mistake>
-            <mistake>No full stroke.</mistake>
-        </commonMistakes>
-    </exercise>
+   
 
     <exercise>
         <number>1410</number>
