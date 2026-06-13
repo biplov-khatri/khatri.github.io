@@ -445,42 +445,6 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>14</number>
-        <name>Ski Ergometer</name>
-        <bodyPart>Full Body</bodyPart>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <equipment>
-            <item>Ski Erg Machine</item>
-        </equipment>
-        <goal>Lose Weight</goal>
-        <goal>Endurance</goal>
-        <icon>https://img.icons8.com/color/96/rowing-machine.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Ski-Ergometer.gif</animation>
-        <bmiLevel>Underweight</bmiLevel>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <bmiLevel>Obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>18-35</ageRange>
-        <ageRange>36-50</ageRange>
-        <ageRange>51+</ageRange>
-        <whatItDoes>Provides intense full-body cardiovascular conditioning with emphasis on upper body pulling strength and endurance.</whatItDoes>
-        <executionSteps>
-            <step>Stand facing the machine, grab handles with palms down.</step>
-            <step>Drive powerfully with legs while pulling handles down in a diagonal motion.</step>
-            <step>Coordinate leg push and arm pull to mimic cross-country skiing.</step>
-            <step>Maintain rhythm and consistent power output.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Pulling only with arms and neglecting leg drive.</mistake>
-            <mistake>Leaning too far forward or back, losing posture.</mistake>
-            <mistake>Inconsistent pacing leading to early fatigue.</mistake>
-        </commonMistakes>
-    </exercise>
-
-
 
     <exercise>
         <number>16</number>
@@ -518,38 +482,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>17</number>
-        <name>Log Lift</name>
-        <bodyPart>Full Body</bodyPart>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <equipment>
-            <item>Log</item>
-        </equipment>
-        <goal>Muscle Growth</goal>
-        <goal>Strength</goal>
-        <icon>https://img.icons8.com/color/96/strongman.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Log-Lift.gif</animation>
-        <bmiLevel>Underweight</bmiLevel>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <ageRange>18-35</ageRange>
-        <ageRange>36-50</ageRange>
-        <whatItDoes>Strongman overhead press variation that builds massive upper body and core strength with unstable, thick implement.</whatItDoes>
-        <executionSteps>
-            <step>Clean the log from ground to chest (or start from rack).</step>
-            <step>Dip slightly at knees, then explosively press log overhead.</step>
-            <step>Lock out arms fully while stabilizing the awkward implement.</step>
-            <step>Lower log back to chest or ground with control.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Pressing in front instead of driving upward close to face.</mistake>
-            <mistake>Leaning back excessively during the press.</mistake>
-            <mistake>Not achieving full lockout overhead.</mistake>
-        </commonMistakes>
-    </exercise>
+  
 
     <exercise>
         <number>18</number>
@@ -2964,39 +2897,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>90</number>
-        <name>Weighted Neck Harness Extension</name>
-        <bodyPart>Neck</bodyPart>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <equipment>
-            <item>Neck Harness</item>
-            <item>Weight Plate</item>
-        </equipment>
-        <goal>Muscle Growth</goal>
-        <goal>Strength</goal>
-        <icon>https://img.icons8.com/color/96/neck.png</icon>
-        <animation></animation>
-        <bmiLevel>Underweight</bmiLevel>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Amateur</difficulty>
-        <ageRange>18-35</ageRange>
-        <ageRange>36-50</ageRange>
-        <whatItDoes>Heavy loaded extension using harness to significantly develop posterior neck muscles.</whatItDoes>
-        <executionSteps>
-            <step>Sit or stand wearing neck harness with weight attached.</step>
-            <step>Lower head forward slowly.</step>
-            <step>Extend neck backward against resistance.</step>
-            <step>Control both phases.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Using too much weight.</mistake>
-            <mistake>Jerking movement.</mistake>
-            <mistake>Overextending at top.</mistake>
-        </commonMistakes>
-    </exercise>
+    
     <exercise>
         <number>91</number>
         <name>Lying Weighted Neck Flexion</name>
@@ -3926,7 +3827,6 @@
         <gender>Female</gender>
         <equipment>
             <item>Cable Machine</item>
-            <item>Rope Attachment</item>
         </equipment>
         <goal>Muscle Growth</goal>
         <goal>Strength</goal>
@@ -9953,41 +9853,6 @@
         </commonMistakes>
     </exercise>
 
-
-
-    <exercise>
-        <number>306</number>
-        <name>Reaction Ball Throw</name>
-        <bodyPart>Shoulders</bodyPart>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <equipment>
-            <item>Reaction Ball</item>
-        </equipment>
-        <goal>Strength</goal>
-        <goal>Endurance</goal>
-        <icon>https://img.icons8.com/color/96/medicine-ball.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/08/Reaction-Ball-Throw-Agility-Ball-Drill-.gif</animation>
-        <bmiLevel>Underweight</bmiLevel>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Amateur</difficulty>
-        <ageRange>18-35</ageRange>
-        <ageRange>36-50</ageRange>
-        <whatItDoes>Improves shoulder reactivity, speed, and coordination.</whatItDoes>
-        <executionSteps>
-            <step>Throw reaction ball against wall or ground.</step>
-            <step>Catch unpredictable bounce quickly.</step>
-            <step>Use various throws (overhead, underhand).</step>
-            <step>Repeat rapidly.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Poor stance balance.</mistake>
-            <mistake>Slow reaction time.</mistake>
-            <mistake>Throwing too predictably.</mistake>
-        </commonMistakes>
-    </exercise>
-
     
 
     <exercise>
@@ -10127,39 +9992,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>313</number>
-        <name>Lateral Raise with Towel on Wall</name>
-        <bodyPart>Shoulders</bodyPart>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <equipment>
-            <item>Towel</item>
-        </equipment>
-        <goal>Endurance</goal>
-        <icon>https://img.icons8.com/color/96/lateral-raise.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/06/Lateral-Raise-with-Towel-on-Wall.gif</animation>
-        <bmiLevel>Underweight</bmiLevel>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <bmiLevel>Obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>18-35</ageRange>
-        <ageRange>36-50</ageRange>
-        <ageRange>51+</ageRange>
-        <whatItDoes>Wall-supported lateral raise for mobility and activation.</whatItDoes>
-        <executionSteps>
-            <step>Place towel on wall at shoulder height.</step>
-            <step>Hand on towel, slide arm laterally.</step>
-            <step>Keep contact, raise as high as possible.</step>
-            <step>Lower slowly.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Losing wall contact.</mistake>
-            <mistake>Shrugging shoulder.</mistake>
-            <mistake>Forcing range.</mistake>
-        </commonMistakes>
-    </exercise>
+   
 
     <exercise>
         <number>314</number>
@@ -13161,38 +12994,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>407</number>
-        <name>Push-up With Push-up Bars</name>
-        <bodyPart>Chest</bodyPart>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <equipment>
-            <item>Push-up Bars</item>
-        </equipment>
-        <goal>Muscle Growth</goal>
-        <goal>Strength</goal>
-        <icon>https://img.icons8.com/color/96/push-ups.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/10/Push-up-With-Push-up-Bars.gif</animation>
-        <bmiLevel>Underweight</bmiLevel>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>18-35</ageRange>
-        <ageRange>36-50</ageRange>
-        <whatItDoes>Increased range push-up for deeper chest activation.</whatItDoes>
-        <executionSteps>
-            <step>Grip push-up bars.</step>
-            <step>Lower chest below hand level.</step>
-            <step>Press up.</step>
-            <step>Keep body straight.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Sagging hips.</mistake>
-            <mistake>Partial depth.</mistake>
-            <mistake>Flaring elbows.</mistake>
-        </commonMistakes>
-    </exercise>
+  
 
     <exercise>
         <number>408</number>
@@ -13660,7 +13462,6 @@
         <gender>Female</gender>
         <equipment>
             <item>Weight Plate</item>
-            <item>Vest</item>
         </equipment>
         <goal>Muscle Growth</goal>
         <goal>Strength</goal>
@@ -16309,37 +16110,6 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>510</number>
-        <name>Legless Rope Climb</name>
-        <bodyPart>Back</bodyPart>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <equipment>
-            <item>Rope</item>
-        </equipment>
-        <goal>Muscle Growth</goal>
-        <goal>Strength</goal>
-        <icon>https://img.icons8.com/color/96/rope-climb.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Rope-Climb.gif</animation>
-        <bmiLevel>Underweight</bmiLevel>
-        <bmiLevel>Normal</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <ageRange>18-35</ageRange>
-        <ageRange>36-50</ageRange>
-        <whatItDoes>Upper body only rope climb for extreme lat strength.</whatItDoes>
-        <executionSteps>
-            <step>Grip rope high.</step>
-            <step>Pull up hand over hand.</step>
-            <step>No leg use.</step>
-            <step>Lower controlled.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Using legs.</mistake>
-            <mistake>Partial pull.</mistake>
-            <mistake>Poor grip.</mistake>
-        </commonMistakes>
-    </exercise>
 
     <exercise>
         <number>511</number>
@@ -17083,7 +16853,6 @@
         <equipment>
             <item>Pull-up Bar</item>
             <item>Machine</item>
-            <item>Band</item>
         </equipment>
         <goal>Muscle Growth</goal>
         <goal>Strength</goal>
@@ -17111,40 +16880,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>538</number>
-        <name>Table Inverted Row</name>
-        <bodyPart>Back</bodyPart>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <equipment>
-            <item>Table</item>
-        </equipment>
-        <goal>Muscle Growth</goal>
-        <goal>Strength</goal>
-        <icon>https://img.icons8.com/color/96/row.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/04/Table-Inverted-Row.gif</animation>
-        <bmiLevel>Underweight</bmiLevel>
-        <bmiLevel>Normal</bmiLevel>
-        <bmiLevel>Overweight</bmiLevel>
-        <bmiLevel>Obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>18-35</ageRange>
-        <ageRange>36-50</ageRange>
-        <ageRange>51+</ageRange>
-        <whatItDoes>Bodyweight row using table for back development.</whatItDoes>
-        <executionSteps>
-            <step>Lie under sturdy table.</step>
-            <step>Grip table edge.</step>
-            <step>Pull chest to table.</step>
-            <step>Lower slowly.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Sagging hips.</mistake>
-            <mistake>Partial pull.</mistake>
-            <mistake>Unstable table.</mistake>
-        </commonMistakes>
-    </exercise>
+   
 
     <exercise>
         <number>539</number>
@@ -18928,37 +18664,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>598</number>
-        <name>Climbing Monkey Bars</name>
-        <bodyPart>Back</bodyPart>
-        <gender>Male</gender>
-        <gender>Female</gender>
-        <equipment>
-            <item>Monkey Bars</item>
-        </equipment>
-        <goal>Strength</goal>
-        <goal>Endurance</goal>
-        <icon>https://img.icons8.com/color/96/pullups.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/12/Climbing-Monkey-Bars.gif</animation>
-        <bmiLevel>Underweight</bmiLevel>
-        <bmiLevel>Normal</bmiLevel>
-        <difficulty>Amateur</difficulty>
-        <ageRange>18-35</ageRange>
-        <ageRange>36-50</ageRange>
-        <whatItDoes>Dynamic pulling for back and grip.</whatItDoes>
-        <executionSteps>
-            <step>Grip bar.</step>
-            <step>Swing/pull to next.</step>
-            <step>Traverse bars.</step>
-            <step>Controlled movement.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Using momentum only.</mistake>
-            <mistake>Poor grip.</mistake>
-            <mistake>Rushing.</mistake>
-        </commonMistakes>
-    </exercise>
+ 
 
     <exercise>
         <number>599</number>
@@ -27147,38 +26853,6 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>858</number>
-        <name>Incline Leg Hip Raise</name>
-        <bodyPart>Abs</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Incline Bench</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=BUisNQ13Upo</video>
-        <goal>strength</goal>
-        <goal>muscle growth</goal>
-        <icon>https://img.icons8.com/color/96/abs.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/05/Incline-Leg-Hip-Raise.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <difficulty>Amateur</difficulty>
-        <ageRange>16-65</ageRange>
-        <whatItDoes>Advanced lower ab exercise using incline for greater resistance.</whatItDoes>
-        <executionSteps>
-            <step>Lie on incline bench, grip top.</step>
-            <step>Lift legs and hips off bench.</step>
-            <step>Squeeze lower abs.</step>
-            <step>Lower slowly.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Swinging legs.</mistake>
-            <mistake>Back arching.</mistake>
-            <mistake>Partial range.</mistake>
-        </commonMistakes>
-    </exercise>
 
     <exercise>
         <number>859</number>
@@ -31637,39 +31311,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>996</number>
-        <name>Lever Seated Calf Raise</name>
-        <bodyPart>Calves</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Calf Raise Machine</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=3v0J7u6CKvM</video>
-        <goal>muscle growth</goal>
-        <goal>strength</goal>
-        <icon>https://img.icons8.com/color/96/calf-muscle.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/06/Lever-Seated-Calf-Raise.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>16-65</ageRange>
-        <whatItDoes>Isolates soleus with machine guidance.</whatItDoes>
-        <executionSteps>
-            <step>Sit in machine, pads on thighs, toes on platform.</step>
-            <step>Lift heels pushing toes.</step>
-            <step>Pause at top.</step>
-            <step>Lower for full stretch.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Bouncing.</mistake>
-            <mistake>Partial reps.</mistake>
-            <mistake>Poor pad placement.</mistake>
-        </commonMistakes>
-    </exercise>
+    
 
     <exercise>
         <number>997</number>
@@ -32293,39 +31935,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>1016</number>
-        <name>Single Heel Drop Calf Stretch</name>
-        <bodyPart>Calves</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Step</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
-        <goal>Flexibility</goal>
-        <goal>Mobility</goal>
-        <icon>https://img.icons8.com/color/96/stretching.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Single-Heel-Drop-Calf-Stretch.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>10-65</ageRange>
-        <whatItDoes>Unilateral deep calf stretch.</whatItDoes>
-        <executionSteps>
-            <step>Stand on step with one heel off.</step>
-            <step>Lower heel slowly.</step>
-            <step>Hold stretch.</step>
-            <step>Switch sides.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Bouncing drop.</mistake>
-            <mistake>Poor balance.</mistake>
-            <mistake>Overstretch.</mistake>
-        </commonMistakes>
-    </exercise>
+
 
     <exercise>
         <number>1017</number>
@@ -32529,39 +32139,7 @@
     </exercise>
 
 
-    <exercise>
-        <number>1024</number>
-        <name>Calf Stretch With Rope</name>
-        <bodyPart>Calves</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Towel</item>
-            <item>Strap</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=vhFdcezAyL8</video>
-        <goal>Flexibility</goal>
-        <icon>https://img.icons8.com/color/96/stretching.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Calf-Stretch-with-Rope.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>10-65</ageRange>
-        <whatItDoes>Seated calf stretch using strap.</whatItDoes>
-        <executionSteps>
-            <step>Lie or sit, loop strap around foot.</step>
-            <step>Pull foot toward body.</step>
-            <step>Hold stretch.</step>
-            <step>Switch.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Knee bend.</mistake>
-            <mistake>Pulling too hard.</mistake>
-            <mistake>Rounded back.</mistake>
-        </commonMistakes>
-    </exercise>
+  
 
     <exercise>
         <number>1025</number>
@@ -34938,39 +34516,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>1095</number>
-        <name>Depth Jump to Hurdle Hop</name>
-        <bodyPart>Legs</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Box</item>
-            <item>Hurdles</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=5fKX5N5X6vI</video>
-        <goal>strength</goal>
-        <goal>endurance</goal>
-        <icon>https://img.icons8.com/color/96/plyometrics.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/09/Depth-Jump-to-Hurdle-Hop.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <ageRange>18-65</ageRange>
-        <whatItDoes>Plyometric power development.</whatItDoes>
-        <executionSteps>
-            <step>Step off box.</step>
-            <step>Land and immediately jump forward.</step>
-            <step>Clear hurdles continuously.</step>
-            <step>Fast ground contact.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Long ground time.</mistake>
-            <mistake>Poor landing.</mistake>
-            <mistake>Low jumps.</mistake>
-        </commonMistakes>
-    </exercise>
+    
 
     <exercise>
         <number>1096</number>
@@ -37620,40 +37166,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>1172</number>
-        <name>Belt Squat</name>
-        <bodyPart>Legs</bodyPart>
-        <bodyPart>Quads</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Belt Squat Machine</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=8eZx2aG5s1Y</video>
-        <goal>strength</goal>
-        <goal>muscle growth</goal>
-        <icon>https://img.icons8.com/color/96/squat.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2023/01/belt-squat.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Amateur</difficulty>
-        <ageRange>16-65</ageRange>
-        <whatItDoes>Spine-friendly heavy squat.</whatItDoes>
-        <executionSteps>
-            <step>Stand on platform, belt around hips.</step>
-            <step>Squat deep.</step>
-            <step>Drive up.</step>
-            <step>Keep upright.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Lean forward.</mistake>
-            <mistake>Shallow depth.</mistake>
-            <mistake>Knees in.</mistake>
-        </commonMistakes>
-    </exercise>
+
 
     <exercise>
         <number>1173</number>
@@ -37862,40 +37375,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>1179</number>
-        <name>Nordic Hamstring Curl</name>
-        <bodyPart>Legs</bodyPart>
-        <bodyPart>Hamstrings</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Partner</item>
-            <item>Pad</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=JCXUYuzwNrM</video>
-        <goal>strength</goal>
-        <goal>muscle growth</goal>
-        <icon>https://img.icons8.com/color/96/hamstring-curl.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/06/Nordic-Hamstring-Curl.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <difficulty>Advanced</difficulty>
-        <ageRange>18-65</ageRange>
-        <whatItDoes>Eccentric hamstring strength.</whatItDoes>
-        <executionSteps>
-            <step>Kneel, ankles secured.</step>
-            <step>Lower torso slow.</step>
-            <step>Catch with hands.</step>
-            <step>Push back up.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Fast drop.</mistake>
-            <mistake>Hip bend.</mistake>
-            <mistake>No control.</mistake>
-        </commonMistakes>
-    </exercise>
+ 
 
     <exercise>
         <number>1180</number>
@@ -39207,39 +38687,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>1219</number>
-        <name>Towel Leg Curl</name>
-        <bodyPart>Legs</bodyPart>
-        <bodyPart>Hamstrings</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Towel</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=JCXUYuzwNrM</video>
-        <goal>strength</goal>
-        <icon>https://img.icons8.com/color/96/hamstring-curl.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Towel-Leg-Curl.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Amateur</difficulty>
-        <ageRange>16-65</ageRange>
-        <whatItDoes>Home hamstring curl.</whatItDoes>
-        <executionSteps>
-            <step>Lie prone, towel around ankles.</step>
-            <step>Pull heels in sliding.</step>
-            <step>Squeeze.</step>
-            <step>Extend slow.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Hip lift.</mistake>
-            <mistake>Fast slide.</mistake>
-            <mistake>Towel slip.</mistake>
-        </commonMistakes>
-    </exercise>
+    
 
     <exercise>
         <number>1220</number>
@@ -41411,38 +40859,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>1284</number>
-        <name>Supported Pistol Squat</name>
-        <bodyPart>Legs</bodyPart>
-        <bodyPart>Quads</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Support</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=5XU2wR7o2j0</video>
-        <goal>strength</goal>
-        <icon>https://img.icons8.com/color/96/squat.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/10/Supported-Pistol-Squat.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <difficulty>Amateur</difficulty>
-        <ageRange>16-65</ageRange>
-        <whatItDoes>Assisted single-leg squat.</whatItDoes>
-        <executionSteps>
-            <step>Hold support.</step>
-            <step>One leg extended.</step>
-            <step>Squat deep.</step>
-            <step>Drive.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Over rely support.</mistake>
-            <mistake>Lean.</mistake>
-            <mistake>Shallow.</mistake>
-        </commonMistakes>
-    </exercise>
+    
 
     <exercise>
         <number>1285</number>
@@ -41780,40 +41197,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>1295</number>
-        <name>Hell Slide</name>
-        <bodyPart>Legs</bodyPart>
-        <bodyPart>Inner Thighs</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>No Equipment</item>
-            <item>Sliders</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=5XU2wR7o2j0</video>
-        <goal>strength</goal>
-        <icon>https://img.icons8.com/color/96/lunge.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/08/Hell-Slide.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Amateur</difficulty>
-        <ageRange>16-65</ageRange>
-        <whatItDoes>Lateral slide for adductors.</whatItDoes>
-        <executionSteps>
-            <step>Sliders under feet.</step>
-            <step>Slide one leg out wide.</step>
-            <step>Squat low.</step>
-            <step>Slide back, alternate.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>High stance.</mistake>
-            <mistake>Short slide.</mistake>
-            <mistake>Torso twist.</mistake>
-        </commonMistakes>
-    </exercise>
+
 
     <exercise>
         <number>1296</number>
@@ -42292,7 +41676,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
+<exercise>
         <number>1310</number>
         <name>Supported One Leg Standing Hip Flexor And Knee Extensor Stretch</name>
         <bodyPart>Legs</bodyPart>
@@ -42871,39 +42255,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>1327</number>
-        <name>Riding Outdoor Bicycle</name>
-        <bodyPart>Cardio</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Bicycle</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
-        <goal>endurance</goal>
-        <goal>lose weight</goal>
-        <icon>https://img.icons8.com/color/96/cycling.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/02/Riding-Outdoor-Bicycle.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>10-65</ageRange>
-        <whatItDoes>Low-impact aerobic cycling outdoors.</whatItDoes>
-        <executionSteps>
-            <step>Mount bicycle.</step>
-            <step>Pedal at steady pace.</step>
-            <step>Maintain posture.</step>
-            <step>Vary terrain for intensity.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Poor bike fit.</mistake>
-            <mistake>Slouched posture.</mistake>
-            <mistake>Locked knees.</mistake>
-        </commonMistakes>
-    </exercise>
+   
 
     <exercise>
         <number>1328</number>
@@ -43043,40 +42395,6 @@
     
 
     <exercise>
-        <number>1333</number>
-        <name>Jump Rope</name>
-        <bodyPart>Cardio</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Jump Rope</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
-        <goal>endurance</goal>
-        <goal>lose weight</goal>
-        <icon>https://img.icons8.com/color/96/jump-rope.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/06/Jump-Rope.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>10-65</ageRange>
-        <whatItDoes>High-intensity skipping for coordination and calorie burn.</whatItDoes>
-        <executionSteps>
-            <step>Hold handles, rope behind.</step>
-            <step>Jump over rope small hops.</step>
-            <step>Turn wrists.</step>
-            <step>Land soft on balls of feet.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Big jumps.</mistake>
-            <mistake>Arm swinging.</mistake>
-            <mistake>Heel landing.</mistake>
-        </commonMistakes>
-    </exercise>
-
-    <exercise>
         <number>1334</number>
         <name>Bike</name>
         <bodyPart>Cardio</bodyPart>
@@ -43110,73 +42428,8 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>1335</number>
-        <name>Treadmill</name>
-        <bodyPart>Cardio</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Treadmill</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
-        <goal>endurance</goal>
-        <goal>lose weight</goal>
-        <icon>https://img.icons8.com/color/96/treadmill.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/06/Treadmill-.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>14-65</ageRange>
-        <whatItDoes>Controlled running or walking cardio.</whatItDoes>
-        <executionSteps>
-            <step>Start slow.</step>
-            <step>Increase speed/incline.</step>
-            <step>Good running form.</step>
-            <step>Use safety clip.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Holding rails.</mistake>
-            <mistake>Looking down.</mistake>
-            <mistake>Overstriding.</mistake>
-        </commonMistakes>
-    </exercise>
 
-    <exercise>
-        <number>1336</number>
-        <name>Incline Treadmill</name>
-        <bodyPart>Cardio</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Treadmill</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
-        <goal>endurance</goal>
-        <goal>lose weight</goal>
-        <icon>https://img.icons8.com/color/96/treadmill.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/06/Incline-Treadmill.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Amateur</difficulty>
-        <ageRange>16-65</ageRange>
-        <whatItDoes>Hill walking/running for increased intensity.</whatItDoes>
-        <executionSteps>
-            <step>Set incline.</step>
-            <step>Walk or jog.</step>
-            <step>Drive arms.</step>
-            <step>Maintain pace.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Holding rails.</mistake>
-            <mistake>Lean back.</mistake>
-            <mistake>Short strides.</mistake>
-        </commonMistakes>
-    </exercise>
+
 
     <exercise>
         <number>1337</number>
@@ -43213,75 +42466,8 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>1338</number>
-        <name>Manual Treadmill</name>
-        <bodyPart>Cardio</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Manual Treadmill</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
-        <goal>endurance</goal>
-        <goal>lose weight</goal>
-        <icon>https://img.icons8.com/color/96/treadmill.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/06/Assault-Air-Runner.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Amateur</difficulty>
-        <ageRange>16-65</ageRange>
-        <whatItDoes>Self-powered curved treadmill running.</whatItDoes>
-        <executionSteps>
-            <step>Drive belt with powerful strides.</step>
-            <step>Lean slightly forward.</step>
-            <step>Increase speed with effort.</step>
-            <step>Good form.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Short steps.</mistake>
-            <mistake>Upright posture.</mistake>
-            <mistake>Heavy feet.</mistake>
-        </commonMistakes>
-    </exercise>
-
+  
    
-
-    <exercise>
-        <number>1340</number>
-        <name>Stair Climber Machine</name>
-        <bodyPart>Cardio</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Stair Climber</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
-        <goal>endurance</goal>
-        <goal>lose weight</goal>
-        <icon>https://img.icons8.com/color/96/stairs.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2021/10/Walking-on-Stepmill.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Amateur</difficulty>
-        <ageRange>16-65</ageRange>
-        <whatItDoes>Intense lower body climbing cardio.</whatItDoes>
-        <executionSteps>
-            <step>Step steadily.</step>
-            <step>Full steps.</step>
-            <step>Upright posture.</step>
-            <step>Use rails lightly.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Leaning heavily.</mistake>
-            <mistake>Short steps.</mistake>
-            <mistake>Slouching.</mistake>
-        </commonMistakes>
-    </exercise>
 
     <exercise>
         <number>1341</number>
@@ -45485,39 +44671,6 @@
 
    
 
-    <exercise>
-        <number>1410</number>
-        <name>Recumbent Exercise Bike</name>
-        <bodyPart>Cardio</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Recumbent Bike</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
-        <goal>endurance</goal>
-        <goal>lose weight</goal>
-        <icon>https://img.icons8.com/color/96/cycling.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/06/Recumbent-Exercise-Bike.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>14-65</ageRange>
-        <whatItDoes>Seated low-impact cycling.</whatItDoes>
-        <executionSteps>
-            <step>Sit back support.</step>
-            <step>Pedal steady.</step>
-            <step>Adjust resistance.</step>
-            <step>Relaxed posture.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Slouch.</mistake>
-            <mistake>Too easy.</mistake>
-            <mistake>Locked knees.</mistake>
-        </commonMistakes>
-    </exercise>
 
     <exercise>
         <number>1411</number>
