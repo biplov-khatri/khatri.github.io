@@ -26255,40 +26255,7 @@
         </commonMistakes>
     </exercise>
 
-    <exercise>
-        <number>830</number>
-        <name>Water Bottle Hammer Curl</name>
-        <bodyPart>Forearms</bodyPart>
-        <bodyPart>Arms</bodyPart>
-        <gender>male</gender>
-        <gender>female</gender>
-        <equipment>
-            <item>Water Bottle</item>
-        </equipment>
-        <video>https://www.youtube.com/watch?v=bwGgbFvtmkE</video>
-        <goal>muscle growth</goal>
-        <goal>strength</goal>
-        <icon>https://img.icons8.com/color/96/biceps.png</icon>
-        <animation>https://fitnessprogramer.com/wp-content/uploads/2022/06/Water-Bottle-Hammer-Curl.gif</animation>
-        <bmiLevel>underweight</bmiLevel>
-        <bmiLevel>normal</bmiLevel>
-        <bmiLevel>overweight</bmiLevel>
-        <bmiLevel>obese</bmiLevel>
-        <difficulty>Beginner</difficulty>
-        <ageRange>10-65</ageRange>
-        <whatItDoes>Provides a home alternative to target brachialis and forearms with neutral grip using filled water bottles as weights.</whatItDoes>
-        <executionSteps>
-            <step>Hold filled water bottles at sides with neutral grip (palms facing in).</step>
-            <step>Curl bottles up toward shoulders without rotating wrists.</step>
-            <step>Squeeze at top.</step>
-            <step>Lower slowly to start.</step>
-        </executionSteps>
-        <commonMistakes>
-            <mistake>Swinging arms with momentum.</mistake>
-            <mistake>Leaning back or forward.</mistake>
-            <mistake>Rotating wrists during movement.</mistake>
-        </commonMistakes>
-    </exercise>
+   
     
     <exercise>
         <number>831</number>
