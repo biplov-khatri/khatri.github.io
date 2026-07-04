@@ -1,6 +1,7 @@
 <campaign>
     <name>test</name>
     <ison>True</ison>
+    <featured>True</featured>
     <icon>https://github.com/biplov-khatri/khatri.github.io/blob/main/TinyTools/frames/images/template1.png</icon>
     <image>https://github.com/biplov-khatri/khatri.github.io/blob/main/TinyTools/frames/images/template1.png</image>
     
