@@ -2,17 +2,11 @@
 <campaign>
     <name>test</name>
     <ison>True</ison>
-    <featured>True</featured>
+    <featured>False</featured>
     <icon>https://github.com/biplov-khatri/khatri.github.io/blob/main/TinyTools/frames/images/template1.png</icon>
     <image>https://github.com/biplov-khatri/khatri.github.io/blob/main/TinyTools/frames/images/template1.png</image>
     
 </campaign>
-<campaign>
-    <name>test2</name>
-    <ison>True</ison>
-    <icon>https://github.com/biplov-khatri/khatri.github.io/blob/main/TinyTools/frames/images/template1.png</icon>
-    <image>https://github.com/biplov-khatri/khatri.github.io/blob/main/TinyTools/frames/images/template1.png</image>
-    <image>https://github.com/biplov-khatri/khatri.github.io/blob/main/TinyTools/frames/images/template1.png</image>
-</campaign>
+
 </setting>
 
