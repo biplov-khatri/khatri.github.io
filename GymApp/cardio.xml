@@ -302,4 +302,278 @@
                    </commonMistakes>
                </exercise>
 
+               <exercise>
+                   <name>Navy Seal Burpee</name>
+                   <gender>Male</gender>
+                   <gender>Female</gender>
+                   <bodyPart>Cardio</bodyPart>
+                   <equipment>
+                       <item>Bodyweight</item>
+                   </equipment>
+                   <video>https://www.youtube.com/watch?v=m9sVMTR6So0</video>
+                   <icon>https://img.icons8.com/color/96/cardio.png</icon>
+                   <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Navy-Seal-Burpee.gif</animation>
+                   <time>30</time>
+                   <whatItDoes>Intense full-body burpee variation with extra push-ups for high calorie burn.</whatItDoes>
+                   <executionSteps>
+                       <step>Squat and place hands down.</step>
+                       <step>Jump feet back to plank.</step>
+                       <step>Perform multiple push-ups (typically 3-8).</step>
+                       <step>Jump feet forward and explode up.</step>
+                   </executionSteps>
+                   <commonMistakes>
+                       <mistake>Sagging hips in plank.</mistake>
+                       <mistake>Incomplete push-ups.</mistake>
+                       <mistake>Poor jump height.</mistake>
+                   </commonMistakes>
+               </exercise>
+
+               <exercise>
+                   <name>Burpees</name>
+                   <gender>Male</gender>
+                   <gender>Female</gender>
+                   <bodyPart>Cardio</bodyPart>
+                   <equipment>
+                       <item>Bodyweight</item>
+                   </equipment>
+                   <video>https://www.youtube.com/watch?v=m9sVMTR6So0</video>
+                   <icon>https://img.icons8.com/color/96/cardio.png</icon>
+                   <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/burpees.gif</animation>
+                   <time>30</time>
+                   <whatItDoes>Classic full-body bodyweight conditioning exercise combining squat, push-up, and jump.</whatItDoes>
+                   <executionSteps>
+                       <step>Squat and place hands on ground.</step>
+                       <step>Jump feet back to plank.</step>
+                       <step>Perform a push-up.</step>
+                       <step>Jump feet forward and explode upward into jump.</step>
+                   </executionSteps>
+                   <commonMistakes>
+                       <mistake>Sagging back in plank.</mistake>
+                       <mistake>No full extension on jump.</mistake>
+                       <mistake>Hard landing.</mistake>
+                   </commonMistakes>
+               </exercise>
+
+               <exercise>
+                   <name>Shadow Boxing</name>
+                   <gender>Male</gender>
+                   <gender>Female</gender>
+                   <bodyPart>Cardio</bodyPart>
+                   <equipment>
+                       <item>Bodyweight</item>
+                   </equipment>
+                   <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
+                   <icon>https://img.icons8.com/color/96/boxing.png</icon>
+                   <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/shadow-boxing-workout.gif</animation>
+                   <time>45</time>
+                   <whatItDoes>High-intensity punching combos for cardio and coordination.</whatItDoes>
+                   <executionSteps>
+                       <step>Assume a boxing stance.</step>
+                       <step>Throw punches (jabs, crosses, hooks, uppercuts) at the air.</step>
+                       <step>Add footwork and bobbing.</step>
+                       <step>Continue for rounds.</step>
+                   </executionSteps>
+                   <commonMistakes>
+                       <mistake>Flat feet; stay on the balls of your feet.</mistake>
+                       <mistake>Overextending punches.</mistake>
+                       <mistake>Poor guard.</mistake>
+                   </commonMistakes>
+               </exercise>
+
+               <exercise>
+                   <name>Butt Kicks</name>
+                   <gender>Male</gender>
+                   <gender>Female</gender>
+                   <bodyPart>Cardio</bodyPart>
+                   <equipment>
+                       <item>Bodyweight</item>
+                   </equipment>
+                   <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
+                   <icon>https://img.icons8.com/color/96/cardio.png</icon>
+                   <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Butt-Kicks.gif</animation>
+                   <time>45</time>
+                   <whatItDoes>Dynamic hamstring warm-up and cardio drill.</whatItDoes>
+                   <executionSteps>
+                       <step>Jog in place, kicking your heels toward your glutes.</step>
+                       <step>Keep your upper body upright.</step>
+                       <step>Maintain a fast cadence.</step>
+                   </executionSteps>
+                   <commonMistakes>
+                       <mistake>Leaning too far forward.</mistake>
+                       <mistake>Slow kicks.</mistake>
+                       <mistake>Short range of motion.</mistake>
+                   </commonMistakes>
+               </exercise>
+
+               <exercise>
+                   <name>Mountain Climbers</name>
+                   <gender>Male</gender>
+                   <gender>Female</gender>
+                   <bodyPart>Cardio</bodyPart>
+                   <equipment>
+                       <item>Bodyweight</item>
+                   </equipment>
+                   <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
+                   <icon>https://img.icons8.com/color/96/plank.png</icon>
+                   <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Mountain-climber.gif</animation>
+                   <time>45</time>
+                   <whatItDoes>High-intensity core and cardio drill that improves heart rate and endurance.</whatItDoes>
+                   <executionSteps>
+                       <step>Start in a high plank position.</step>
+                       <step>Drive your knees toward your chest alternately.</step>
+                       <step>Maintain a fast pace with a flat back.</step>
+                   </executionSteps>
+                   <commonMistakes>
+                       <mistake>Hips piking up too high.</mistake>
+                       <mistake>Bouncing on toes.</mistake>
+                       <mistake>Not engaging the core.</mistake>
+                   </commonMistakes>
+               </exercise>
+
+               <exercise>
+                   <name>Skater</name>
+                   <gender>Male</gender>
+                   <gender>Female</gender>
+                   <bodyPart>Cardio</bodyPart>
+                   <equipment>
+                       <item>Bodyweight</item>
+                   </equipment>
+                   <video>https://www.youtube.com/watch?v=5fKX5N5X6vI</video>
+                   <icon>https://img.icons8.com/color/96/cardio.png</icon>
+                   <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Skater.gif</animation>
+                   <time>45</time>
+                   <whatItDoes>Lateral bound cardio exercise improving agility and side-to-side power.</whatItDoes>
+                   <executionSteps>
+                       <step>Bound sideways on one leg.</step>
+                       <step>Land softly and immediately bound to the opposite side.</step>
+                       <step>Stay low and maintain a fast pace.</step>
+                   </executionSteps>
+                   <commonMistakes>
+                       <mistake>High bounds instead of lateral speed.</mistake>
+                       <mistake>Hard landing on the joints.</mistake>
+                   </commonMistakes>
+               </exercise>
+
+               <exercise>
+                   <name>Snap Jumps</name>
+                   <gender>Male</gender>
+                   <gender>Female</gender>
+                   <bodyPart>Cardio</bodyPart>
+                   <equipment>
+                       <item>Bodyweight</item>
+                   </equipment>
+                   <video>https://www.youtube.com/watch?v=5fKX5N5X6vI</video>
+                   <icon>https://img.icons8.com/color/96/cardio.png</icon>
+                   <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/SNAP-JUMPS.gif</animation>
+                   <time>30</time>
+                   <whatItDoes>Fast in-out squat jumps for lower body explosiveness and cardio.</whatItDoes>
+                   <executionSteps>
+                       <step>Start in a low squat position.</step>
+                       <step>Jump your feet in and out rapidly.</step>
+                       <step>Stay low throughout the movement.</step>
+                   </executionSteps>
+                   <commonMistakes>
+                       <mistake>Standing up too much between jumps.</mistake>
+                       <mistake>Slow cadence.</mistake>
+                   </commonMistakes>
+               </exercise>
+
+               <exercise>
+                   <name>Cross Body Mountain Climber</name>
+                   <gender>Male</gender>
+                   <gender>Female</gender>
+                   <bodyPart>Cardio</bodyPart>
+                   <equipment>
+                       <item>Bodyweight</item>
+                   </equipment>
+                   <video>https://www.youtube.com/watch?v=1cwZ8VZvRjc</video>
+                   <icon>https://img.icons8.com/color/96/abs.png</icon>
+                   <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Cross-Body-Mountain-Climber.gif</animation>
+                   <time>45</time>
+                   <whatItDoes>Intensifies mountain climbers by adding rotation for oblique and core engagement.</whatItDoes>
+                   <executionSteps>
+                       <step>Start in high plank position.</step>
+                       <step>Bring one knee across the body toward the opposite elbow.</step>
+                       <step>Alternate sides quickly while keeping hips low.</step>
+                   </executionSteps>
+                   <commonMistakes>
+                       <mistake>Hips rising too high.</mistake>
+                       <mistake>Not twisting enough.</mistake>
+                   </commonMistakes>
+               </exercise>
+
+               <exercise>
+                   <name>Power Skips</name>
+                   <gender>Male</gender>
+                   <gender>Female</gender>
+                   <bodyPart>Cardio</bodyPart>
+                   <equipment>
+                       <item>Bodyweight</item>
+                   </equipment>
+                   <video>https://www.youtube.com/watch?v=5fKX5N5X6vI</video>
+                   <icon>https://img.icons8.com/color/96/plyometrics.png</icon>
+                   <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Power-Skips.gif</animation>
+                   <time>30</time>
+                   <whatItDoes>Explosive skipping movement for lower body power and cardio.</whatItDoes>
+                   <executionSteps>
+                       <step>Skip forward or in place, driving your knee high with each skip.</step>
+                       <step>Explode off the ground.</step>
+                       <step>Use forceful arm drive.</step>
+                   </executionSteps>
+                   <commonMistakes>
+                       <mistake>Low knee drive.</mistake>
+                       <mistake>Lack of explosion.</mistake>
+                   </commonMistakes>
+               </exercise>
+
+               <exercise>
+                   <name>Power Lunge</name>
+                   <gender>Male</gender>
+                   <gender>Female</gender>
+                   <bodyPart>Cardio</bodyPart>
+                   <equipment>
+                       <item>Bodyweight</item>
+                   </equipment>
+                   <video>https://www.youtube.com/watch?v=D7KaRcUTQjE</video>
+                   <icon>https://img.icons8.com/color/96/lunge.png</icon>
+                   <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/power-lunge.gif</animation>
+                   <time>30</time>
+                   <whatItDoes>Explosive switching lunge for intense heart rate elevation and leg power.</whatItDoes>
+                   <executionSteps>
+                       <step>Start in a lunge position.</step>
+                       <step>Explode upward, switching legs mid-air.</step>
+                       <step>Land softly in a lunge on the opposite side.</step>
+                       <step>Repeat rapidly and maintain balance.</step>
+                   </executionSteps>
+                   <commonMistakes>
+                       <mistake>Landing heavily on your heels.</mistake>
+                       <mistake>Losing balance during the mid-air switch.</mistake>
+                   </commonMistakes>
+               </exercise>
+
+               <exercise>
+                   <name>Plyo Jacks</name>
+                   <gender>Male</gender>
+                   <gender>Female</gender>
+                   <bodyPart>Cardio</bodyPart>
+                   <equipment>
+                       <item>Bodyweight</item>
+                   </equipment>
+                   <video>https://www.youtube.com/watch?v=5fKX5N5X6vI</video>
+                   <icon>https://img.icons8.com/color/96/cardio.png</icon>
+                   <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Plyo-Jacks.gif</animation>
+                   <time>30</time>
+                   <whatItDoes>A higher-intensity jumping jack variation involving a deeper squat for more power.</whatItDoes>
+                   <executionSteps>
+                       <step>Jump your legs out wide into a low squat.</step>
+                       <step>Bring your arms overhead.</step>
+                       <step>Explode back to the starting position with feet together.</step>
+                       <step>Maintain a fast, rhythmic pace.</step>
+                   </executionSteps>
+                   <commonMistakes>
+                       <mistake>Shallow squatting.</mistake>
+                       <mistake>Landing with stiff legs.</mistake>
+                   </commonMistakes>
+               </exercise>
+
 </exercises>

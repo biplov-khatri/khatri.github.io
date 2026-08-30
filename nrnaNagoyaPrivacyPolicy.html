@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Privacy Policy | NRNA Nagoya</title>
+
+    <meta name="description"
+          content="Privacy Policy for the NRNA Nagoya mobile application.">
+
+    <style>
+        :root {
+            --primary: #b91c2b;
+            --primary-dark: #8f1521;
+            --secondary: #0f3d2e;
+            --text: #1f2937;
+            --muted: #6b7280;
+            --light: #f8fafc;
+            --border: #e5e7eb;
+            --white: #ffffff;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            margin: 0;
+            font-family:
+                -apple-system,
+                BlinkMacSystemFont,
+                "Segoe UI",
+                Roboto,
+                Helvetica,
+                Arial,
+                sans-serif;
+
+            background:
+                linear-gradient(
+                    135deg,
+                    #f8fafc 0%,
+                    #ffffff 50%,
+                    #fff7f7 100%
+                );
+
+            color: var(--text);
+            line-height: 1.7;
+        }
+
+        /* Header */
+        .hero {
+            position: relative;
+            overflow: hidden;
+
+            background:
+                linear-gradient(
+                    135deg,
+                    var(--primary-dark),
+                    var(--primary)
+                );
+
+            color: white;
+            padding: 70px 20px 90px;
+        }
+
+        .hero::before {
+            content: "";
+            position: absolute;
+            width: 350px;
+            height: 350px;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.07);
+            top: -180px;
+            right: -100px;
+        }
+
+        .hero::after {
+            content: "";
+            position: absolute;
+            width: 250px;
+            height: 250px;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.05);
+            bottom: -150px;
+            left: -80px;
+        }
+
+        .hero-content {
+            position: relative;
+            z-index: 2;
+
+            max-width: 900px;
+            margin: auto;
+            text-align: center;
+        }
+
+        .app-badge {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+
+            width: 72px;
+            height: 72px;
+
+            border-radius: 20px;
+
+            background: rgba(255,255,255,0.15);
+            border: 1px solid rgba(255,255,255,0.25);
+
+            font-size: 30px;
+            font-weight: 800;
+
+            margin-bottom: 22px;
+
+            box-shadow:
+                0 10px 30px rgba(0,0,0,0.15);
+        }
+
+        .hero h1 {
+            margin: 0 0 12px;
+
+            font-size: clamp(34px, 6vw, 52px);
+            font-weight: 800;
+            letter-spacing: -1px;
+        }
+
+        .hero p {
+            margin: 0 auto;
+
+            max-width: 650px;
+
+            font-size: 18px;
+            opacity: 0.92;
+        }
+
+        .updated {
+            margin-top: 24px;
+
+            display: inline-block;
+
+            padding: 7px 15px;
+
+            border-radius: 30px;
+
+            background: rgba(255,255,255,0.12);
+            border: 1px solid rgba(255,255,255,0.2);
+
+            font-size: 14px;
+        }
+
+        /* Main */
+        .wrapper {
+            max-width: 900px;
+            margin: -45px auto 70px;
+
+            padding: 0 20px;
+
+            position: relative;
+            z-index: 5;
+        }
+
+        .content {
+            background: var(--white);
+
+            border-radius: 20px;
+
+            padding: 45px;
+
+            box-shadow:
+                0 20px 60px rgba(15, 23, 42, 0.08);
+
+            border: 1px solid rgba(229,231,235,0.8);
+        }
+
+        /* Intro */
+        .intro {
+            background: #fff7f7;
+
+            border-left: 4px solid var(--primary);
+
+            padding: 20px 22px;
+
+            border-radius: 0 12px 12px 0;
+
+            margin-bottom: 38px;
+        }
+
+        .intro strong {
+            color: var(--primary-dark);
+        }
+
+        /* Sections */
+        section {
+            margin-top: 40px;
+        }
+
+        section:first-of-type {
+            margin-top: 0;
+        }
+
+        h2 {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+
+            margin: 0 0 15px;
+
+            color: #111827;
+
+            font-size: 23px;
+            line-height: 1.3;
+        }
+
+        h2::before {
+            content: "";
+
+            width: 5px;
+            height: 24px;
+
+            border-radius: 10px;
+
+            background: var(--primary);
+
+            flex-shrink: 0;
+        }
+
+        p {
+            margin: 10px 0;
+        }
+
+        ul {
+            padding-left: 22px;
+        }
+
+        li {
+            margin: 8px 0;
+        }
+
+        /* Information cards */
+        .info-grid {
+            display: grid;
+
+            grid-template-columns:
+                repeat(2, minmax(0, 1fr));
+
+            gap: 16px;
+
+            margin-top: 20px;
+        }
+
+        .info-card {
+            padding: 20px;
+
+            background: var(--light);
+
+            border: 1px solid var(--border);
+
+            border-radius: 14px;
+        }
+
+        .info-card strong {
+            display: block;
+
+            margin-bottom: 5px;
+
+            color: var(--secondary);
+        }
+
+        .info-card span {
+            color: var(--muted);
+            font-size: 15px;
+        }
+
+        /* Responsibility */
+        .responsibility {
+            display: grid;
+
+            grid-template-columns:
+                repeat(2, minmax(0, 1fr));
+
+            gap: 18px;
+
+            margin-top: 20px;
+        }
+
+        .responsibility-card {
+            padding: 24px;
+
+            border-radius: 16px;
+
+            border: 1px solid var(--border);
+
+            background: #ffffff;
+        }
+
+        .responsibility-card.nrna {
+            border-top: 4px solid var(--primary);
+        }
+
+        .responsibility-card.tech {
+            border-top: 4px solid var(--secondary);
+        }
+
+        .responsibility-card h3 {
+            margin: 0 0 10px;
+
+            font-size: 18px;
+        }
+
+        .responsibility-card p {
+            color: var(--muted);
+
+            font-size: 15px;
+
+            margin: 0;
+        }
+
+        /* Contact */
+        .contact {
+            margin-top: 42px;
+
+            padding: 28px;
+
+            border-radius: 16px;
+
+            background:
+                linear-gradient(
+                    135deg,
+                    #f8fafc,
+                    #fff7f7
+                );
+
+            border: 1px solid var(--border);
+
+            text-align: center;
+        }
+
+        .contact h2 {
+            justify-content: center;
+        }
+
+        .email {
+            display: inline-block;
+
+            margin-top: 10px;
+
+            padding: 11px 18px;
+
+            border-radius: 10px;
+
+            background: white;
+
+            border: 1px solid var(--border);
+
+            color: var(--primary-dark);
+
+            text-decoration: none;
+
+            font-weight: 700;
+
+            transition: 0.2s ease;
+        }
+
+        .email:hover {
+            transform: translateY(-2px);
+
+            box-shadow:
+                0 8px 20px rgba(0,0,0,0.08);
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+
+            color: var(--muted);
+
+            font-size: 14px;
+
+            padding: 0 20px 40px;
+        }
+
+        footer strong {
+            color: var(--text);
+        }
+
+        /* Responsive */
+        @media (max-width: 700px) {
+
+            .hero {
+                padding: 50px 20px 75px;
+            }
+
+            .wrapper {
+                margin-top: -35px;
+            }
+
+            .content {
+                padding: 28px 22px;
+
+                border-radius: 16px;
+            }
+
+            .info-grid,
+            .responsibility {
+                grid-template-columns: 1fr;
+            }
+
+            h2 {
+                font-size: 21px;
+            }
+
+            .hero p {
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header class="hero">
+    <div class="hero-content">
+
+        <div class="app-badge">
+            N
+        </div>
+
+        <h1>NRNA Nagoya</h1>
+
+        <p>
+            Privacy Policy for the official NRNA Nagoya mobile application.
+        </p>
+
+        <div class="updated">
+            Last updated: August 27, 2026
+        </div>
+
+    </div>
+</header>
+
+
+<main class="wrapper">
+
+    <div class="content">
+
+        <div class="intro">
+
+            This Privacy Policy explains how the
+            <strong>NRNA Nagoya</strong> mobile application
+            handles information and how responsibility for the
+            application's content and technical services is divided
+            between <strong>NRNA Nagoya</strong> and
+            <strong>Khatori Tech</strong>.
+
+        </div>
+
+
+        <!-- 1 -->
+        <section>
+
+            <h2>1. About the NRNA Nagoya App</h2>
+
+            <p>
+                <strong>NRNA Nagoya</strong> is an information and
+                communication application operated for the NRNA Nagoya
+                institution. The application provides users with
+                news, announcements, updates, events, and other
+                information published by NRNA Nagoya.
+            </p>
+
+            <p>
+                The application is intended to make information from
+                NRNA Nagoya easily accessible to users through a
+                mobile application.
+            </p>
+
+        </section>
+
+
+        <!-- 2 -->
+        <section>
+
+            <h2>2. Information We Collect</h2>
+
+            <p>
+                The NRNA Nagoya application does
+                <strong>not collect or require users to provide
+                personal information</strong>.
+            </p>
+
+            <div class="info-grid">
+
+                <div class="info-card">
+                    <strong>Account</strong>
+                    <span>
+                        No account or registration is required.
+                    </span>
+                </div>
+
+                <div class="info-card">
+                    <strong>Name &amp; Email</strong>
+                    <span>
+                        We do not request or collect your name or email
+                        address.
+                    </span>
+                </div>
+
+                <div class="info-card">
+                    <strong>Phone Number</strong>
+                    <span>
+                        We do not request or collect phone numbers.
+                    </span>
+                </div>
+
+                <div class="info-card">
+                    <strong>Personal Data</strong>
+                    <span>
+                        No personal information is intentionally
+                        collected from users through the application.
+                    </span>
+                </div>
+
+            </div>
+
+            <p>
+                Users can access the application's information without
+                creating an account or submitting personal information.
+            </p>
+
+        </section>
+
+
+        <!-- 3 -->
+        <section>
+
+            <h2>3. Information and Content Provided by NRNA Nagoya</h2>
+
+            <p>
+                The application displays information, news,
+                announcements, events, and other content provided or
+                published by NRNA Nagoya.
+            </p>
+
+            <p>
+                Such content is the responsibility of
+                <strong>NRNA Nagoya</strong>. Khatori Tech provides
+                technical development and hosting services for the
+                application and does not create, control, or determine
+                the institutional content published by NRNA Nagoya.
+            </p>
+
+        </section>
+
+
+        <!-- 4 -->
+        <section>
+
+            <h2>4. Push Notifications</h2>
+
+            <p>
+                The application may send push notifications when new
+                news, announcements, or other information is published
+                or updated by NRNA Nagoya.
+            </p>
+
+            <p>
+                These notifications are intended to keep users informed
+                about newly available information. Users may manage
+                notification permissions through their device settings.
+            </p>
+
+        </section>
+
+
+        <!-- 5 -->
+        <section>
+
+            <h2>5. Data Storage</h2>
+
+            <p>
+                The NRNA Nagoya application does not provide a service
+                for users to upload or store personal information.
+            </p>
+
+            <p>
+                No user profile, personal account, personal documents,
+                photographs, names, email addresses, or other personal
+                information are intentionally hosted as part of the
+                application's user functionality.
+            </p>
+
+        </section>
+
+
+        <!-- 6 -->
+        <section>
+
+            <h2>6. Third-Party Services</h2>
+
+            <p>
+                The application may use technical services necessary
+                to deliver application functionality, including
+                services required for push notifications and delivery
+                of application content.
+            </p>
+
+            <p>
+                These services may process technical information
+                necessary for the operation of the service, such as
+                device or network-related information, according to
+                their respective policies.
+            </p>
+
+            <p>
+                The application does not intentionally use these
+                services to collect personal information from users
+                for its own purposes.
+            </p>
+
+        </section>
+
+
+        <!-- 7 -->
+        <section>
+
+            <h2>7. Responsibility for Application Content</h2>
+
+            <div class="responsibility">
+
+                <div class="responsibility-card nrna">
+
+                    <h3>NRNA Nagoya</h3>
+
+                    <p>
+                        NRNA Nagoya is responsible for the institutional
+                        information, news, announcements, events,
+                        notices, and other content published through
+                        the application.
+                    </p>
+
+                </div>
+
+
+                <div class="responsibility-card tech">
+
+                    <h3>Khatori Tech</h3>
+
+                    <p>
+                        Khatori Tech provides technical development,
+                        maintenance, and hosting services for the
+                        application. Khatori Tech is not responsible
+                        for the institutional content published or
+                        provided by NRNA Nagoya.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- 8 -->
+        <section>
+
+            <h2>8. Children's Privacy</h2>
+
+            <p>
+                The application does not knowingly collect personal
+                information from children or other users.
+            </p>
+
+            <p>
+                Since the application does not require users to create
+                accounts or submit personal information, there is no
+                intentional collection of children's personal data
+                through the application.
+            </p>
+
+        </section>
+
+
+        <!-- 9 -->
+        <section>
+
+            <h2>9. Security</h2>
+
+            <p>
+                Appropriate technical measures are used to maintain
+                the application and protect the services used to
+                provide its functionality.
+            </p>
+
+            <p>
+                However, no method of electronic transmission or
+                internet-based service can be guaranteed to be
+                completely secure.
+            </p>
+
+        </section>
+
+
+        <!-- 10 -->
+        <section>
+
+            <h2>10. Changes to This Privacy Policy</h2>
+
+            <p>
+                This Privacy Policy may be updated from time to time
+                to reflect changes to the application, its services,
+                or applicable requirements.
+            </p>
+
+            <p>
+                Any updated version will be published on this page
+                together with a revised "Last updated" date.
+            </p>
+
+        </section>
+
+
+        <!-- 11 -->
+        <section>
+
+            <h2>11. Contact</h2>
+
+            <p>
+                If you have questions, concerns, or requests regarding
+                privacy or the NRNA Nagoya application, please contact
+                NRNA Nagoya using the following official email address:
+            </p>
+
+            <div class="contact">
+
+                <h2>NRNA Nagoya</h2>
+
+                <p>
+                    Privacy and application-related inquiries
+                </p>
+
+                <a
+                    class="email"
+                    href="mailto:nrnanagoya2023@gmail.com"
+                >
+                    nrnanagoya2023@gmail.com
+                </a>
+
+            </div>
+
+        </section>
+
+
+        <!-- 12 -->
+        <section>
+
+            <h2>12. Organization and Technical Provider</h2>
+
+            <p>
+                <strong>Application:</strong>
+                NRNA Nagoya
+            </p>
+
+            <p>
+                <strong>Institution / Content Responsibility:</strong>
+                NRNA Nagoya
+            </p>
+
+            <p>
+                <strong>Technical Development &amp; Hosting:</strong>
+                Khatori Tech
+            </p>
+
+            <p>
+                NRNA Nagoya is responsible for the institutional
+                content and information made available through the
+                application. Khatori Tech acts as the technical
+                service provider responsible for application
+                development, maintenance, and hosting.
+            </p>
+
+        </section>
+
+    </div>
+
+</main>
+
+
+<footer>
+
+    <p>
+        © 2026 <strong>NRNA Nagoya</strong>.
+        All rights reserved.
+    </p>
+
+    <p>
+        Technical development and hosting by
+        <strong>Khatori Tech</strong>.
+    </p>
+
+</footer>
+
+</body>
+</html>
