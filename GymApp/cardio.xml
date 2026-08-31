@@ -534,7 +534,7 @@
                    <icon>https://img.icons8.com/color/96/plyometrics.png</icon>
                    <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Power-Skips.gif</animation>
                    <time>30</time>
-           <calories>4.9</calories>
+                   <calories>5.5</calories>
                    <whatItDoes>Explosive skipping movement for lower body power and cardio.</whatItDoes>
                    <executionSteps>
                        <step>Skip forward or in place, driving your knee high with each skip.</step>
@@ -559,7 +559,7 @@
                    <icon>https://img.icons8.com/color/96/lunge.png</icon>
                    <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/power-lunge.gif</animation>
                    <time>30</time>
-           <calories>4.9</calories>
+                   <calories>5.5</calories>
                    <whatItDoes>Explosive switching lunge for intense heart rate elevation and leg power.</whatItDoes>
                    <executionSteps>
                        <step>Start in a lunge position.</step>
@@ -585,7 +585,7 @@
                    <icon>https://img.icons8.com/color/96/cardio.png</icon>
                    <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Plyo-Jacks.gif</animation>
                    <time>30</time>
-           <calories>4.9</calories>
+                   <calories>5.5</calories>
                    <whatItDoes>A higher-intensity jumping jack variation involving a deeper squat for more power.</whatItDoes>
                    <executionSteps>
                        <step>Jump your legs out wide into a low squat.</step>
@@ -1260,7 +1260,7 @@
            <icon>https://img.icons8.com/color/96/swimming.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Swimming.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Prone swimming motion strengthens rear delts, traps, and upper back with bodyweight.</whatItDoes>
            <executionSteps>
                <step>Lie face down, arms extended forward.</step>
@@ -3549,7 +3549,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Leg-Raise-Dragon-Flag.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>One of the most advanced bodyweight core exercises, intensely targeting the entire abdominal wall and hip flexors.</whatItDoes>
            <executionSteps>
                <step>Lie on a bench, grip behind head for support.</step>
@@ -3603,7 +3603,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Alternate-Leg-Raises.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Focuses on lower abs and hip flexors with alternating motion for balanced development.</whatItDoes>
            <executionSteps>
                <step>Lie on back, hands under hips or sides.</step>
@@ -3630,7 +3630,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Crunch.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Classic exercise targeting the upper rectus abdominis for core strengthening.</whatItDoes>
            <executionSteps>
                <step>Lie on back, knees bent, hands behind head.</step>
@@ -3684,7 +3684,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Bicycle-Crunch.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Highly effective for obliques and rectus abdominis through combined crunch and twist.</whatItDoes>
            <executionSteps>
                <step>Lie on back, hands behind head, legs lifted.</step>
@@ -3711,7 +3711,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Lying-Scissor-Kick.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Targets lower abs and hip flexors with scissoring motion for endurance.</whatItDoes>
            <executionSteps>
                <step>Lie on back, hands under hips, legs extended.</step>
@@ -3738,7 +3738,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Lying-Leg-Raise.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Primarily targets lower abs and hip flexors for stronger core control.</whatItDoes>
            <executionSteps>
                <step>Lie on back, hands under hips.</step>
@@ -3765,7 +3765,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Oblique-Floor-Crunches.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Isolates the obliques for side abdominal definition and rotational strength.</whatItDoes>
            <executionSteps>
                <step>Lie on back, knees bent, feet flat.</step>
@@ -3792,7 +3792,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/T-Cross-Sit-up.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Combines sit-up with cross rotation to target obliques and upper abs.</whatItDoes>
            <executionSteps>
                <step>Lie on back, arms extended to sides forming T.</step>
@@ -3819,7 +3819,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Dead-Bug.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Improves core stability and coordination while preventing lower back strain.</whatItDoes>
            <executionSteps>
                <step>Lie on back, arms and knees up.</step>
@@ -3846,7 +3846,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Reverse-Crunch-1.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Focuses on lower abs by lifting hips off ground.</whatItDoes>
            <executionSteps>
                <step>Lie on back, knees bent, hands at sides.</step>
@@ -3873,7 +3873,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Heel-Touch.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Targets obliques with side-to-side reaching motion.</whatItDoes>
            <executionSteps>
                <step>Lie on back, knees bent, feet flat.</step>
@@ -5223,7 +5223,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Sit-ups.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Full range abdominal flexion.</whatItDoes>
            <executionSteps>
                <step>Lie knees bent, hands head.</step>
@@ -5466,7 +5466,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Jackknife-Sit-ups.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Full core activation lifting torso and legs into V.</whatItDoes>
            <executionSteps>
                <step>Lie flat, arms overhead.</step>
@@ -5493,7 +5493,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Flutter-Kicks.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Lower ab endurance with scissoring kicks.</whatItDoes>
            <executionSteps>
                <step>Lie on back, hands under hips.</step>
@@ -5520,7 +5520,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/standing-side-bend.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Lateral oblique stretch and strength.</whatItDoes>
            <executionSteps>
                <step>Stand tall, one hand overhead.</step>
@@ -5547,7 +5547,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Side-Plank-Knee-to-Elbow-.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Oblique crunch in side plank.</whatItDoes>
            <executionSteps>
                <step>Side plank.</step>
@@ -5601,7 +5601,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Half-Cross-Crunch.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Partial oblique crunch.</whatItDoes>
            <executionSteps>
                <step>Lie on back, one knee bent.</step>
@@ -5628,7 +5628,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Butterfly-Sit-up.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Sit-up with butterfly legs for hip opener and core.</whatItDoes>
            <executionSteps>
                <step>Lie back, soles together knees out.</step>
@@ -5709,7 +5709,7 @@
            <icon>https://img.icons8.com/color/96/abs.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Prone-Abdominal-Hollowing-360x360.png</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Deep core activation in prone position.</whatItDoes>
            <executionSteps>
                <step>Lie face down.</step>
@@ -6492,7 +6492,7 @@
            <icon>https://img.icons8.com/color/96/back.png</icon>
            <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Swimming.gif</animation>
            <time>45</time>
-           <calories>5.1</calories>
+           <calories>3.7</calories>
            <whatItDoes>Prone flutter for posterior endurance.</whatItDoes>
            <executionSteps>
                <step>Lie face down.</step>
