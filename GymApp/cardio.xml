@@ -1,7 +1,4 @@
 <exercises>
-
-   
-
    <exercise>
            <name>High Knees</name>
            <gender>Male</gender>
@@ -368,32 +365,7 @@
                    </commonMistakes>
                </exercise>
 
-               <exercise>
-                   <name>Shadow Boxing</name>
-                   <gender>Male</gender>
-                   <gender>Female</gender>
-                   <bodyPart>Cardio</bodyPart>
-                   <equipment>
-                       <item>Bodyweight</item>
-                   </equipment>
-                   <video>https://www.youtube.com/watch?v=NP2e1Szrj28</video>
-                   <icon>https://img.icons8.com/color/96/boxing.png</icon>
-                   <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/shadow-boxing-workout.gif</animation>
-                   <time>45</time>
-                   <calories>5.1</calories>
-                   <whatItDoes>High-intensity punching combos for cardio and coordination.</whatItDoes>
-                   <executionSteps>
-                       <step>Assume a boxing stance.</step>
-                       <step>Throw punches (jabs, crosses, hooks, uppercuts) at the air.</step>
-                       <step>Add footwork and bobbing.</step>
-                       <step>Continue for rounds.</step>
-                   </executionSteps>
-                   <commonMistakes>
-                       <mistake>Flat feet; stay on the balls of your feet.</mistake>
-                       <mistake>Overextending punches.</mistake>
-                       <mistake>Poor guard.</mistake>
-                   </commonMistakes>
-               </exercise>
+            
 
                <exercise>
                    <name>Butt Kicks</name>
@@ -447,30 +419,6 @@
                    </commonMistakes>
                </exercise>
 
-               <exercise>
-                   <name>Skater</name>
-                   <gender>Male</gender>
-                   <gender>Female</gender>
-                   <bodyPart>Cardio</bodyPart>
-                   <equipment>
-                       <item>Bodyweight</item>
-                   </equipment>
-                   <video>https://www.youtube.com/watch?v=5fKX5N5X6vI</video>
-                   <icon>https://img.icons8.com/color/96/cardio.png</icon>
-                   <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Skater.gif</animation>
-                   <time>45</time>
-                   <calories>5.1</calories>
-                   <whatItDoes>Lateral bound cardio exercise improving agility and side-to-side power.</whatItDoes>
-                   <executionSteps>
-                       <step>Bound sideways on one leg.</step>
-                       <step>Land softly and immediately bound to the opposite side.</step>
-                       <step>Stay low and maintain a fast pace.</step>
-                   </executionSteps>
-                   <commonMistakes>
-                       <mistake>High bounds instead of lateral speed.</mistake>
-                       <mistake>Hard landing on the joints.</mistake>
-                   </commonMistakes>
-               </exercise>
 
                <exercise>
                    <name>Snap Jumps</name>
@@ -599,31 +547,7 @@
                    </commonMistakes>
                </exercise>
 
-   <exercise>
-           <name>Wall Walk</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Full Body</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/handstand.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/wall-walk-muscles.gif</animation>
-           <time>45</time>
-           <calories>5.1</calories>
-           <whatItDoes>Develops shoulder strength, core stability, and body control while building toward advanced movements like handstand push-ups.</whatItDoes>
-           <executionSteps>
-               <step>Start in plank position facing away from wall, feet on wall.</step>
-               <step>Walk feet up the wall while simultaneously walking hands back toward wall.</step>
-               <step>Continue until chest is close to wall and body is nearly vertical.</step>
-               <step>Slowly reverse the movement back to starting position with control.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Arching lower back excessively instead of keeping core tight.</mistake>
-               <mistake>Rushing the movement and losing control.</mistake>
-               <mistake>Allowing shoulders to shrug up toward ears.</mistake>
-           </commonMistakes>
-   </exercise>
+
 
    <exercise>
            <name>Push-up Toe Touch</name>
@@ -677,135 +601,8 @@
            </commonMistakes>
    </exercise>
 
-   <exercise>
-           <name>Handstand Walk</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Full Body</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/handstand.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/handstand-walk.gif</animation>
-           <time>45</time>
-           <calories>5.1</calories>
-           <whatItDoes>Advanced gymnastic skill that builds shoulder strength, core control, and balance while moving in handstand.</whatItDoes>
-           <executionSteps>
-               <step>Kick up into freestanding or wall-assisted handstand.</step>
-               <step>Shift weight slightly to one hand, move opposite hand forward.</step>
-               <step>Alternate hands in controlled steps.</step>
-               <step>Maintain tight core and pointed toes.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Arching back or banana shape.</mistake>
-               <mistake>Over-shifting weight causing collapse.</mistake>
-               <mistake>Piking hips or bending arms.</mistake>
-           </commonMistakes>
-   </exercise>
 
-   <exercise>
-           <name>Handstand</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Full Body</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/handstand.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/handstand-holds.gif</animation>
-           <time>45</time>
-           <calories>5.1</calories>
-           <whatItDoes>Isometric hold that develops exceptional shoulder strength, core stability, and balance control.</whatItDoes>
-           <executionSteps>
-               <step>Kick up into handstand against wall or freestanding.</step>
-               <step>Stack shoulders, hips, and feet vertically.</step>
-               <step>Engage core, point toes, and squeeze glutes.</step>
-               <step>Hold position with controlled breathing.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Arching lower back excessively.</mistake>
-               <mistake>Shrugging shoulders toward ears.</mistake>
-               <mistake>Bending arms or collapsing elbows.</mistake>
-           </commonMistakes>
-   </exercise>
 
-   <exercise>
-           <name>Kipping Handstand Push-up</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Full Body</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/handstand.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/kipping-handstand-push-up.gif</animation>
-           <time>45</time>
-           <calories>5.1</calories>
-           <whatItDoes>Kipping variation allowing higher volume handstand push-ups to build shoulder endurance and gymnastic capacity.</whatItDoes>
-           <executionSteps>
-               <step>Kick up to wall handstand.</step>
-               <step>Create kip by arching then hollowing body.</step>
-               <step>Use momentum to press head through full range.</step>
-               <step>Control descent and repeat kip.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Over-arching back risking injury.</mistake>
-               <mistake>Incomplete range (not touching head).</mistake>
-               <mistake>Losing wall contact or balance.</mistake>
-           </commonMistakes>
-   </exercise>
-
-   <exercise>
-           <name>Straddle Planche</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Full Body</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/calisthenics.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Straddle-planche.gif</animation>
-           <time>45</time>
-           <calories>5.1</calories>
-           <whatItDoes>Advanced isometric hold that demands extreme shoulder, chest, and core strength with legs straddled for easier balance.</whatItDoes>
-           <executionSteps>
-               <step>Lean forward on hands, protract shoulders.</step>
-               <step>Lift feet off ground, straddle legs wide.</step>
-               <step>Keep hips at shoulder height, body parallel to floor.</step>
-               <step>Hold with straight arms and hollow body.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Piking hips or bending arms.</mistake>
-               <mistake>Not leaning far enough forward.</mistake>
-               <mistake>Shrugging shoulders instead of protracting.</mistake>
-           </commonMistakes>
-   </exercise>
-
-   <exercise>
-           <name>Planche Push-Up</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Full Body</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/calisthenics.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Planche-Push-Up.gif</animation>
-           <time>45</time>
-           <calories>5.1</calories>
-           <whatItDoes>Extreme pushing exercise performed in planche position, building incredible shoulder and core strength.</whatItDoes>
-           <executionSteps>
-               <step>Hold planche lean or full planche.</step>
-               <step>Bend elbows to lower chest toward hands.</step>
-               <step>Press powerfully back to starting position.</step>
-               <step>Keep body parallel to ground throughout.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Piking hips during descent.</mistake>
-               <mistake>Not leaning far enough forward.</mistake>
-               <mistake>Bending at hips instead of elbows.</mistake>
-           </commonMistakes>
-   </exercise>
 
    <exercise>
            <name>Archer Push-Up</name>
@@ -833,31 +630,7 @@
            </commonMistakes>
    </exercise>
 
-   <exercise>
-           <name>Diagonal Neck Stretch</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Neck</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/stretching.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Diagonal-Neck-Stretch-360x360.png</animation>
-           <time>60</time>
-           <calories>2.7</calories>
-           <whatItDoes>Stretches upper trapezius and scalenes to relieve tension and improve neck mobility.</whatItDoes>
-           <executionSteps>
-               <step>Sit or stand tall.</step>
-               <step>Tilt head diagonally forward toward one shoulder.</step>
-               <step>Gently pull with opposite hand for deeper stretch.</step>
-               <step>Hold 20-30 seconds, switch sides.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Shrugging shoulder toward ear.</mistake>
-               <mistake>Forcing stretch aggressively.</mistake>
-               <mistake>Rounding shoulders forward.</mistake>
-           </commonMistakes>
-   </exercise>
+
 
    <exercise>
            <name>Neck Rotation Stretch</name>
@@ -937,57 +710,6 @@
            </commonMistakes>
    </exercise>
 
-   <exercise>
-           <name>Side Neck Stretch</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Neck</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/stretching.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Side-Neck-Stretch.gif</animation>
-           <time>60</time>
-           <calories>2.7</calories>
-           <whatItDoes>Targets lateral neck muscles to relieve side tension and improve range of motion.</whatItDoes>
-           <executionSteps>
-               <step>Sit or stand tall.</step>
-               <step>Tilt head sideways toward shoulder.</step>
-               <step>Use hand for gentle overpressure if desired.</step>
-               <step>Hold 20-30 seconds each side.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Shrugging the shoulder being stretched.</mistake>
-               <mistake>Pulling too hard with hand.</mistake>
-               <mistake>Rotating or flexing forward.</mistake>
-           </commonMistakes>
-   </exercise>
-
-   <exercise>
-           <name>Side Push Neck Stretch</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Neck</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/stretching.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Side-Push-Neck-Stretch.gif</animation>
-           <time>60</time>
-           <calories>2.7</calories>
-           <whatItDoes>Active stretch using resistance to improve lateral neck strength and flexibility.</whatItDoes>
-           <executionSteps>
-               <step>Place hand on side of head.</step>
-               <step>Push head into hand isometrically for 5-10 seconds.</step>
-               <step>Relax and tilt head away for deeper stretch.</step>
-               <step>Repeat 3-5 times per side.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Using too much force causing strain.</mistake>
-               <mistake>Not relaxing after contraction.</mistake>
-               <mistake>Shrugging shoulders.</mistake>
-           </commonMistakes>
-   </exercise>
 
    <exercise>
            <name>Front and Back Neck Stretch</name>
@@ -1012,32 +734,6 @@
                <mistake>Overextending backward.</mistake>
                <mistake>Rounding shoulders during flexion.</mistake>
                <mistake>Bouncing between positions.</mistake>
-           </commonMistakes>
-   </exercise>
-
-   <exercise>
-           <name>Chin Tuck</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Neck</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/posture.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Chin-Tuck.gif</animation>
-           <time>45</time>
-           <calories>5.1</calories>
-           <whatItDoes>Strengthens deep neck flexors and corrects forward head posture.</whatItDoes>
-           <executionSteps>
-               <step>Sit or stand with good posture.</step>
-               <step>Draw chin straight back (double chin motion).</step>
-               <step>Hold 5-10 seconds, relax.</step>
-               <step>Repeat 10-15 times.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Tucking chin downward instead of straight back.</mistake>
-               <mistake>Shrugging shoulders.</mistake>
-               <mistake>Protruding head forward first.</mistake>
            </commonMistakes>
    </exercise>
 
@@ -1171,31 +867,7 @@
            </commonMistakes>
    </exercise>
 
-   <exercise>
-           <name>Fish Pose</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Neck</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/yoga.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Fish-Pose-Matsyasana.gif</animation>
-           <time>60</time>
-           <calories>2.7</calories>
-           <whatItDoes>Opens chest and throat, stretching anterior neck deeply in supported backbend.</whatItDoes>
-           <executionSteps>
-               <step>Lie on back, legs extended.</step>
-               <step>Lift chest, place crown of head on floor.</step>
-               <step>Arch back, hands under hips or clasped.</step>
-               <step>Hold 15-30 seconds breathing deeply.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Crunching neck.</mistake>
-               <mistake>Straining throat.</mistake>
-               <mistake>Not supporting with forearms if needed.</mistake>
-           </commonMistakes>
-   </exercise>
+
 
    <exercise>
            <name>Superman</name>
@@ -1327,58 +999,8 @@
            </commonMistakes>
    </exercise>
 
-   <exercise>
-           <name>Seated Ballerina Exercise</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Trapezius</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/stretching.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Seated-Ballerina.gif</animation>
-           <time>45</time>
-           <calories>5.1</calories>
-           <whatItDoes>Seated stretch and activation for upper traps and neck to improve mobility.</whatItDoes>
-           <executionSteps>
-               <step>Sit tall, arms overhead in ballerina pose.</step>
-               <step>Reach upward while depressing shoulders.</step>
-               <step>Hold or pulse gently.</step>
-               <step>Repeat.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Shrugging shoulders to ears.</mistake>
-               <mistake>Arching lower back.</mistake>
-               <mistake>Forcing arms too far.</mistake>
-           </commonMistakes>
-   </exercise>
-
-   <exercise>
-           <name>Seated Scapular Retraction Exercise</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Trapezius</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/scapula.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Seated-Scapular-Retraction-Exercise.gif</animation>
-           <time>45</time>
-           <calories>5.1</calories>
-           <whatItDoes>Isolates middle traps and rhomboids for posture correction.</whatItDoes>
-           <executionSteps>
-               <step>Sit tall, arms at sides.</step>
-               <step>Squeeze shoulder blades together.</step>
-               <step>Hold retraction 3-5 seconds.</step>
-               <step>Release slowly.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Shrugging shoulders up.</mistake>
-               <mistake>Leaning back.</mistake>
-               <mistake>Short hold time.</mistake>
-           </commonMistakes>
-   </exercise>
-
+   
+ 
    <exercise>
            <name>Side Arm Raises</name>
            <gender>Male</gender>
@@ -1457,57 +1079,7 @@
            </commonMistakes>
    </exercise>
 
-   <exercise>
-           <name>Single Arm Circles</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Shoulders</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/arm-circles.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Single-Arm-Circles.gif</animation>
-           <time>45</time>
-           <calories>5.1</calories>
-           <whatItDoes>Unilateral arm circles for shoulder mobility and endurance warm-up.</whatItDoes>
-           <executionSteps>
-               <step>Extend one arm out.</step>
-               <step>Make small to large circles forward.</step>
-               <step>Reverse direction.</step>
-               <step>Switch arms.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Shrugging shoulder.</mistake>
-               <mistake>Leaning body.</mistake>
-               <mistake>Rushed circles.</mistake>
-           </commonMistakes>
-   </exercise>
-
-   <exercise>
-           <name>Handstand Push-Up</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Shoulders</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/handstand.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/handstand-push-up.gif</animation>
-           <time>45</time>
-           <calories>5.1</calories>
-           <whatItDoes>Advanced bodyweight press building tremendous deltoid and upper body strength.</whatItDoes>
-           <executionSteps>
-               <step>Kick up into handstand (wall-supported or free).</step>
-               <step>Lower head toward ground by bending elbows.</step>
-               <step>Press powerfully back to lockout.</step>
-               <step>Keep core tight and body straight.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Arching back or piking hips.</mistake>
-               <mistake>Partial range not touching head.</mistake>
-               <mistake>Shrugging shoulders.</mistake>
-           </commonMistakes>
-   </exercise>
+  
 
    <exercise>
            <name>Pike Push-up</name>
@@ -1535,31 +1107,6 @@
            </commonMistakes>
    </exercise>
 
-   <exercise>
-           <name>Wall-Supported Handstand Push-Ups</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Shoulders</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/handstand.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/wall-supported-handstand-push-up.gif</animation>
-           <time>45</time>
-           <calories>5.1</calories>
-           <whatItDoes>Wall-assisted handstand push-up for vertical pressing strength.</whatItDoes>
-           <executionSteps>
-               <step>Kick up to wall handstand.</step>
-               <step>Lower head to ground controlled.</step>
-               <step>Press back to lockout.</step>
-               <step>Keep body tight.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Arching back.</mistake>
-               <mistake>Partial range.</mistake>
-               <mistake>Losing wall contact.</mistake>
-           </commonMistakes>
-   </exercise>
 
    <exercise>
            <name>Shoulder Pendulum</name>
@@ -1587,31 +1134,7 @@
            </commonMistakes>
    </exercise>
 
-   <exercise>
-           <name>Seated Ballerina Exercise</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Shoulders</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/stretching.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Seated-Ballerina.gif</animation>
-           <time>45</time>
-           <calories>5.1</calories>
-           <whatItDoes>Seated mobility and activation for shoulders and upper back.</whatItDoes>
-           <executionSteps>
-               <step>Sit tall, arms overhead in ballerina pose.</step>
-               <step>Reach upward, depress shoulders.</step>
-               <step>Hold or pulse.</step>
-               <step>Breathe deeply.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Shrugging shoulders.</mistake>
-               <mistake>Arching back.</mistake>
-               <mistake>Forcing arms.</mistake>
-           </commonMistakes>
-   </exercise>
+  
 
    <exercise>
            <name>Seated Scapular Retraction Exercise</name>
@@ -1873,31 +1396,6 @@
            </commonMistakes>
    </exercise>
 
-   <exercise>
-           <name>Kipping Handstand Push-up</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Shoulders</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/handstand.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/kipping-handstand-push-up.gif</animation>
-           <time>45</time>
-           <calories>5.1</calories>
-           <whatItDoes>Kipping variation for higher volume handstand push-ups.</whatItDoes>
-           <executionSteps>
-               <step>Wall handstand.</step>
-               <step>Kip with arch-hollow body swing.</step>
-               <step>Use momentum to press up.</step>
-               <step>Control descent.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Over-arching back.</mistake>
-               <mistake>Incomplete range.</mistake>
-               <mistake>Losing wall contact.</mistake>
-           </commonMistakes>
-   </exercise>
 
    <exercise>
            <name>Hindu Push-ups</name>
@@ -2471,31 +1969,7 @@
            </commonMistakes>
    </exercise>
 
-   <exercise>
-           <name>Straddle Planche</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Chest</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/calisthenics.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Straddle-planche.gif</animation>
-           <time>45</time>
-           <calories>5.1</calories>
-           <whatItDoes>Advanced isometric hold building tremendous chest and shoulder strength.</whatItDoes>
-           <executionSteps>
-               <step>Lean forward in straddle leg position.</step>
-               <step>Lift feet off ground.</step>
-               <step>Hold body horizontal.</step>
-               <step>Protract shoulders.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Piking hips.</mistake>
-               <mistake>Bending arms.</mistake>
-               <mistake>Sagging body.</mistake>
-           </commonMistakes>
-   </exercise>
+ 
 
    <exercise>
            <name>Close Grip Knee Push-up</name>
@@ -2601,31 +2075,7 @@
            </commonMistakes>
    </exercise>
 
-   <exercise>
-           <name>Planche Push-Up</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Chest</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/calisthenics.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Planche-Push-Up.gif</animation>
-           <time>45</time>
-           <calories>5.1</calories>
-           <whatItDoes>Extreme calisthenic push-up in planche position.</whatItDoes>
-           <executionSteps>
-               <step>Hold planche lean.</step>
-               <step>Lower chest.</step>
-               <step>Press back up.</step>
-               <step>Keep body horizontal.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Piking hips.</mistake>
-               <mistake>Bending arms early.</mistake>
-               <mistake>Sagging.</mistake>
-           </commonMistakes>
-   </exercise>
+  
 
    <exercise>
            <name>Finger Push-up</name>
@@ -3407,31 +2857,6 @@
            </commonMistakes>
    </exercise>
 
-   <exercise>
-           <name>Straddle Planche</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Triceps</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/calisthenics.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Straddle-planche.gif</animation>
-           <time>45</time>
-           <calories>5.1</calories>
-           <whatItDoes>Advanced isometric hold loading triceps heavily.</whatItDoes>
-           <executionSteps>
-               <step>Lean forward straddle legs.</step>
-               <step>Lift feet off ground.</step>
-               <step>Hold horizontal.</step>
-               <step>Protract shoulders.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Piking hips.</mistake>
-               <mistake>Bending arms.</mistake>
-               <mistake>Sagging body.</mistake>
-           </commonMistakes>
-   </exercise>
 
    <exercise>
            <name>Close Grip Knee Push-up</name>
@@ -3459,31 +2884,7 @@
            </commonMistakes>
    </exercise>
 
-   <exercise>
-           <name>Planche Push-Up</name>
-           <gender>Male</gender>
-           <gender>Female</gender>
-           <bodyPart>Triceps</bodyPart>
-           <equipment>
-               <item>Bodyweight</item>
-           </equipment>
-           <icon>https://img.icons8.com/color/96/calisthenics.png</icon>
-           <animation>https://biplovkhatri.com.np/GymApp/Exercise_gif/Planche-Push-Up.gif</animation>
-           <time>45</time>
-           <calories>5.1</calories>
-           <whatItDoes>Extreme push-up in planche lean loading triceps.</whatItDoes>
-           <executionSteps>
-               <step>Hold planche lean.</step>
-               <step>Lower chest.</step>
-               <step>Press back up.</step>
-               <step>Keep body horizontal.</step>
-           </executionSteps>
-           <commonMistakes>
-               <mistake>Piking hips.</mistake>
-               <mistake>Bending arms early.</mistake>
-               <mistake>Sagging.</mistake>
-           </commonMistakes>
-   </exercise>
+  
 
    <exercise>
            <name>Archer Push-Up</name>
