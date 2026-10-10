@@ -1,0 +1,659 @@
+<?xml version='1.0' encoding='utf-8'?>
+<khanjis>
+    <Match>
+        <word>政治,せいじ</word>
+        <word>経済,けいざい</word>
+        <word>国際,こくさい</word>
+        <word>関係,かんけい</word>
+        <word>関心,かんしん</word>
+        <word>反対,はんたい</word>
+        <word>相談,そうだん</word>
+        <word>相手,あいて</word>
+        <word>予定,よてい</word>
+        <word>定期,ていき</word>
+        <word>実際,じっさい</word>
+        <word>実験,じっけん</word>
+        <word>決定,けってい</word>
+        <word>全員,ぜんいん</word>
+        <word>安全,あんぜん</word>
+        <word>発表,はっぴょう</word>
+        <word>表現,ひょうげん</word>
+        <word>代表,だいひょう</word>
+        <word>戦争,せんそう</word>
+        <word>試合,しあい</word>
+        <word>現在,げんざい</word>
+        <word>現金,げんきん</word>
+        <word>現象,げんしょう</word>
+        <word>結果,けっか</word>
+        <word>結婚,けっこん</word>
+        <word>結論,けつろん</word>
+        <word>理由,りゆう</word>
+        <word>自由,じゆう</word>
+        <word>情報,じょうほう</word>
+        <word>表情,ひょうじょう</word>
+        <word>友情,ゆうじょう</word>
+        <word>最近,さいきん</word>
+        <word>最初,さいしょ</word>
+        <word>最後,さいご</word>
+        <word>最高,さいこう</word>
+        <word>確認,かくにん</word>
+        <word>確か,たしか</word>
+        <word>認める,みとめる</word>
+        <word>設計,せっけい</word>
+        <word>施設,しせつ</word>
+        <word>直接,ちょくせつ</word>
+        <word>正直,しょうじき</word>
+        <word>広告,こうこく</word>
+        <word>報告,ほうこく</word>
+        <word>予告,よこく</word>
+        <word>友達,ともだち</word>
+        <word>配達,はいたつ</word>
+        <word>上達,じょうたつ</word>
+        <word>発達,はったつ</word>
+        <word>観光,かんこう</word>
+        <word>観客,かんきゃく</word>
+        <word>観察,かんさつ</word>
+        <word>天気予報,てんきよほう</word>
+        <word>報道,ほうどう</word>
+        <word>平和,へいわ</word>
+        <word>平日,へいじつ</word>
+        <word>和食,わしょく</word>
+        <word>移動,いどう</word>
+        <word>移る,うつる</word>
+        <word>経験,けいけん</word>
+        <word>経営,けいえい</word>
+        <word>指導,しどう</word>
+        <word>指定,してい</word>
+        <word>案内,あんない</word>
+        <word>導入,どうにゅう</word>
+        <word>準備,じゅんび</word>
+        <word>基準,きじゅん</word>
+        <word>設備,せつび</word>
+        <word>歓迎,かんげい</word>
+        <word>迎える,むかえる</word>
+        <word>存在,そんざい</word>
+        <word>保存,ほぞん</word>
+        <word>勤務,きんむ</word>
+        <word>通勤,つうきん</word>
+        <word>事務所,じむしょ</word>
+        <word>公務員,こうむいん</word>
+        <word>規則,きそく</word>
+        <word>制度,せいど</word>
+        <word>制限,せいげん</word>
+        <word>限界,げんかい</word>
+        <word>期限,きげん</word>
+        <word>複雑,ふくざつ</word>
+        <word>複数,ふくすう</word>
+        <word>雑誌,ざっし</word>
+        <word>混雑,こんざつ</word>
+        <word>困難,こんなん</word>
+        <word>容易,ようい</word>
+        <word>貿易,ぼうえき</word>
+        <word>内容,ないよう</word>
+        <word>疑問,ぎもん</word>
+        <word>疑う,うたがう</word>
+        <word>引越し,ひっこし</word>
+        <word>寄付,きふ</word>
+        <word>遠慮,えんりょ</word>
+        <word>考慮,こうりょ</word>
+        <word>歴史,れきし</word>
+        <word>学歴,がくれき</word>
+        <word>経歴,けいれき</word>
+        <word>永久,えいきゅう</word>
+        <word>久しぶり,ひさしぶり</word>
+        <word>変化,へんか</word>
+        <word>文化,ぶんか</word>
+        <word>化学,かがく</word>
+        <word>化粧,けしょう</word>
+        <word>法律,ほうりつ</word>
+        <word>方法,ほうほう</word>
+        <word>文法,ぶんぽう</word>
+        <word>作法,さほう</word>
+        <word>規律,きりつ</word>
+        <word>責任,せきにん</word>
+        <word>任せる,まかせる</word>
+        <word>信頼,しんらい</word>
+        <word>頼む,たのむ</word>
+        <word>技術,ぎじゅつ</word>
+        <word>手術,しゅじゅつ</word>
+        <word>芸術,げいじゅつ</word>
+        <word>医者,いしゃ</word>
+        <word>学者,がくしゃ</word>
+        <word>作者,さくしゃ</word>
+        <word>読者,どくしゃ</word>
+        <word>若者,わかもの</word>
+        <word>専門,せんもん</word>
+        <word>専用,せんよう</word>
+        <word>専攻,せんこう</word>
+        <word>研究,けんきゅう</word>
+        <word>究める,きわめる</word>
+        <word>調査,ちょうさ</word>
+        <word>検査,けんさ</word>
+        <word>審査,しんさ</word>
+        <word>審査員,しんさいん</word>
+        <word>増える,ふえる</word>
+        <word>増加,ぞうか</word>
+        <word>減る,へる</word>
+        <word>減少,げんしょう</word>
+        <word>感心,かんしん</word>
+        <word>感動,かんどう</word>
+        <word>感謝,かんしゃ</word>
+        <word>情けない,なさけない</word>
+        <word>同情,どうじょう</word>
+        <word>情報誌,じょうほうし</word>
+        <word>恋人,こいびと</word>
+        <word>恋愛,れんあい</word>
+        <word>愛情,あいじょう</word>
+        <word>想像,そうぞう</word>
+        <word>映像,えいぞう</word>
+        <word>仏像,ぶつぞう</word>
+        <word>理想,りそう</word>
+        <word>感想,かんそう</word>
+        <word>予想,よそう</word>
+        <word>回数,かいすう</word>
+        <word>回復,かいふく</word>
+        <word>回答,かいとう</word>
+        <word>原因,げんいん</word>
+        <word>要因,よういん</word>
+        <word>勝敗,しょうはい</word>
+        <word>失敗,しっぱい</word>
+        <word>勝つ,かつ</word>
+        <word>負ける,まける</word>
+        <word>賛成,さんせい</word>
+        <word>成功,せいこう</word>
+        <word>完成,かんせい</word>
+        <word>成長,せいちょう</word>
+        <word>成立,せいりつ</word>
+        <word>約束,やくそく</word>
+        <word>予約,よやく</word>
+        <word>束ねる,たばねる</word>
+        <word>花束,はなたば</word>
+        <word>返却,へんきゃく</word>
+        <word>恩返し,おんがえし</word>
+        <word>追いつく,おいつく</word>
+        <word>追加,ついか</word>
+        <word>逃げる,にげる</word>
+        <word>逃走,とうそう</word>
+        <word>適当,てきとう</word>
+        <word>適切,てきせつ</word>
+        <word>快適,かいてき</word>
+        <word>適用,てきよう</word>
+        <word>適応,てきおう</word>
+        <word>過去,かこ</word>
+        <word>過ごす,すごす</word>
+        <word>通過,つうか</word>
+        <word>過程,かてい</word>
+        <word>程度,ていど</word>
+        <word>日程,にってい</word>
+        <word>服装,ふくそう</word>
+        <word>装置,そうち</word>
+        <word>衣装,いしょう</word>
+        <word>包装,ほうそう</word>
+        <word>補償,ほしょう</word>
+        <word>補充,ほじゅう</word>
+        <word>補う,おぎなう</word>
+        <word>候補,こうほ</word>
+        <word>補助,ほじょ</word>
+        <word>助手,じょしゅ</word>
+        <word>援助,えんじょ</word>
+        <word>救助,きゅうじょ</word>
+        <word>助ける,たすける</word>
+        <word>助言,じょげん</word>
+        <word>解決,かいけつ</word>
+        <word>解説,かいせつ</word>
+        <word>解放,かいほう</word>
+        <word>解散,かいさん</word>
+        <word>分解,ぶんかい</word>
+        <word>理解,りかい</word>
+        <word>解く,とく</word>
+        <word>誤解,ごかい</word>
+        <word>弁護士,べんごし</word>
+        <word>保護,ほご</word>
+        <word>看護師,かんごし</word>
+        <word>警告,けいこく</word>
+        <word>警察,けいさつ</word>
+        <word>警備,けいび</word>
+        <word>議論,ぎろん</word>
+        <word>議員,ぎいん</word>
+        <word>会議,かいぎ</word>
+        <word>議事堂,ぎじどう</word>
+        <word>抗議,こうぎ</word>
+        <word>講義,こうぎ</word>
+        <word>講師,こうし</word>
+        <word>休講,きゅうこう</word>
+        <word>座談会,ざだんかい</word>
+        <word>講座,こうざ</word>
+        <word>座席,ざせき</word>
+        <word>星座,せいざ</word>
+        <word>出席,しゅっせき</word>
+        <word>欠席,けっせき</word>
+        <word>客席,きゃくせき</word>
+        <word>首席,しゅせき</word>
+        <word>種類,しゅるい</word>
+        <word>書類,しょるい</word>
+        <word>分類,ぶんるい</word>
+        <word>人類,じんるい</word>
+        <word>親類,しんるい</word>
+        <word>似ている,にている</word>
+        <word>類似,るいじ</word>
+        <word>類推,るいすい</word>
+        <word>共通点,きょうつうてん</word>
+        <word>共感,きょうかん</word>
+        <word>共同,きょうどう</word>
+        <word>公共,こうきょう</word>
+        <word>共和国,きょうわこく</word>
+        <word>共働き,ともばたらき</word>
+        <word>共にする,ともにする</word>
+        <word>防災,ぼうさい</word>
+        <word>災害,さいがい</word>
+        <word>火災,かさい</word>
+        <word>水害,すいがい</word>
+        <word>公害,こうがい</word>
+        <word>障害,しょうがい</word>
+        <word>被害,ひがい</word>
+        <word>害虫,がいちゅう</word>
+        <word>利害,りがい</word>
+        <word>利用,りよう</word>
+        <word>便利,べんり</word>
+        <word>利口,りこう</word>
+        <word>金利,きんり</word>
+        <word>利点,りてん</word>
+        <word>勝利,しょうり</word>
+        <word>権利,けんり</word>
+        <word>政権,せいけん</word>
+        <word>特権,とっけん</word>
+        <word>権力,けんりょく</word>
+        <word>支配,しはい</word>
+        <word>支出,ししゅつ</word>
+        <word>支持,しじ</word>
+        <word>維持,いじ</word>
+        <word>気持ち,きもち</word>
+        <word>金持ち,かねもち</word>
+        <word>持ち物,もちもの</word>
+        <word>持ち歩く,もちあるく</word>
+        <word>持ち主,もちぬし</word>
+        <word>主人,しゅじん</word>
+        <word>主要,しゅよう</word>
+        <word>主役,しゅやく</word>
+        <word>主張,しゅちょう</word>
+        <word>引張る,ひっぱる</word>
+        <word>出張,しゅっちょう</word>
+        <word>緊張,きんちょう</word>
+        <word>緊急,きんきゅう</word>
+        <word>急行,きゅうこう</word>
+        <word>急ぐ,いそぐ</word>
+        <word>急速,きゅうそく</word>
+        <word>急変,きゅうへん</word>
+        <word>急増,きゅうぞう</word>
+        <word>急激,きゅうげき</word>
+        <word>激しい,はげしい</word>
+        <word>感激,かんげき</word>
+        <word>刺激,しげき</word>
+        <word>激励,げきれい</word>
+        <word>激励会,げきれいかい</word>
+        <word>励ます,はげます</word>
+        <word>励む,はげむ</word>
+        <word>努力,どりょく</word>
+        <word>努める,つとめる</word>
+        <word>労働,ろうどう</word>
+        <word>過労,かろう</word>
+        <word>苦労,くろう</word>
+        <word>功績,こうせき</word>
+        <word>実績,じっせき</word>
+        <word>成績,せいせき</word>
+        <word>業績,ぎょうせき</word>
+        <word>紡績,ぼうせき</word>
+        <word>工業,こうぎょう</word>
+        <word>商業,しょうぎょう</word>
+        <word>農業,のうぎょう</word>
+        <word>作業,さぎょう</word>
+        <word>卒業,そつぎょう</word>
+        <word>残業,ざんぎょう</word>
+        <word>休業,きゅうぎょう</word>
+        <word>授業,じゅぎょう</word>
+        <word>教授,きょうじゅ</word>
+        <word>授権,じゅけん</word>
+        <word>授かる,さずかる</word>
+        <word>授与,じゅよ</word>
+        <word>与える,あたえる</word>
+        <word>給与,きゅうよ</word>
+        <word>寄与,きよ</word>
+        <word>関与,かんよ</word>
+        <word>参加,さんか</word>
+        <word>参考,さんこう</word>
+        <word>参照,さんしょう</word>
+        <word>参る,まいる</word>
+        <word>お参り,おまいり</word>
+        <word>墓参り,はかまいり</word>
+        <word>参観,さんかん</word>
+        <word>参戦,さんせん</word>
+    <word>愛, あい</word><word>案, あん</word><word>以, い</word><word>衣, ころも</word><word>囲, かこむ</word><word>胃, い</word><word>偉, いだい</word><word>印, しるし</word><word>栄, さかえる</word><word>塩, しお</word><word>央, ちゅうおう</word><word>黄, きいろ</word><word>屋, へや</word><word>億, おく</word><word>加, くわえる</word><word>果, くだもの</word><word>課, かちょう</word><word>芽, め</word><word>改, あらためる</word><word>械, きかい</word><word>害, がい</word><word>各, かくじ</word><word>覚, おぼえる</word><word>街, まち</word><word>管, くだ</word><word>関, かんする</word><word>観, かんこう</word><word>願, ねがう</word><word>希, きぼう</word><word>季, きせつ</word><word>紀, せいき</word><word>規, きそく</word><word>喜, よろこぶ</word><word>原, げんいん</word><word>候, きこう</word><word>康, けんこう</word><word>航, こうくう</word><word>才, さいのう</word><word>細, ほそい</word><word>菜, やさい</word><word>坂, さか</word><word>昨, きのう</word><word>札, さつ</word><word>刷, いんさつ</word><word>材, ざいりょう</word><word>残, のこる</word><word>初, はじめて</word><word>省, しょうえね</word><word>笑, わらう</word><word>照, てらす</word><word>象, ぞう</word><word>賞, しょう</word><word>静, しずか</word><word>積, つもる</word><word>節, きせつ</word><word>説, せつめい</word><word>浅, あさい</word><word>戦, たたかう</word><word>選, えらぶ</word><word>然, しぜん</word><word>争, あらそう</word><word>創, そうぞう</word><word>増, ふえる</word><word>測, はかる</word><word>属, しょぞく</word><word>達, ともだち</word><word>短, みじかい</word><word>置, おく</word><word>適, てきとう</word><word>点, てんすう</word><word>伝, つたえる</word><word>能, のうりょく</word><word>配, くばる</word><word>倍, ばい</word><word>非, ひじょう</word><word>備, じゅんび</word><word>美, うつくしい</word><word>表, ひょうじ</word><word>秒, びょう</word><word>不, ふべん</word><word>夫婦, ふうふ</word><word>付, つける</word><word>府, きょうとふ</word><word>副, ふくしゃちょう</word><word>複, ふくしゅう</word><word>払, はらう</word><word>兵, へいし</word><word>平, へいわ</word><word>約, やくそく</word><word>勇, ゆうき</word><word>要, ひつよう</word><word>陽, たいよう</word><word>容, ないよう</word><word>率, りつ</word><word>留, りゅうがく</word><word>類, しゅるい</word><word>例, たとえば</word><word>冷, つめたい</word><word>連, れんらく</word><word>練, れんしゅう</word><word>路, どうろ</word><word>和, わしょく</word><word>老, ろうじん</word><word>礼, おれい</word><word>列, れつ</word><word>労, くろう</word><word>陸, りく</word><word>律, ほうりつ</word><word>輪, ゆびわ</word><word>農, のうぎょう</word><word>波, なみ</word><word>把, はあく</word><word>覇, はけん</word><word>板, いた</word><word>版, しゅっぱん</word><word>犯, はんにん</word><word>班, はん</word><word>判, はんだん</word><word>皮, かわ</word><word>否, ひてい</word><word>悲, かなしい</word><word>批, ひはん</word><word>秘, ひみつ</word><word>被, ひがい</word><word>疲, つかれる</word><word>費, ひよう</word><word>飛, とぶ</word><word>備, そなえる</word><word>微, びみょう</word><word>必, かならず</word><word>筆, ひつしゃ</word><word>姫, ひめ</word><word>百, ひゃく</word><word>表, おもて</word><word>評, ひょうばん</word><word>標, もくひょう</word><word>票, とうひょう</word><word>氷, こおり</word><word>漂, ただよう</word><word>品, しなもの</word><word>婦, しゅふ</word><word>富, とみ</word><word>布, ぬの</word><word>怖, こわい</word><word>扶, ふじょ</word><word>浮, うかぶ</word><word>父, ちち</word><word>符, きっぷ</word><word>腐, くさる</word><word>敷, しく</word><word>膚, ひふ</word><word>賦, げんぷ</word><word>譜, がくふ</word><word>舞, まう</word><word>武, ぶどう</word><word>部, へや</word><word>封, ふうとう</word><word>風, かぜ</word><word>伏, ふせぐ</word><word>副, ふく</word><word>復, ふくしゅう</word><word>幅, はば</word><word>服, ふく</word><word>福, こうふく</word><word>払, はらい</word><word>噴, ふんすい</word><word>墳, こうふん</word><word>文, ぶんしょう</word><word>聞, きく</word><word>丙, へい</word><word>併, へいこう</word><word>兵, へいさい</word><word>塀, へい</word><word>幣, つかふ</word><word>平, たいら</word><word>弊, へいがい</word><word>柄, がら</word><word>並, ならぶ</word><word>蔽, いんぺい</word><word>餅, もち</word><word>壁, かべ</word><word>璧, かんぺき</word><word>癖, くせ</word><word>変, へんてこ</word><word>片, かたほう</word><word>編, へんしゅう</word><word>辺, あたり</word><word>返, かえす</word><word>遍, ふへん</word><word>便, べんり</word><word>勉, べんきょう</word><word>弁, べんとう</word><word>保, ほぞん</word><word>捕, つかまえる</word><word>歩, あるく</word><word>補, ほじゅう</word><word>穂, ほのほ</word><word>募, ぼしゅう</word><word>墓, はか</word><word>暮, くらす</word><word>母, はは</word><word>簿, かけいぼ</word><word>倣, もほう</word><word>俸, きゅうほう</word><word>包, つつむ</word><word>報, ほうこく</word><word>奉, ほうし</word><word>宝, たからもの</word><word>峰, みね</word><word>砲, てっぽう</word><word>崩, くずれる</word></Match>
+    <option>
+        <word>政治, せいし, さんこう, せいじ, はげむ, せいじ</word>
+        <word>経済, のうぎょう, けいざう, ほじょ, けいざい, けいざい</word>
+        <word>国際, こくさう, かねもち, とく, こくさい, こくさい</word>
+        <word>関係, かんけう, ほしょう, かいけい, かんけい, かんけい</word>
+        <word>関心, かんしん, じょうほうし, かいせつ, かいしい, かんしん</word>
+        <word>反対, はんたい, かいほう, はいたい, はんたう, はんたい</word>
+        <word>相談, そうだい, さいきん, そうだん, そだん, そうだん</word>
+        <word>相手, のうぎょう, じょしゅ, あいて, けつろん, あいて</word>
+        <word>予定, こうむいん, よてう, よてい, ひっこし, よてい</word>
+        <word>定期, ごかい, かくにん, はっぴょう, ていき, ていき</word>
+        <word>実際, じっさう, じっさい, しっさい, じつさい, じっさい</word>
+        <word>実験, じつけん, しっけん, じっけい, じっけん, じっけん</word>
+        <word>決定, けってう, けつてい, へいわ, けってい, けってい</word>
+        <word>全員, ぜんいん, ぜいいい, てきとう, ほうほう, ぜんいん</word>
+        <word>安全, ぎいん, あいぜい, あんぜん, いしゃ, あんぜん</word>
+        <word>発表, はっぴょお, はっぴょ, はつぴょう, はっぴょう, はっぴょう</word>
+        <word>表現, ひょげん, こくさい, ひょうげん, ひょうげい, ひょうげん</word>
+        <word>代表, だいひょお, だいひょう, てきとう, だいひょ, だいひょう</word>
+        <word>戦争, せんそお, せんそ, せんそう, せいそう, せんそう</word>
+        <word>試合, かねもち, しあい, しあう, どうじょう, しあい</word>
+        <word>現在, れきし, げんざう, げんざい, げいざい, げんざい</word>
+        <word>現金, ぶつぞう, げんきん, ついか, げいきい, げんきん</word>
+        <word>現象, げんしょう, げんしょ, げいしょう, げんしょお, げんしょう</word>
+        <word>結果, りてん, けっか, けつか, にている, けっか</word>
+        <word>結婚, けつこん, けっこい, けっこん, きょうかん, けっこん</word>
+        <word>結論, けつろん, うつる, しょうぎょう, けつろい, けつろん</word>
+        <word>理由, きゅうへん, りゆ, りゆお, りゆう, りゆう</word>
+        <word>自由, じゆう, じゆお, しゆう, じゆ, じゆう</word>
+        <word>情報, じょうほお, じょほ, しょうほう, じょうほう, じょうほう</word>
+        <word>表情, ひょうじょう, ひょうじょお, ひょじょ, ひょうしょう, ひょうじょう</word>
+        <word>友情, ゆじょ, ゆうしょう, ゆうじょお, ゆうじょう, ゆうじょう</word>
+        <word>最近, せいりつ, さいきい, かつ, さいきん, さいきん</word>
+        <word>最初, きゅうじょ, うたがう, さんせい, さいしょ, さいしょ</word>
+        <word>最後, ほご, さいご, きふ, きゅうじょ, さいご</word>
+        <word>最高, こんざつ, さいこお, さいこ, さいこう, さいこう</word>
+        <word>確認, いどう, ぶんか, かくにい, かくにん, かくにん</word>
+        <word>確か, よそう, しゅっちょう, かんげい, たしか, たしか</word>
+        <word>認める, みとめる, げきれい, けいさつ, ひょうげん, みとめる</word>
+        <word>設計, せっけい, せつけい, かがく, せっけう, せっけい</word>
+        <word>施設, しせつ, せいせき, れきし, こんざつ, しせつ</word>
+        <word>直接, じんるい, かいてき, まかせる, ちょくせつ, ちょくせつ</word>
+        <word>正直, しょうしき, げんしょう, しょうじき, しょじき, しょうじき</word>
+        <word>広告, ここく, きもち, げんいん, こうこく, こうこく</word>
+        <word>報告, てきおう, にってい, ほこく, ほうこく, ほうこく</word>
+        <word>予告, どうにゅう, しゅせき, よこく, ほうほう, よこく</word>
+        <word>友達, ともだち, れんあい, ぜんいん, つうきん, ともだち</word>
+        <word>配達, はいたつ, しっぱい, しゅるい, きゃくせき, はいたつ</word>
+        <word>上達, しょうたつ, じょうたつ, じょたつ, とうそう, じょうたつ</word>
+        <word>発達, はったつ, はつたつ, さいご, べんり, はったつ</word>
+        <word>観光, かんこお, かいこう, かんこ, かんこう, かんこう</word>
+        <word>観客, しゅるい, かいきゃく, かんきゃく, かくにん, かんきゃく</word>
+        <word>観察, かいさつ, じっけん, かんさつ, ほうほう, かんさつ</word>
+        <word>天気予報, てんきよほお, てんきよほう, ていきよほう, てんきよほ, てんきよほう</word>
+        <word>報道, ほうどお, ほど, まいる, ほうどう, ほうどう</word>
+        <word>平和, ざせき, はなたば, へいわ, りかい, へいわ</word>
+        <word>平日, きんちょう, へいしつ, へいじつ, かんよ, へいじつ</word>
+        <word>和食, わしょく, かいふく, せいりつ, かんせい, わしょく</word>
+        <word>移動, いど, いどう, せつび, いどお, いどう</word>
+        <word>移る, かんこう, つる, よそう, うつる, うつる</word>
+        <word>経験, けいけい, けいけん, よそう, まいる, けいけん</word>
+        <word>経営, けいえう, よそう, こんなん, けいえい, けいえい</word>
+        <word>指導, しどお, けってい, しど, しどう, しどう</word>
+        <word>指定, ほぞん, してい, つとめる, してう, してい</word>
+        <word>案内, ぶんるい, あいない, あんなう, あんない, あんない</word>
+        <word>導入, どうにゅう, しげき, どにゅ, どうにゅお, どうにゅう</word>
+        <word>準備, しゅっちょう, じゅんび, しゅんび, じゅいび, じゅんび</word>
+        <word>基準, きじゅい, きじゅん, きしゅん, こうこく, きじゅん</word>
+        <word>設備, にげる, ついか, かんしん, せつび, せつび</word>
+        <word>歓迎, きゅうじょ, かんげう, かんげい, かいげい, かんげい</word>
+        <word>迎える, ぎいん, ひょうげん, むかえる, しゅじゅつ, むかえる</word>
+        <word>存在, そんざう, そんざい, ふえる, そいざい, そんざい</word>
+        <word>保存, さずかる, ほぞい, こうこく, ほぞん, ほぞん</word>
+        <word>勤務, きんむ, へいじつ, つうか, きいむ, きんむ</word>
+        <word>通勤, つうきん, こうむいん, つきん, つうきい, つうきん</word>
+        <word>事務所, こうりょ, じむしょ, しむしょ, かいふく, じむしょ</word>
+        <word>公務員, こむいん, こうむいん, こうむいい, けつろん, こうむいん</word>
+        <word>規則, こうし, どくしゃ, きそく, ちょうさ, きそく</word>
+        <word>制度, ざんぎょう, じゅよ, こうきょう, せいど, せいど</word>
+        <word>制限, るいすい, じょうほうし, せいげい, せいげん, せいげん</word>
+        <word>限界, げいかい, ほうそう, げんかい, げんかう, げんかい</word>
+        <word>期限, きげい, けいざい, きげん, ぼうえき, きげん</word>
+        <word>複雑, のうぎょう, ふくざつ, かいさん, ぎもん, ふくざつ</word>
+        <word>複数, ふくす, しゅせき, ふくすう, ふくすお, ふくすう</word>
+        <word>雑誌, さんせい, ざっし, ざつし, さんこう, ざっし</word>
+        <word>混雑, へる, きょうじゅ, こいざつ, こんざつ, こんざつ</word>
+        <word>困難, こんなん, ひがい, ひさしぶり, こいない, こんなん</word>
+        <word>容易, かいけつ, よい, ようい, ようう, ようい</word>
+        <word>貿易, きゅうぎょう, ぼうえき, ぼえき, たしか, ぼうえき</word>
+        <word>内容, ないよう, ないよお, ほうほう, ないよ, ないよう</word>
+        <word>疑問, かくにん, ぎもい, ぼうさい, ぎもん, ぎもん</word>
+        <word>疑う, うたがお, さんせい, うたがう, たが, うたがう</word>
+        <word>引越し, ひっこし, ひつこし, しはい, きゅうへん, ひっこし</word>
+        <word>寄付, しゅっせき, きゅうそく, かいすう, きふ, きふ</word>
+        <word>遠慮, えいりょ, かんどう, えんりょ, ぎじどう, えんりょ</word>
+        <word>考慮, ほうそう, こりょ, ぼうえき, こうりょ, こうりょ</word>
+        <word>歴史, れきし, どりょく, はっぴょう, きんり, れきし</word>
+        <word>学歴, へんか, がくれき, つとめる, けいこく, がくれき</word>
+        <word>経歴, けいれき, てきとう, けいえい, たしか, けいれき</word>
+        <word>永久, きりつ, えいきゅ, えいきゅお, えいきゅう, えいきゅう</word>
+        <word>久しぶり, ひさしぶり, かんこう, こうがい, ほうそう, ひさしぶり</word>
+        <word>変化, へいか, へんか, あいて, ぶんぽう, へんか</word>
+        <word>文化, ぶいか, ぶんかい, ぶんか, こいびと, ぶんか</word>
+        <word>化学, きふ, がくれき, かがく, しょうはい, かがく</word>
+        <word>化粧, けしょお, けしょう, けしょ, しゅじゅつ, けしょう</word>
+        <word>法律, ほうりつ, せいど, えんりょ, ほりつ, ほうりつ</word>
+        <word>方法, ほうほお, ほほ, ほうほう, えいぞう, ほうほう</word>
+        <word>文法, ぶいぽう, ぶんぽお, ぶんぽ, ぶんぽう, ぶんぽう</word>
+        <word>作法, さほう, げんいん, さほ, さほお, さほう</word>
+        <word>規律, せいざ, けいれき, まいる, きりつ, きりつ</word>
+        <word>責任, せきにん, いそぐ, せきにい, ほじゅう, せきにん</word>
+        <word>任せる, まかせる, やくそく, はんたい, きょうじゅ, まかせる</word>
+        <word>信頼, しんらい, しんらう, せいじ, しいらい, しんらい</word>
+        <word>頼む, しゅっちょう, よういん, たのむ, くろう, たのむ</word>
+        <word>技術, きゅうこう, ぎじゅつ, ぎしゅつ, きわめる, ぎじゅつ</word>
+        <word>手術, きょうかん, しゅじゅつ, こうほ, しゅしゅつ, しゅじゅつ</word>
+        <word>芸術, げいじゅつ, ぶんぽう, げいしゅつ, げんしょう, げいじゅつ</word>
+        <word>医者, たすける, けいび, せいど, いしゃ, いしゃ</word>
+        <word>学者, りてん, がくしゃ, せんもん, こうぎょう, がくしゃ</word>
+        <word>作者, おまいり, さくしゃ, せんよう, せんもん, さくしゃ</word>
+        <word>読者, げんいん, どくしゃ, ぞうか, きゅうこう, どくしゃ</word>
+        <word>若者, じょしゅ, わかもの, きりつ, せんもん, わかもの</word>
+        <word>専門, かんしん, こくさい, せいもい, せんもん, せんもん</word>
+        <word>専用, せんよ, せんよお, せいよう, せんよう, せんよう</word>
+        <word>専攻, せいこう, せんこう, せんこ, せんこお, せんこう</word>
+        <word>研究, けんきゅ, けいきゅう, けんきゅお, けんきゅう, けんきゅう</word>
+        <word>究める, きわめる, せいりつ, けいこく, れきし, きわめる</word>
+        <word>調査, けいえい, ちょさ, ちょうさ, ほうほう, ちょうさ</word>
+        <word>検査, いどう, こんざつ, けいさ, けんさ, けんさ</word>
+        <word>審査, しいさ, ひょうげん, けいざい, しんさ, しんさ</word>
+        <word>審査員, かんしん, こうぎょう, しんさいん, しいさいい, しんさいん</word>
+        <word>増える, ふえる, ていき, しどう, ぜんいん, ふえる</word>
+        <word>増加, がくしゃ, ぞか, はなたば, ぞうか, ぞうか</word>
+        <word>減る, へる, もちもの, ししゅつ, かんこう, へる</word>
+        <word>減少, げんしょお, げんしょう, げいしょう, げんしょ, げんしょう</word>
+        <word>感心, しあい, わしょく, かんしん, かいしい, かんしん</word>
+        <word>感動, かんどお, かんど, かいどう, かんどう, かんどう</word>
+        <word>感謝, かんしゃ, かいしゃ, さぎょう, けいさつ, かんしゃ</word>
+        <word>情けない, きゅうじょ, なさけなう, なさけない, ひょうげん, なさけない</word>
+        <word>同情, どうしょう, どうじょお, どうじょう, どじょ, どうじょう</word>
+        <word>情報誌, しょうほうし, じょうほうし, じょほし, しゅよう, じょうほうし</word>
+        <word>恋人, こいびと, しはい, こうせき, がいちゅう, こいびと</word>
+        <word>恋愛, れんあい, れんあう, れいあい, たすける, れんあい</word>
+        <word>愛情, あいじょお, あいじょ, あいじょう, あいしょう, あいじょう</word>
+        <word>想像, そぞ, そうぞお, そうぞう, ほうほう, そうぞう</word>
+        <word>映像, えいぞ, えいぞう, えいぞお, かさい, えいぞう</word>
+        <word>仏像, えいぞう, ぶつぞお, ぶつぞう, ぶつぞ, ぶつぞう</word>
+        <word>理想, りそう, れきし, りそお, りそ, りそう</word>
+        <word>感想, かんそう, かんそお, かんそ, かいそう, かんそう</word>
+        <word>予想, よそお, りよう, よそ, よそう, よそう</word>
+        <word>回数, かいすう, こいびと, かいす, かいすお, かいすう</word>
+        <word>回復, かいふく, ぶんか, りよう, かんげい, かいふく</word>
+        <word>回答, かいと, かいとお, おんがえし, かいとう, かいとう</word>
+        <word>原因, げんいん, ひさしぶり, きりつ, げいいい, げんいん</word>
+        <word>要因, よういん, ぜんいん, よういい, よいん, よういん</word>
+        <word>勝敗, しょうはい, しょはい, しょうはう, おまいり, しょうはい</word>
+        <word>失敗, さんせん, しつぱい, しっぱい, しっぱう, しっぱい</word>
+        <word>勝つ, かくにん, ほぞん, かつ, どうじょう, かつ</word>
+        <word>負ける, ていど, きもち, まける, たのむ, まける</word>
+        <word>賛成, さいせい, さんせい, とっけん, さんせう, さんせい</word>
+        <word>成功, せいこお, だいひょう, せいこ, せいこう, せいこう</word>
+        <word>完成, かいせい, かんせう, くろう, かんせい, かんせい</word>
+        <word>成長, せいちょお, せいちょ, せいちょう, げきれい, せいちょう</word>
+        <word>成立, せいりつ, ぶんかい, てきよう, ひがい, せいりつ</word>
+        <word>約束, えんじょ, さくしゃ, やくそく, きじゅん, やくそく</word>
+        <word>予約, きそく, けんりょく, ほうこく, よやく, よやく</word>
+        <word>束ねる, えいきゅう, こいびと, たばねる, しどう, たばねる</word>
+        <word>花束, はなたば, ないよう, きゅうへん, しゅっせき, はなたば</word>
+        <word>返却, へんきゃく, へいきゃく, あいて, けっこん, へんきゃく</word>
+        <word>恩返し, おいがえし, かさい, かいけつ, おんがえし, おんがえし</word>
+        <word>追いつく, こうぎ, おいつく, れきし, よういん, おいつく</word>
+        <word>追加, かつ, しゅっちょう, すいがい, ついか, ついか</word>
+        <word>逃げる, けっこん, にげる, へんか, けってい, にげる</word>
+        <word>逃走, とうそう, とうそお, あんぜん, とそ, とうそう</word>
+        <word>適当, てきとお, せいりつ, てきと, てきとう, てきとう</word>
+        <word>適切, よういん, てきせつ, きもち, かいふく, てきせつ</word>
+        <word>快適, ふえる, るいすい, かいてき, がくれき, かいてき</word>
+        <word>適用, てきよう, てきよ, きんちょう, てきよお, てきよう</word>
+        <word>適応, じんるい, てきお, てきおお, てきおう, てきおう</word>
+        <word>過去, きゅうこう, かこ, つとめる, うたがう, かこ</word>
+        <word>過ごす, すごす, てきせつ, しんさいん, けいざい, すごす</word>
+        <word>通過, げきれいかい, つうか, ししゅつ, つか, つうか</word>
+        <word>過程, ふくそう, かてう, れんあい, かてい, かてい</word>
+        <word>程度, ていど, ほうほう, あいて, ぎじゅつ, ていど</word>
+        <word>日程, けんりょく, につてい, にってう, にってい, にってい</word>
+        <word>服装, へんか, ふくそう, ふくそお, ふくそ, ふくそう</word>
+        <word>装置, そうち, そち, ろうどう, せいちょう, そうち</word>
+        <word>衣装, いしょ, きそく, いしょお, いしょう, いしょう</word>
+        <word>包装, どうじょう, ほうそう, ほうそお, ほそ, ほうそう</word>
+        <word>補償, つとめる, ほしょお, ほしょ, ほしょう, ほしょう</word>
+        <word>補充, ほじゅお, ほしゅう, ほじゅう, ほじゅ, ほじゅう</word>
+        <word>補う, おぎなう, おぎなお, ぎじゅつ, おぎな, おぎなう</word>
+        <word>候補, よういん, こほ, あいて, こうほ, こうほ</word>
+        <word>補助, ほじょ, きゅうぞう, ほしょ, かがく, ほじょ</word>
+        <word>助手, しんらい, じょしゅ, さいがい, しょしゅ, じょしゅ</word>
+        <word>援助, てんきよほう, えんしょ, えいじょ, えんじょ, えんじょ</word>
+        <word>救助, きゅじょ, けつろん, きゅうじょ, きゅうしょ, きゅうじょ</word>
+        <word>助ける, たすける, さいこう, さほう, うつる, たすける</word>
+        <word>助言, じょげい, じょげん, しょげん, せいど, じょげん</word>
+        <word>解決, えんりょ, ざんぎょう, かいけつ, はげしい, かいけつ</word>
+        <word>解説, かいせつ, ひょうげん, せいど, たのむ, かいせつ</word>
+        <word>解放, かいほう, かいほお, どくしゃ, かいほ, かいほう</word>
+        <word>解散, ちょくせつ, かいさい, かいさん, かんこう, かいさん</word>
+        <word>分解, ぶんかい, ぶいかい, ぶんかう, おぎなう, ぶんかい</word>
+        <word>理解, りかい, ざんぎょう, りかう, ふえる, りかい</word>
+        <word>解く, しゅっちょう, こうざ, とく, つうきん, とく</word>
+        <word>誤解, ごかい, ごかう, ぎじどう, なさけない, ごかい</word>
+        <word>弁護士, べいごし, ぼうせき, べんごし, こうほ, べんごし</word>
+        <word>保護, はいたつ, ぼうさい, いじ, ほご, ほご</word>
+        <word>看護師, かいごし, えんりょ, さいしょ, かんごし, かんごし</word>
+        <word>警告, けいこく, せつび, へんか, しあい, けいこく</word>
+        <word>警察, けいさつ, どりょく, ともだち, けんきゅう, けいさつ</word>
+        <word>警備, なさけない, ぞうか, よういん, けいび, けいび</word>
+        <word>議論, いしょう, ぎろん, きわめる, ぎろい, ぎろん</word>
+        <word>議員, しはい, さいご, ぎいい, ぎいん, ぎいん</word>
+        <word>会議, きょうどう, こうこく, かいぎ, しんらい, かいぎ</word>
+        <word>議事堂, ぎじどう, ぎじど, ぎじどお, ぎしどう, ぎじどう</word>
+        <word>抗議, こぎ, こうぎ, はげしい, しゅじゅつ, こうぎ</word>
+        <word>講義, かろう, こぎ, きげん, こうぎ, こうぎ</word>
+        <word>講師, こし, こうし, ぶんるい, かんげい, こうし</word>
+        <word>休講, きゅうこう, きゅうこお, きゅこ, あんぜん, きゅうこう</word>
+        <word>座談会, ざだんかう, ざだんかい, はかまいり, ざだいかい, ざだんかい</word>
+        <word>講座, たすける, いしょう, こうざ, こざ, こうざ</word>
+        <word>座席, ざせき, ひっこし, ちょくせつ, こうこく, ざせき</word>
+        <word>星座, だいひょう, せいざ, えんりょ, きふ, せいざ</word>
+        <word>出席, しゅっせき, しゅつせき, けっせき, しゅせき, しゅっせき</word>
+        <word>欠席, とっけん, けっせき, けつせき, じょげん, けっせき</word>
+        <word>客席, まいる, きゃくせき, せきにん, しゅっせき, きゃくせき</word>
+        <word>首席, しゅせき, げんいん, おまいり, しゅっせき, しゅせき</word>
+        <word>種類, しゅるう, りそう, きょうかん, しゅるい, しゅるい</word>
+        <word>書類, げんきん, しょるう, しょうはい, しょるい, しょるい</word>
+        <word>分類, きゅうぞう, ぶいるい, ぶんるう, ぶんるい, ぶんるい</word>
+        <word>人類, じんるう, しんるい, じんるい, じいるい, じんるい</word>
+        <word>親類, しんるい, しんるう, きゅうぞう, しいるい, しんるい</word>
+        <word>似ている, にている, かんよ, しょうがい, かんけい, にている</word>
+        <word>類似, るいし, ていき, もちぬし, るいじ, るいじ</word>
+        <word>類推, せいざ, るいすう, るいすい, けんきゅう, るいすい</word>
+        <word>共通点, きょうつうてい, きょうつうてん, ざだんかい, きょつてん, きょうつうてん</word>
+        <word>共感, きょうかん, きょうかい, せいりつ, きょかん, きょうかん</word>
+        <word>共同, きょうどう, きょうどお, きょど, りてん, きょうどう</word>
+        <word>公共, こきょ, こうきょう, もちもの, こうきょお, こうきょう</word>
+        <word>共和国, きょわこく, きょうわこく, こうきょう, ぶんるい, きょうわこく</word>
+        <word>共働き, げんしょう, ほじゅう, ともばたらき, だいひょう, ともばたらき</word>
+        <word>共にする, きょうどう, はったつ, ともにする, えいきゅう, ともにする</word>
+        <word>防災, ぼうさい, ぼさい, きわめる, ぼうさう, ぼうさい</word>
+        <word>災害, さいがう, さいがい, ぎいん, こんざつ, さいがい</word>
+        <word>火災, かさい, かさう, せいど, さいご, かさい</word>
+        <word>水害, かねもち, すいがう, すいがい, さんか, すいがい</word>
+        <word>公害, こがい, こうがい, べんごし, こうがう, こうがい</word>
+        <word>障害, がくしゃ, しょうがう, しょうがい, しょがい, しょうがい</word>
+        <word>被害, たのむ, しゅるい, ひがう, ひがい, ひがい</word>
+        <word>害虫, がいちゅ, がいちゅお, れきし, がいちゅう, がいちゅう</word>
+        <word>利害, げきれい, さんしょう, りがい, りがう, りがい</word>
+        <word>利用, りよ, ちょくせつ, りよう, りよお, りよう</word>
+        <word>便利, けしょう, きゅうへん, べいり, べんり, べんり</word>
+        <word>利口, りこお, こうし, りこう, りこ, りこう</word>
+        <word>金利, ししゅつ, きゅうぞう, きいり, きんり, きんり</word>
+        <word>利点, きもち, りてい, きよ, りてん, りてん</word>
+        <word>勝利, しょり, しょうり, さくしゃ, げきれい, しょうり</word>
+        <word>権利, げんしょう, けんり, けいり, みとめる, けんり</word>
+        <word>政権, いじ, せいけん, まかせる, せいけい, せいけん</word>
+        <word>特権, ゆうじょう, とっけん, とつけん, とっけい, とっけん</word>
+        <word>権力, べんり, けんりょく, けいりょく, かんそう, けんりょく</word>
+        <word>支配, けんりょく, しはう, べんごし, しはい, しはい</word>
+        <word>支出, ししゅつ, けしょう, しょうじき, ほご, ししゅつ</word>
+        <word>支持, しじ, きゅうへん, しし, けっせき, しじ</word>
+        <word>維持, いじ, さいご, ていき, いし, いじ</word>
+        <word>気持ち, きもち, りがい, かいぎ, ざっし, きもち</word>
+        <word>金持ち, かねもち, しっぱい, じゅよ, きんり, かねもち</word>
+        <word>持ち物, まける, うつる, ぜんいん, もちもの, もちもの</word>
+        <word>持ち歩く, けつろん, きゃくせき, もちあるく, しんさいん, もちあるく</word>
+        <word>持ち主, せいちょう, こうきょう, ちょくせつ, もちぬし, もちぬし</word>
+        <word>主人, るいじ, しゅじい, しゅしん, しゅじん, しゅじん</word>
+        <word>主要, しゅよお, おまいり, しゅよ, しゅよう, しゅよう</word>
+        <word>主役, じゆう, しょうがい, せつび, しゅやく, しゅやく</word>
+        <word>主張, しゅちょお, しゅちょう, ていき, しゅちょ, しゅちょう</word>
+        <word>引張る, こうきょう, ひつぱる, にている, ひっぱる, ひっぱる</word>
+        <word>出張, しゅつちょう, しゅっちょお, しゅっちょ, しゅっちょう, しゅっちょう</word>
+        <word>緊張, きんちょう, きんちょ, きんちょお, きいちょう, きんちょう</word>
+        <word>緊急, きんきゅお, きいきゅう, きんきゅ, きんきゅう, きんきゅう</word>
+        <word>急行, きゅうこお, きゅこ, きゅうこう, せきにん, きゅうこう</word>
+        <word>急ぐ, いそぐ, げきれいかい, とく, してい, いそぐ</word>
+        <word>急速, きゅうそく, かつ, きゅそく, さいきん, きゅうそく</word>
+        <word>急変, きゅうへい, きゅへん, げんざい, きゅうへん, きゅうへん</word>
+        <word>急増, きゅうぞお, かつ, きゅぞ, きゅうぞう, きゅうぞう</word>
+        <word>急激, きゅうげき, きゅうこう, きゅげき, あいて, きゅうげき</word>
+        <word>激しい, きゅうこう, はげしい, せいど, はげしう, はげしい</word>
+        <word>感激, ほうそう, ひっこし, かいげき, かんげき, かんげき</word>
+        <word>刺激, しんるい, しげき, きょうどう, さいしょ, しげき</word>
+        <word>激励, げきれう, こうりょ, げきれい, かいほう, げきれい</word>
+        <word>激励会, げきれいかう, へいわ, げきれいかい, かんどう, げきれいかい</word>
+        <word>励ます, ほうそう, はげます, かろう, しょるい, はげます</word>
+        <word>励む, ぎもん, かいさん, うたがう, はげむ, はげむ</word>
+        <word>努力, はかまいり, いどう, かいすう, どりょく, どりょく</word>
+        <word>努める, よこく, てきよう, つとめる, きりつ, つとめる</word>
+        <word>労働, こうぎょう, ろうどお, ろうどう, ろど, ろうどう</word>
+        <word>過労, かろ, しゅよう, かろお, かろう, かろう</word>
+        <word>苦労, くろう, くろお, くろ, さんしょう, くろう</word>
+        <word>功績, こうせき, かんげき, こせき, ほうりつ, こうせき</word>
+        <word>実績, じつせき, ひさしぶり, じっせき, しっせき, じっせき</word>
+        <word>成績, せいせき, ていき, いそぐ, きゅうそく, せいせき</word>
+        <word>業績, けしょう, ぎょせき, きわめる, ぎょうせき, ぎょうせき</word>
+        <word>紡績, すいがい, ぼうせき, きふ, ぼせき, ぼうせき</word>
+        <word>工業, こうぎょう, こぎょ, こうぎょお, がいちゅう, こうぎょう</word>
+        <word>商業, しょうぎょう, しょうぎょお, せきにん, しょぎょ, しょうぎょう</word>
+        <word>農業, のぎょ, のうぎょお, のうぎょう, こうほ, のうぎょう</word>
+        <word>作業, あいて, さぎょう, さぎょお, さぎょ, さぎょう</word>
+        <word>卒業, おまいり, そつぎょ, そつぎょお, そつぎょう, そつぎょう</word>
+        <word>残業, ざんぎょお, ざいぎょう, ざんぎょう, ざんぎょ, ざんぎょう</word>
+        <word>休業, きゅうぎょお, がくしゃ, きゅうぎょう, きゅぎょ, きゅうぎょう</word>
+        <word>授業, しゅぎょう, じゅぎょう, じゅぎょお, じゅぎょ, じゅぎょう</word>
+        <word>教授, きょうじゅ, きょじゅ, けっこん, きょうしゅ, きょうじゅ</word>
+        <word>授権, じゅけい, うたがう, じゅけん, しゅけん, じゅけん</word>
+        <word>授かる, こいびと, さんかん, さずかる, のうぎょう, さずかる</word>
+        <word>授与, じゅよ, じんるい, かんげき, しゅよ, じゅよ</word>
+        <word>与える, わかもの, あたえる, へんか, せいげん, あたえる</word>
+        <word>給与, しょうじき, きゅよ, きゅうよ, じゅぎょう, きゅうよ</word>
+        <word>寄与, きじゅん, きよ, じょうほう, ぶんかい, きよ</word>
+        <word>関与, かんよ, よやく, かいよ, そうだん, かんよ</word>
+        <word>参加, けってい, こうし, さいか, さんか, さんか</word>
+        <word>参考, さんこお, さんこ, さんこう, さいこう, さんこう</word>
+        <word>参照, さんしょう, さんしょお, さいしょう, さんしょ, さんしょう</word>
+        <word>参る, しゅよう, しょうはい, まいる, いどう, まいる</word>
+        <word>お参り, がくれき, たしか, おまいり, りかい, おまいり</word>
+        <word>墓参り, きゅうじょ, とっけん, きょうつうてん, はかまいり, はかまいり</word>
+        <word>参観, さいかい, ないよう, さんかん, きゅうぞう, さんかん</word>
+        <word>参戦, さんせん, どりょく, ふくざつ, さいせい, さんせん</word>
+    <word>愛, love, hatred, sorrow, anger, love</word><word>案, plan, problem, answer, reason, plan</word><word>以, by means of, without, before, after, by means of</word><word>衣, clothes, shoes, food, house, clothes</word><word>囲, to surround, to open, to break, to build, to surround</word><word>胃, stomach, liver, heart, lungs, stomach</word><word>偉, great, small, weak, sad, great</word><word>印, mark, letter, sound, color, mark</word><word>栄, to flourish, to decrease, to end, to fall, to flourish</word><word>塩, salt, sugar, pepper, oil, salt</word><word>央, center, corner, top, bottom, center</word><word>黄, yellow, red, blue, green, yellow</word><word>屋, room, street, park, car, room</word><word>億, 100 million, 10 thousand, 1 million, 1 billion, 100 million</word><word>加, to add, to subtract, to remove, to divide, to add</word><word>果, fruit, vegetable, meat, drink, fruit</word><word>課, section manager, president, clerk, student, section manager</word><word>芽, sprout, flower, root, leaf, sprout</word><word>改, to reform, to break, to keep, to forget, to reform</word><word>械, machine, tool, vehicle, computer, machine</word><word>害, harm, benefit, help, peace, harm</word><word>各, each person, together, nobody, somebody, each person</word><word>覚, to remember, to forget, to sleep, to write, to remember</word><word>街, city street, mountain, river, forest, city street</word><word>管, pipe, box, bag, rope, pipe</word><word>関, to concern, to separate, to oppose, to destroy, to concern</word><word>観, sightseeing, working, studying, sleeping, sightseeing</word><word>願, to wish, to command, to refuse, to dislike, to wish</word><word>希, hope, fear, doubt, anger, hope</word><word>季, season, weather, temperature, day, season</word><word>紀, century, year, month, week, century</word><word>規, rule, opinion, story, news, rule</word><word>喜, to be glad, to cry, to get angry, to worry, to be glad</word><word>原, cause, result, purpose, future, cause</word><word>候, climate, season, wind, rain, climate</word><word>康, health, sickness, fatigue, danger, health</word><word>航, aviation, driving, walking, swimming, aviation</word><word>才, talent, effort, luck, money, talent</word><word>細, thin, thick, heavy, wide, thin</word><word>菜, vegetable, fruit, meat, fish, vegetable</word><word>坂, slope, flat land, lake, ocean, slope</word><word>昨, yesterday, tomorrow, today, next week, yesterday</word><word>札, banknote, coin, card, stamp, banknote</word><word>刷, printing, writing, reading, drawing, printing</word><word>材, material, product, waste, machine, material</word><word>残, to remain, to leave, to finish, to vanish, to remain</word><word>初, first time, finally, always, never, first time</word><word>省, energy saving, waste, expense, increase, energy saving</word><word>笑, to laugh, to cry, to shout, to sleep, to laugh</word><word>照, to illuminate, to hide, to turn off, to burn, to illuminate</word><word>象, elephant, lion, tiger, bear, elephant</word><word>賞, prize, penalty, loss, tax, prize</word><word>静, quiet, noisy, fast, bright, quiet</word><word>積, to accumulate, to scatter, to decrease, to melt, to accumulate</word><word>節, season, time, hour, minute, season</word><word>説, explanation, question, doubt, argument, explanation</word><word>浅, shallow, deep, dark, heavy, shallow</word><word>戦, to fight, to negotiate, to surrender, to rest, to fight</word><word>選, to choose, to reject, to lose, to buy, to choose</word><word>然, nature, artificial, city, building, nature</word><word>争, to compete, to agree, to help, to yield, to compete</word><word>創, creation, destruction, imitation, copy, creation</word><word>増, to increase, to decrease, to stop, to lose, to increase</word><word>測, to measure, to guess, to build, to cut, to measure</word><word>属, belonging to, separation, departure, freedom, belonging to</word><word>達, friends, stranger, enemy, boss, friends</word><word>短, short, long, tall, wide, short</word><word>置, to put, to take, to move, to throw, to put</word><word>適, suitable, unsuitable, bad, difficult, suitable</word><word>点, score, line, shape, color, score</word><word>伝, to convey, to hide, to forget, to deny, to convey</word><word>能, ability, inability, weakness, failure, ability</word><word>配, to distribute, to collect, to keep, to steal, to distribute</word><word>倍, double, half, zero, minus, double</word><word>非, emergency, ordinary, daily, usual, emergency</word><word>備, preparation, neglect, delay, forgetting, preparation</word><word>美, beautiful, ugly, dirty, scary, beautiful</word><word>表, display, hide, erase, deny, display</word><word>秒, second, minute, hour, day, second</word><word>不, inconvenient, convenient, easy, comfortable, inconvenient</word><word>夫婦, married couple, siblings, parents, friends, married couple</word><word>付, to attach, to remove, to break, to lose, to attach</word><word>府, Kyoto prefecture, city, town, village, Kyoto prefecture</word><word>副, vice president, president, manager, staff, vice president</word><word>複, review, preview, forgetting, single, review</word><word>払, to pay, to receive, to borrow, to lend, to pay</word><word>兵, soldier, civilian, doctor, teacher, soldier</word><word>平, peace, war, conflict, danger, peace</word><word>約, promise, refusal, lie, fight, promise</word><word>勇, courage, fear, cowardice, shame, courage</word><word>要, necessary, unnecessary, useless, extra, necessary</word><word>陽, sun, moon, star, cloud, sun</word><word>容, contents, surface, wrapper, title, contents</word><word>率, rate, total, number, amount, rate</word><word>留, study abroad, working, staying home, traveling, study abroad</word><word>類, kind, single item, size, weight, kind</word><word>例, for example, never, always, definitely, for example</word><word>冷, cold, hot, warm, spicy, cold</word><word>連, contact, isolation, disconnection, silence, contact</word><word>練, practice, study, rest, game, practice</word><word>路, road, house, river, mountain, road</word><word>和, Japanese food, Western food, drink, fruit, Japanese food</word><word>老, old person, child, student, teacher, old person</word><word>礼, thanks, polite bow, apology, complaint, polite bow</word><word>列, row, line, circle, box, line</word><word>労, hardship, labor, ease, joy, labor</word><word>陸, land, shore, sea, sky, shore</word><word>律, law, regulation, custom, habit, regulation</word><word>輪, ring, wheel, necklace, watch, wheel</word><word>農, agriculture, industry, commerce, tourism, agriculture</word><word>波, wave, wind, rain, snow, wave</word><word>把, grasp, understand, forget, lose, understand</word><word>覇, hegemony, supreme power, weakness, defeat, supreme power</word><word>板, board, plank, paper, glass, plank</word><word>版, publishing, edition, reading, writing, edition</word><word>犯, criminal, culprit, police, victim, culprit</word><word>班, group, squad, person, leader, squad</word><word>判, judgment, decision, doubt, mistake, decision</word><word>皮, skin, leather, peel, bone, peel</word><word>否, denial, negative, affirmation, agreement, negative</word><word>悲, sad, sorrowful, happy, angry, sorrowful</word><word>批, criticism, critique, praise, help, critique</word><word>秘, secret, news, story, rumor, secret</word><word>被, damage, victim, benefit, gift, victim</word><word>疲, to get tired, to rest, to run, to sleep, to get tired</word><word>費, cost, expense, income, profit, expense</word><word>飛, to fly, to walk, to swim, to dive, to fly</word><word>備, to prepare, equip, to neglect, to lose, equip</word><word>微, subtle, delicate, obvious, huge, delicate</word><word>必, without fail, surely, never, sometimes, surely</word><word>筆, writer, author, reader, listener, author</word><word>姫, princess, queen, king, prince, princess</word><word>百, hundred, thousand, ten, million, hundred</word><word>表, surface, front, back, inside, front</word><word>評, reputation, evaluation, secret, rumor, evaluation</word><word>標, target, goal, start, origin, goal</word><word>票, voting, ballot, reading, buying, ballot</word><word>氷, ice, water, steam, snow, ice</word><word>漂, to drift, float, to sink, to fly, float</word><word>品, goods, article, person, place, article</word><word>婦, housewife, husband, child, worker, housewife</word><word>富, wealth, riches, poverty, debt, riches</word><word>布, cloth, fabric, paper, wood, fabric</word><word>怖, frightening, scary, kind, gentle, scary</word><word>扶, aid, support, harm, hinder, support</word><word>浮, to float, to sink, to drop, to fall, to float</word><word>父, father, mother, brother, sister, father</word><word>符, ticket, sign, book, bag, sign</word><word>腐, to rot, spoil, to grow, to clean, spoil</word><word>敷, to spread, pave, to roll, to clean, pave</word><word>膚, skin, bone, blood, muscle, skin</word><word>賦, tribute, quota, debt, gift, quota</word><word>譜, sheet music, score, book, letter, score</word><word>舞, to dance, to sing, to draw, to run, to dance</word><word>武, martial arts, music, art, dance, martial arts</word><word>部, room, part, section, street, section</word><word>封, envelope, box, bag, drawer, envelope</word><word>風, wind, breeze, rain, snow, breeze</word><word>伏, to lie down, shield, to stand, to jump, shield</word><word>副, vice-, assistant, chief, head, assistant</word><word>復, review, preview, forgetting, test, review</word><word>幅, width, breadth, height, depth, breadth</word><word>服, clothes, shoes, hat, glasses, clothes</word><word>福, happiness, blessing, sadness, misfortune, blessing</word><word>払, payment, income, receipt, debt, payment</word><word>噴, fountain, river, lake, ocean, fountain</word><word>墳, tomb, mound, house, tower, mound</word><word>文, sentence, text, picture, sound, text</word><word>聞, to hear, listen, to see, to speak, listen</word><word>丙, third class, C grade, first class, second class, C grade</word><word>併, concurrent, side by side, single, separate, side by side</word><word>兵, soldier, military, police, civilian, military</word><word>塀, fence, wall, door, window, wall</word><word>幣, currency, banknote, coin, check, banknote</word><word>平, flat, level, calm, steep, calm</word><word>弊, evil, harmful effect, benefit, good, harmful effect</word><word>柄, pattern, design, color, shape, design</word><word>並, to line up, stand side by side, to scatter, to fall, stand side by side</word><word>蔽, concealment, cover, disclosure, reveal, cover</word><word>餅, rice cake, bread, noodle, soup, rice cake</word><word>壁, wall, door, window, floor, wall</word><word>璧, perfection, flawlessness, failure, mistake, flawlessness</word><word>癖, habit, peculiarity, rule, law, peculiarity</word><word>変, strange, odd, normal, ordinary, odd</word><word>片, one side, one of pair, both sides, center, one of pair</word><word>編, editing, compilation, writing, reading, compilation</word><word>辺, neighborhood, vicinity, faraway, center, vicinity</word><word>返, to return, give back, to keep, to take, give back</word><word>遍, universal, ubiquitous, rare, local, ubiquitous</word><word>便, convenient, inconvenient, hard, slow, convenient</word><word>勉, study, play, sleep, rest, study</word><word>弁, bento, boxed lunch, soup, bread, boxed lunch</word><word>保, preservation, save, delete, destroy, save</word><word>捕, to catch, arrest, to release, to lose, arrest</word><word>歩, to walk, to run, to fly, to drive, to walk</word><word>補, supplement, replenish, empty, reduce, replenish</word><word>穂, ear of grain, head, root, leaf, head</word><word>募, recruitment, refusal, firing, dismissal, recruitment</word><word>墓, grave, tomb, house, park, tomb</word><word>暮, to live, spend time, to leave, to die, spend time</word><word>母, mother, father, sister, brother, mother</word><word>簿, account book, ledger, novel, newspaper, ledger</word><word>倣, imitation, copy, original, creation, copy</word><word>俸, salary, pay, expense, tax, pay</word><word>包, to wrap, pack, to open, to break, pack</word><word>報, report, information, secret, question, information</word><word>奉, service, dedication, refusal, laziness, dedication</word><word>宝, treasure, trash, stone, water, treasure</word><word>峰, peak, summit, valley, ocean, summit</word><word>砲, gun, cannon, sword, shield, cannon</word><word>崩, to collapse, crumble, to build, to stand, crumble</word></option>
+</khanjis>
