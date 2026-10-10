@@ -46,7 +46,7 @@
     <app>
         <name>JLPT N4</name>
         <icon>https://biplovkhatri.com.np/applist/Images/n4.png</icon>
-        <description>JLPT N4 is an app designed to help users prepare for the Japanese Language Proficiency Test (JLPT) at the N5 level. It offers a variety of study materials, including vocabulary lists, grammar explanations, practice questions, and mock tests to enhance learning and improve test-taking skills.</description>
+        <description>JLPT N4 is an app designed to help users prepare for the Japanese Language Proficiency Test (JLPT) at the N4 level. It offers a variety of study materials, including vocabulary lists, grammar explanations, practice questions, and mock tests to enhance learning and improve test-taking skills.</description>
         <android></android>
         <ios>https://apps.apple.com/us/app/jlpt-n4/id6776054153</ios>
         <appid>6</appid>
