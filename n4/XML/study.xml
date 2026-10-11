@@ -2,15 +2,6 @@
 <root>
     <entry>
         <name>Kanji</name>
-        <link>https://biplovkhatri.com.np/JLPTN5/PDF/Kanji-flashcard.pdf</link>
+        <link>https://biplovkhatri.com.np/JLPTN5/PDF/jlpt-n4-kanji-list.pdf</link>
     </entry>
-    <entry>
-        <name>Grammar</name>
-        <link>https://biplovkhatri.com.np/JLPTN5/PDF/JLPT-N5-GRAMMAR-LIST-3.pdf</link>
-    </entry>
-
-    <entry>
-        <name>Vocabulary</name>
-        <link>https://biplovkhatri.com.np/JLPTN5/PDF/N5-vocab-flashcard.pdf</link>
-    </entry>
-</root>
+    </root>
