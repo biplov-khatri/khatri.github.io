@@ -30,7 +30,7 @@
         <name>NRNA Nagoya</name>
         <description> App developed for NRNA Nagoya where latest updates about the organization is provided</description>
         <icon>https://biplovkhatri.com.np/applist/Images/nrna.png</icon>
-        <android></android>
+        <android>https://play.google.com/store/apps/details?id=com.nrna.nagoya</android>
         <ios>https://apps.apple.com/us/app/nrna-nagoya/id6761303611</ios>
         <appid>4</appid>
     </app>
@@ -59,4 +59,14 @@
         <ios>https://apps.apple.com/jp/app/jlpt-n3-practice-mock-exam/id6821230372</ios>
         <appid>7</appid>
     </app>
+    
+    <app>
+        <name>Sudoku Game</name>
+        <icon>https://biplovkhatri.com.np/applist/Images/sudoku.png</icon>
+        <description>JChallenge your mind with Sudoku, the classic number puzzle game! Fill the 9×9 grid so every row, column, and 3×3 box contains the numbers 1-9 without repetition. Enjoy endless puzzles, multiple difficulty levels, hints, and a clean, intuitive design perfect for players of all ages. Train your logic, improve concentration, and have fun anytime, anywhere..</description>
+        <android></android>
+        <ios>https://apps.apple.com/us/app/sudoku-net/id6822001424</ios>
+        <appid>8</appid>
+    </app>
 </apps>
+
